@@ -1,0 +1,218 @@
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00054.mpls
+Duration: 0:00:29
+Chapters count: 3
+Size: 34.2 MB
+Segment count: 1
+Segment map: 17
+File name: BATMAN™- The Complete Animated Series Disc 9_t00.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00120.mpls
+Duration: 0:00:02
+Chapters count: 2
+Size: 0.3 MB
+Segment count: 1
+Segment map: 199
+File name: BATMAN™- The Complete Animated Series Disc 9_t01.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00055.mpls
+Duration: 0:05:40
+Chapters count: 34
+Size: 169.9 MB
+Segment count: 1
+Segment map: 103
+File name: BATMAN™- The Complete Animated Series Disc 9_t02.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00071.mpls
+Duration: 0:21:01
+Chapters count: 5
+Size: 2.8 GB
+Segment count: 1
+Segment map: 268
+File name: BATMAN™- The Complete Animated Series Disc 9_t03.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00017.mpls
+Duration: 0:00:08
+Chapters count: 2
+Size: 1.8 MB
+Segment count: 2
+Segment map: 50,51
+File name: BATMAN™- The Complete Animated Series Disc 9_t04.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00049.mpls
+Duration: 0:00:03
+Chapters count: 1
+Size: 0.0 MB
+Segment count: 3
+Segment map: 81,82,84
+File name: BATMAN™- The Complete Animated Series Disc 9_t05.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00072.mpls
+Duration: 0:21:09
+Chapters count: 5
+Size: 2.9 GB
+Segment count: 1
+Segment map: 269
+File name: BATMAN™- The Complete Animated Series Disc 9_t06.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00073.mpls
+Duration: 0:21:28
+Chapters count: 5
+Size: 2.8 GB
+Segment count: 1
+Segment map: 270
+File name: BATMAN™- The Complete Animated Series Disc 9_t07.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00074.mpls
+Duration: 0:21:08
+Chapters count: 5
+Size: 2.8 GB
+Segment count: 1
+Segment map: 271
+File name: BATMAN™- The Complete Animated Series Disc 9_t08.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00075.mpls
+Duration: 0:21:19
+Chapters count: 5
+Size: 2.8 GB
+Segment count: 1
+Segment map: 272
+File name: BATMAN™- The Complete Animated Series Disc 9_t09.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00076.mpls
+Duration: 0:21:38
+Chapters count: 5
+Size: 2.9 GB
+Segment count: 1
+Segment map: 273
+File name: BATMAN™- The Complete Animated Series Disc 9_t10.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00077.mpls
+Duration: 0:20:25
+Chapters count: 5
+Size: 2.8 GB
+Segment count: 1
+Segment map: 274
+File name: BATMAN™- The Complete Animated Series Disc 9_t11.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00078.mpls
+Duration: 0:21:20
+Chapters count: 5
+Size: 2.8 GB
+Segment count: 1
+Segment map: 275
+File name: BATMAN™- The Complete Animated Series Disc 9_t12.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00079.mpls
+Duration: 0:21:36
+Chapters count: 5
+Size: 2.9 GB
+Segment count: 1
+Segment map: 276
+File name: BATMAN™- The Complete Animated Series Disc 9_t13.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00080.mpls
+Duration: 0:21:36
+Chapters count: 5
+Size: 2.9 GB
+Segment count: 1
+Segment map: 277
+File name: BATMAN™- The Complete Animated Series Disc 9_t14.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00081.mpls
+Duration: 0:21:24
+Chapters count: 5
+Size: 2.8 GB
+Segment count: 1
+Segment map: 278
+File name: BATMAN™- The Complete Animated Series Disc 9_t15.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00082.mpls
+Duration: 0:21:11
+Chapters count: 5
+Size: 2.8 GB
+Segment count: 1
+Segment map: 279
+File name: BATMAN™- The Complete Animated Series Disc 9_t16.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00201.mpls
+Duration: 0:21:09
+Chapters count: 5
+Size: 2.9 GB
+Segment count: 1
+Segment map: 269
+File name: BATMAN™- The Complete Animated Series Disc 9_t17.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00202.mpls
+Duration: 0:20:25
+Chapters count: 5
+Size: 2.8 GB
+Segment count: 1
+Segment map: 274
+File name: BATMAN™- The Complete Animated Series Disc 9_t18.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00004.m2ts
+Duration: 0:00:13
+Size: 44.3 MB
+Segment count: 1
+Segment map: 4
+File name: BATMAN™- The Complete Animated Series Disc 9_t19.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00015.m2ts
+Duration: 0:00:23
+Size: 28.3 MB
+Segment count: 1
+Segment map: 15
+File name: BATMAN™- The Complete Animated Series Disc 9_t20.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00050.m2ts
+Duration: 0:00:04
+Size: 1.1 MB
+Segment count: 1
+Segment map: 50
+File name: BATMAN™- The Complete Animated Series Disc 9_t21.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00051.m2ts
+Duration: 0:00:04
+Size: 0.7 MB
+Segment count: 1
+Segment map: 51
+File name: BATMAN™- The Complete Animated Series Disc 9_t22.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00009.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 9
+File name: BATMAN™- The Complete Animated Series Disc 9_t23.mkv
+
+Name: BATMAN™: The Complete Animated Series Disc 9 (English)
+Source file name: 00008.m2ts
+Duration: 0:00:07
+Size: 0.6 MB
+Segment count: 1
+Segment map: 8
+File name: BATMAN™- The Complete Animated Series Disc 9_t24.mkv
