@@ -1,0 +1,740 @@
+Name: Spider-Man (2002)
+Type: MainMovie
+Year: 2002
+Source file name: 00001.mpls
+Duration: 2:01:12
+Chapters count: 16
+Size: 30.3 GB
+Segment count: 1
+Segment map: 1
+File name: Spider-Man (2002) - [1080p].mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00171.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.5 MB
+Segment count: 1
+Segment map: 171
+File name: Spider-Man (2002) - Collector's Edition_t00.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00102.mpls
+Duration: 0:04:47
+Chapters count: 7
+Size: 308.1 MB
+Segment count: 1
+Segment map: 102
+File name: Spider-Man (2002) - Collector's Edition_t01.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00186.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 186
+File name: Spider-Man (2002) - Collector's Edition_t02.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00206.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 206
+File name: Spider-Man (2002) - Collector's Edition_t03.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00207.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 207
+File name: Spider-Man (2002) - Collector's Edition_t04.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00210.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 209
+File name: Spider-Man (2002) - Collector's Edition_t05.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00213.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.5 MB
+Segment count: 1
+Segment map: 213
+File name: Spider-Man (2002) - Collector's Edition_t06.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00216.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 0.6 MB
+Segment count: 1
+Segment map: 216
+File name: Spider-Man (2002) - Collector's Edition_t07.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00217.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 0.9 MB
+Segment count: 1
+Segment map: 217
+File name: Spider-Man (2002) - Collector's Edition_t08.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00218.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 0.6 MB
+Segment count: 1
+Segment map: 218
+File name: Spider-Man (2002) - Collector's Edition_t09.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00219.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 0.9 MB
+Segment count: 1
+Segment map: 219
+File name: Spider-Man (2002) - Collector's Edition_t10.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00095.mpls
+Duration: 0:15:03
+Chapters count: 2
+Size: 1.4 GB
+Segment count: 2
+Segment map: 98,99
+File name: Spider-Man (2002) - Collector's Edition_t12.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00096.mpls
+Duration: 0:07:32
+Chapters count: 2
+Size: 738.7 MB
+Segment count: 2
+Segment map: 97,99
+File name: Spider-Man (2002) - Collector's Edition_t13.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00342.mpls
+Duration: 0:14:30
+Chapters count: 2
+Size: 701.6 MB
+Segment count: 2
+Segment map: 338,339
+File name: Spider-Man (2002) - Collector's Edition_t14.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00350.mpls
+Duration: 0:32:18
+Chapters count: 7
+Size: 1.5 GB
+Segment count: 8
+Segment map: 340,341,342,343,344,345,346,347
+File name: Spider-Man (2002) - Collector's Edition_t15.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00352.mpls
+Duration: 0:08:49
+Chapters count: 1
+Size: 426.9 MB
+Segment count: 2
+Segment map: 340,347
+File name: Spider-Man (2002) - Collector's Edition_t16.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00353.mpls
+Duration: 0:06:43
+Chapters count: 1
+Size: 325.2 MB
+Segment count: 2
+Segment map: 341,347
+File name: Spider-Man (2002) - Collector's Edition_t17.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00354.mpls
+Duration: 0:01:53
+Chapters count: 1
+Size: 91.3 MB
+Segment count: 2
+Segment map: 342,347
+File name: Spider-Man (2002) - Collector's Edition_t18.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00355.mpls
+Duration: 0:03:11
+Chapters count: 1
+Size: 153.9 MB
+Segment count: 2
+Segment map: 343,347
+File name: Spider-Man (2002) - Collector's Edition_t19.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00356.mpls
+Duration: 0:02:42
+Chapters count: 1
+Size: 129.6 MB
+Segment count: 2
+Segment map: 344,347
+File name: Spider-Man (2002) - Collector's Edition_t20.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00357.mpls
+Duration: 0:03:47
+Chapters count: 1
+Size: 181.9 MB
+Segment count: 2
+Segment map: 345,347
+File name: Spider-Man (2002) - Collector's Edition_t21.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00358.mpls
+Duration: 0:07:29
+Chapters count: 1
+Size: 362.3 MB
+Segment count: 2
+Segment map: 346,347
+File name: Spider-Man (2002) - Collector's Edition_t22.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00364.mpls
+Duration: 0:05:21
+Chapters count: 4
+Size: 254.6 MB
+Segment count: 5
+Segment map: 348,349,350,351,352
+File name: Spider-Man (2002) - Collector's Edition_t23.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00365.mpls
+Duration: 0:01:19
+Chapters count: 1
+Size: 62.6 MB
+Segment count: 2
+Segment map: 348,352
+File name: Spider-Man (2002) - Collector's Edition_t24.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00366.mpls
+Duration: 0:00:55
+Chapters count: 1
+Size: 44.5 MB
+Segment count: 2
+Segment map: 349,352
+File name: Spider-Man (2002) - Collector's Edition_t25.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00367.mpls
+Duration: 0:00:27
+Chapters count: 1
+Size: 21.6 MB
+Segment count: 2
+Segment map: 350,352
+File name: Spider-Man (2002) - Collector's Edition_t26.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00368.mpls
+Duration: 0:03:01
+Chapters count: 1
+Size: 142.4 MB
+Segment count: 2
+Segment map: 351,352
+File name: Spider-Man (2002) - Collector's Edition_t27.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00378.mpls
+Duration: 0:09:12
+Chapters count: 6
+Size: 440.6 MB
+Segment count: 7
+Segment map: 355,356,357,358,359,360,361
+File name: Spider-Man (2002) - Collector's Edition_t28.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00379.mpls
+Duration: 0:02:26
+Chapters count: 1
+Size: 115.0 MB
+Segment count: 2
+Segment map: 355,361
+File name: Spider-Man (2002) - Collector's Edition_t29.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00380.mpls
+Duration: 0:01:59
+Chapters count: 1
+Size: 96.1 MB
+Segment count: 2
+Segment map: 356,361
+File name: Spider-Man (2002) - Collector's Edition_t30.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00381.mpls
+Duration: 0:03:28
+Chapters count: 1
+Size: 168.7 MB
+Segment count: 2
+Segment map: 357,361
+File name: Spider-Man (2002) - Collector's Edition_t31.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00382.mpls
+Duration: 0:00:35
+Chapters count: 1
+Size: 28.2 MB
+Segment count: 2
+Segment map: 358,361
+File name: Spider-Man (2002) - Collector's Edition_t32.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00383.mpls
+Duration: 0:00:35
+Chapters count: 1
+Size: 28.2 MB
+Segment count: 2
+Segment map: 359,361
+File name: Spider-Man (2002) - Collector's Edition_t33.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00384.mpls
+Duration: 0:00:36
+Chapters count: 1
+Size: 28.2 MB
+Segment count: 2
+Segment map: 360,361
+File name: Spider-Man (2002) - Collector's Edition_t34.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00100.m2ts
+Duration: 0:00:14
+Size: 24.0 MB
+Segment count: 1
+Segment map: 100
+File name: Spider-Man (2002) - Collector's Edition_t35.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00099.m2ts
+Duration: 0:07:31
+Size: 735.2 MB
+Segment count: 1
+Segment map: 99
+File name: Spider-Man (2002) - Collector's Edition_t36.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00103.m2ts
+Duration: 0:00:00
+Size: 0.4 MB
+Segment count: 1
+Segment map: 103
+File name: Spider-Man (2002) - Collector's Edition_t37.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00104.m2ts
+Duration: 0:00:00
+Size: 0.4 MB
+Segment count: 1
+Segment map: 104
+File name: Spider-Man (2002) - Collector's Edition_t38.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00116.m2ts
+Duration: 0:00:11
+Size: 25.9 MB
+Segment count: 1
+Segment map: 116
+File name: Spider-Man (2002) - Collector's Edition_t39.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00205.m2ts
+Duration: 0:00:05
+Size: 11.2 MB
+Segment count: 1
+Segment map: 205
+File name: Spider-Man (2002) - Collector's Edition_t40.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00097.m2ts
+Duration: 0:00:01
+Size: 3.5 MB
+Segment count: 1
+Segment map: 97
+File name: Spider-Man (2002) - Collector's Edition_t41.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00098.m2ts
+Duration: 0:07:31
+Size: 735.2 MB
+Segment count: 1
+Segment map: 98
+File name: Spider-Man (2002) - Collector's Edition_t42.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00208.m2ts
+Duration: 0:00:11
+Size: 24.8 MB
+Segment count: 1
+Segment map: 208
+File name: Spider-Man (2002) - Collector's Edition_t43.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00080.m2ts
+Duration: 0:00:16
+Size: 2.0 MB
+Segment count: 1
+Segment map: 80
+File name: Spider-Man (2002) - Collector's Edition_t44.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00081.m2ts
+Duration: 0:00:10
+Size: 1.0 MB
+Segment count: 1
+Segment map: 81
+File name: Spider-Man (2002) - Collector's Edition_t45.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00249.m2ts
+Duration: 0:00:01
+Size: 0.1 MB
+Segment count: 1
+Segment map: 249
+File name: Spider-Man (2002) - Collector's Edition_t46.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00220.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 220
+File name: Spider-Man (2002) - Collector's Edition_t47.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00228.m2ts
+Duration: 0:00:00
+Size: 0.1 MB
+Segment count: 1
+Segment map: 228
+File name: Spider-Man (2002) - Collector's Edition_t48.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00221.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 221
+File name: Spider-Man (2002) - Collector's Edition_t49.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00222.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 222
+File name: Spider-Man (2002) - Collector's Edition_t50.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00223.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 223
+File name: Spider-Man (2002) - Collector's Edition_t51.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00224.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 224
+File name: Spider-Man (2002) - Collector's Edition_t52.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00225.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 225
+File name: Spider-Man (2002) - Collector's Edition_t53.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00226.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 226
+File name: Spider-Man (2002) - Collector's Edition_t54.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00227.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 227
+File name: Spider-Man (2002) - Collector's Edition_t55.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00229.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 229
+File name: Spider-Man (2002) - Collector's Edition_t56.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00082.m2ts
+Duration: 0:00:10
+Size: 1.0 MB
+Segment count: 1
+Segment map: 82
+File name: Spider-Man (2002) - Collector's Edition_t57.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00334.m2ts
+Duration: 0:25:28
+Size: 1.2 GB
+Segment count: 1
+Segment map: 334
+File name: Spider-Man (2002) - Collector's Edition_t58.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00335.m2ts
+Duration: 0:24:41
+Size: 1.1 GB
+Segment count: 1
+Segment map: 335
+File name: Spider-Man (2002) - Collector's Edition_t59.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00336.m2ts
+Duration: 0:40:31
+Size: 1.9 GB
+Segment count: 1
+Segment map: 336
+File name: Spider-Man (2002) - Collector's Edition_t60.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00337.m2ts
+Duration: 0:03:09
+Size: 151.7 MB
+Segment count: 1
+Segment map: 337
+File name: Spider-Man (2002) - Collector's Edition_t61.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00338.m2ts
+Duration: 0:07:04
+Size: 343.2 MB
+Segment count: 1
+Segment map: 338
+File name: Spider-Man (2002) - Collector's Edition_t62.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00339.m2ts
+Duration: 0:07:26
+Size: 358.4 MB
+Segment count: 1
+Segment map: 339
+File name: Spider-Man (2002) - Collector's Edition_t63.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00340.m2ts
+Duration: 0:08:26
+Size: 408.7 MB
+Segment count: 1
+Segment map: 340
+File name: Spider-Man (2002) - Collector's Edition_t64.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00341.m2ts
+Duration: 0:06:19
+Size: 307.0 MB
+Segment count: 1
+Segment map: 341
+File name: Spider-Man (2002) - Collector's Edition_t65.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00342.m2ts
+Duration: 0:01:30
+Size: 73.1 MB
+Segment count: 1
+Segment map: 342
+File name: Spider-Man (2002) - Collector's Edition_t66.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00343.m2ts
+Duration: 0:02:48
+Size: 135.8 MB
+Segment count: 1
+Segment map: 343
+File name: Spider-Man (2002) - Collector's Edition_t67.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00344.m2ts
+Duration: 0:02:19
+Size: 111.5 MB
+Segment count: 1
+Segment map: 344
+File name: Spider-Man (2002) - Collector's Edition_t68.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00345.m2ts
+Duration: 0:03:24
+Size: 163.7 MB
+Segment count: 1
+Segment map: 345
+File name: Spider-Man (2002) - Collector's Edition_t69.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00346.m2ts
+Duration: 0:07:06
+Size: 344.1 MB
+Segment count: 1
+Segment map: 346
+File name: Spider-Man (2002) - Collector's Edition_t70.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00347.m2ts
+Duration: 0:00:23
+Size: 18.1 MB
+Segment count: 1
+Segment map: 347
+File name: Spider-Man (2002) - Collector's Edition_t71.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00348.m2ts
+Duration: 0:01:12
+Size: 57.1 MB
+Segment count: 1
+Segment map: 348
+File name: Spider-Man (2002) - Collector's Edition_t72.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00349.m2ts
+Duration: 0:00:48
+Size: 38.9 MB
+Segment count: 1
+Segment map: 349
+File name: Spider-Man (2002) - Collector's Edition_t73.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00350.m2ts
+Duration: 0:00:20
+Size: 16.0 MB
+Segment count: 1
+Segment map: 350
+File name: Spider-Man (2002) - Collector's Edition_t74.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00351.m2ts
+Duration: 0:02:53
+Size: 136.9 MB
+Segment count: 1
+Segment map: 351
+File name: Spider-Man (2002) - Collector's Edition_t75.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00352.m2ts
+Duration: 0:00:07
+Size: 5.5 MB
+Segment count: 1
+Segment map: 352
+File name: Spider-Man (2002) - Collector's Edition_t76.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00353.m2ts
+Duration: 0:03:25
+Size: 161.5 MB
+Segment count: 1
+Segment map: 353
+File name: Spider-Man (2002) - Collector's Edition_t77.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00354.m2ts
+Duration: 0:03:36
+Size: 170.5 MB
+Segment count: 1
+Segment map: 354
+File name: Spider-Man (2002) - Collector's Edition_t78.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00355.m2ts
+Duration: 0:02:20
+Size: 110.2 MB
+Segment count: 1
+Segment map: 355
+File name: Spider-Man (2002) - Collector's Edition_t79.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00356.m2ts
+Duration: 0:01:53
+Size: 91.3 MB
+Segment count: 1
+Segment map: 356
+File name: Spider-Man (2002) - Collector's Edition_t80.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00357.m2ts
+Duration: 0:03:22
+Size: 163.9 MB
+Segment count: 1
+Segment map: 357
+File name: Spider-Man (2002) - Collector's Edition_t81.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00358.m2ts
+Duration: 0:00:29
+Size: 23.4 MB
+Segment count: 1
+Segment map: 358
+File name: Spider-Man (2002) - Collector's Edition_t82.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00359.m2ts
+Duration: 0:00:29
+Size: 23.4 MB
+Segment count: 1
+Segment map: 359
+File name: Spider-Man (2002) - Collector's Edition_t83.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00360.m2ts
+Duration: 0:00:29
+Size: 23.4 MB
+Segment count: 1
+Segment map: 360
+File name: Spider-Man (2002) - Collector's Edition_t84.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00361.m2ts
+Duration: 0:00:06
+Size: 4.8 MB
+Segment count: 1
+Segment map: 361
+File name: Spider-Man (2002) - Collector's Edition_t85.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00362.m2ts
+Duration: 0:02:33
+Size: 350.0 MB
+Segment count: 1
+Segment map: 362
+File name: Spider-Man (2002) - Collector's Edition_t86.mkv
+
+Name: Spider-Man (2002) - Collector's Edition (English)
+Source file name: 00363.m2ts
+Duration: 0:01:19
+Size: 180.2 MB
+Segment count: 1
+Segment map: 363
+File name: Spider-Man (2002) - Collector's Edition_t87.mkv

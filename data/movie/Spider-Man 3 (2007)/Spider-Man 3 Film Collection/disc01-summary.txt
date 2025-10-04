@@ -1,0 +1,254 @@
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00216.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 0.7 MB
+Segment count: 1
+Segment map: 216
+File name: Spider-Man 3 (2007)_t00.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00217.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 1.0 MB
+Segment count: 1
+Segment map: 217
+File name: Spider-Man 3 (2007)_t01.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00218.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 0.7 MB
+Segment count: 1
+Segment map: 218
+File name: Spider-Man 3 (2007)_t02.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00219.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 1.0 MB
+Segment count: 1
+Segment map: 219
+File name: Spider-Man 3 (2007)_t03.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00213.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.4 MB
+Segment count: 1
+Segment map: 213
+File name: Spider-Man 3 (2007)_t04.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00186.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.4 MB
+Segment count: 1
+Segment map: 186
+File name: Spider-Man 3 (2007)_t05.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00206.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.4 MB
+Segment count: 1
+Segment map: 206
+File name: Spider-Man 3 (2007)_t06.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00207.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.4 MB
+Segment count: 1
+Segment map: 207
+File name: Spider-Man 3 (2007)_t07.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00210.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.4 MB
+Segment count: 1
+Segment map: 209
+File name: Spider-Man 3 (2007)_t08.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00171.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.4 MB
+Segment count: 1
+Segment map: 171
+File name: Spider-Man 3 (2007)_t09.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00102.mpls
+Duration: 0:03:36
+Chapters count: 22
+Size: 7.3 MB
+Segment count: 1
+Segment map: 102
+File name: Spider-Man 3 (2007)_t10.mkv
+
+Name: Spider-Man 3 (2007)
+Type: MainMovie
+Year: 2007
+Source file name: 00245.mpls
+Angle: 1
+Duration: 2:19:10
+Chapters count: 16
+Size: 73.0 GB
+Segment count: 3
+Segment map: 339,1,336
+File name: Spider-Man 3 (2007) - [2160p].mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00245.mpls
+Angle: 2
+Duration: 2:19:10
+Chapters count: 16
+Size: 72.9 GB
+Segment count: 3
+Segment map: 340,1,338
+File name: Spider-Man 3 (2007)_t12.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00246.mpls
+Angle: 1
+Duration: 2:19:10
+Chapters count: 16
+Size: 73.0 GB
+Segment count: 3
+Segment map: 339,1,336
+File name: Spider-Man 3 (2007)_t13.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00246.mpls
+Angle: 2
+Duration: 2:19:10
+Chapters count: 16
+Size: 72.9 GB
+Segment count: 3
+Segment map: 340,1,338
+File name: Spider-Man 3 (2007)_t14.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00249.mpls(1)
+Duration: 2:13:58
+Chapters count: 3
+Size: 71.2 GB
+Segment count: 1
+Segment map: 1
+File name: Spider-Man 3 (2007)_t15.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00253.mpls(1)
+Duration: 2:13:58
+Chapters count: 3
+Size: 71.2 GB
+Segment count: 1
+Segment map: 1
+File name: Spider-Man 3 (2007)_t16.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00100.m2ts
+Duration: 0:00:14
+Size: 40.7 MB
+Segment count: 1
+Segment map: 100
+File name: Spider-Man 3 (2007)_t17.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00104.m2ts
+Duration: 0:00:00
+Size: 0.4 MB
+Segment count: 1
+Segment map: 104
+File name: Spider-Man 3 (2007)_t18.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00104.m2ts
+Duration: 0:00:00
+Size: 0.4 MB
+Segment count: 1
+Segment map: 104
+File name: Spider-Man 3 (2007)_t18.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00001.m2ts
+Duration: 2:13:58
+Size: 71.2 GB
+Segment count: 1
+Segment map: 1
+File name: Spider-Man 3 (2007)_t19.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00116.m2ts
+Duration: 0:00:11
+Size: 11.4 MB
+Segment count: 1
+Segment map: 116
+File name: Spider-Man 3 (2007)_t20.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00208.m2ts
+Duration: 0:00:10
+Size: 10.1 MB
+Segment count: 1
+Segment map: 208
+File name: Spider-Man 3 (2007)_t21.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00080.m2ts
+Duration: 0:00:14
+Size: 0.6 MB
+Segment count: 1
+Segment map: 80
+File name: Spider-Man 3 (2007)_t22.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00081.m2ts
+Duration: 0:00:36
+Size: 1.4 MB
+Segment count: 1
+Segment map: 81
+File name: Spider-Man 3 (2007)_t23.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00335.m2ts
+Duration: 0:00:46
+Size: 10.9 MB
+Segment count: 1
+Segment map: 335
+File name: Spider-Man 3 (2007)_t24.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00082.m2ts
+Duration: 0:00:10
+Size: 0.1 MB
+Segment count: 1
+Segment map: 82
+File name: Spider-Man 3 (2007)_t25.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00336.m2ts
+Duration: 0:05:09
+Size: 1.7 GB
+Segment count: 1
+Segment map: 336
+File name: Spider-Man 3 (2007)_t26.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Source file name: 00339.m2ts
+Duration: 0:00:02
+Size: 3.6 MB
+Segment count: 1
+Segment map: 339
+File name: Spider-Man 3 (2007)_t27.mkv

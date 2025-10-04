@@ -1,0 +1,173 @@
+Name: Spider-Man 2 (2004)
+Type: MainMovie
+Year: 2004
+Source file name: 00243.mpls
+Duration: 2:07:27
+Chapters count: 16
+Size: 56.1 GB
+Segment count: 1
+Segment map: 1
+File name: Spider-Man 2 (2004) - [2160p].mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00216.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 0.7 MB
+Segment count: 1
+Segment map: 216
+File name: Spider-Man 2 (2004)_t00.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00217.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 1.0 MB
+Segment count: 1
+Segment map: 217
+File name: Spider-Man 2 (2004)_t01.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00218.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 0.7 MB
+Segment count: 1
+Segment map: 218
+File name: Spider-Man 2 (2004)_t02.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00219.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 1.0 MB
+Segment count: 1
+Segment map: 219
+File name: Spider-Man 2 (2004)_t03.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00213.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.4 MB
+Segment count: 1
+Segment map: 213
+File name: Spider-Man 2 (2004)_t04.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00186.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.4 MB
+Segment count: 1
+Segment map: 186
+File name: Spider-Man 2 (2004)_t05.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00206.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.4 MB
+Segment count: 1
+Segment map: 206
+File name: Spider-Man 2 (2004)_t06.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00207.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.4 MB
+Segment count: 1
+Segment map: 207
+File name: Spider-Man 2 (2004)_t07.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00210.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.4 MB
+Segment count: 1
+Segment map: 209
+File name: Spider-Man 2 (2004)_t08.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00171.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.4 MB
+Segment count: 1
+Segment map: 171
+File name: Spider-Man 2 (2004)_t09.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00102.mpls
+Duration: 0:03:36
+Chapters count: 22
+Size: 7.3 MB
+Segment count: 1
+Segment map: 102
+File name: Spider-Man 2 (2004)_t10.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00100.m2ts
+Duration: 0:00:14
+Size: 40.7 MB
+Segment count: 1
+Segment map: 100
+File name: Spider-Man 2 (2004)_t12.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00104.m2ts
+Duration: 0:00:00
+Size: 0.4 MB
+Segment count: 1
+Segment map: 104
+File name: Spider-Man 2 (2004)_t13.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00116.m2ts
+Duration: 0:00:11
+Size: 11.4 MB
+Segment count: 1
+Segment map: 116
+File name: Spider-Man 2 (2004)_t14.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00208.m2ts
+Duration: 0:00:10
+Size: 10.1 MB
+Segment count: 1
+Segment map: 208
+File name: Spider-Man 2 (2004)_t15.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00080.m2ts
+Duration: 0:00:13
+Size: 0.6 MB
+Segment count: 1
+Segment map: 80
+File name: Spider-Man 2 (2004)_t16.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00081.m2ts
+Duration: 0:00:10
+Size: 0.1 MB
+Segment count: 1
+Segment map: 81
+File name: Spider-Man 2 (2004)_t17.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00335.m2ts
+Duration: 0:00:37
+Size: 8.8 MB
+Segment count: 1
+Segment map: 335
+File name: Spider-Man 2 (2004)_t18.mkv
+
+Name: Spider-Man 2 (2004) (English)
+Source file name: 00082.m2ts
+Duration: 0:00:10
+Size: 0.1 MB
+Segment count: 1
+Segment map: 82
+File name: Spider-Man 2 (2004)_t19.mkv

@@ -1,0 +1,973 @@
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00171.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.5 MB
+Segment count: 1
+Segment map: 171
+File name: Spider-Man 2 (2004) - Collector's Edition_t00.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00102.mpls
+Duration: 0:04:47
+Chapters count: 7
+Size: 308.1 MB
+Segment count: 1
+Segment map: 102
+File name: Spider-Man 2 (2004) - Collector's Edition_t01.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00186.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 186
+File name: Spider-Man 2 (2004) - Collector's Edition_t02.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00193.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.7 MB
+Segment count: 1
+Segment map: 193
+File name: Spider-Man 2 (2004) - Collector's Edition_t03.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00194.mpls
+Duration: 0:00:18
+Chapters count: 2
+Size: 0.9 MB
+Segment count: 1
+Segment map: 194
+File name: Spider-Man 2 (2004) - Collector's Edition_t04.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00195.mpls
+Duration: 0:00:18
+Chapters count: 2
+Size: 1.0 MB
+Segment count: 1
+Segment map: 195
+File name: Spider-Man 2 (2004) - Collector's Edition_t05.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00196.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.8 MB
+Segment count: 1
+Segment map: 196
+File name: Spider-Man 2 (2004) - Collector's Edition_t06.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00206.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 206
+File name: Spider-Man 2 (2004) - Collector's Edition_t07.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00207.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 207
+File name: Spider-Man 2 (2004) - Collector's Edition_t08.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00210.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 209
+File name: Spider-Man 2 (2004) - Collector's Edition_t09.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00213.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.5 MB
+Segment count: 1
+Segment map: 213
+File name: Spider-Man 2 (2004) - Collector's Edition_t10.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00216.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 0.6 MB
+Segment count: 1
+Segment map: 216
+File name: Spider-Man 2 (2004) - Collector's Edition_t11.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00217.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 0.9 MB
+Segment count: 1
+Segment map: 217
+File name: Spider-Man 2 (2004) - Collector's Edition_t12.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00218.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 0.6 MB
+Segment count: 1
+Segment map: 218
+File name: Spider-Man 2 (2004) - Collector's Edition_t13.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00219.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 0.9 MB
+Segment count: 1
+Segment map: 219
+File name: Spider-Man 2 (2004) - Collector's Edition_t14.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00095.mpls
+Duration: 0:00:40
+Chapters count: 2
+Size: 107.7 MB
+Segment count: 2
+Segment map: 98,99
+File name: Spider-Man 2 (2004) - Collector's Edition_t15.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00096.mpls
+Duration: 0:00:38
+Chapters count: 2
+Size: 107.0 MB
+Segment count: 2
+Segment map: 97,99
+File name: Spider-Man 2 (2004) - Collector's Edition_t16.mkv
+
+Name: Spider-Man 2.1 (2007)
+Type: MainMovie
+Year: 2007
+Source file name: 00415.mpls
+Duration: 2:15:47
+Chapters count: 16
+Size: 29.0 GB
+Segment count: 28
+Segment map: 362,366,367,369,370,372,373,376,378,379,381,383,386,388,389,392,394,395,397,398,400,401,403,405,406,408,409,411
+File name: Spider-Man 2 (2004) - [1080p][2-1 Extended Cut].mkv
+
+Name: Spider-Man 2 (2004)
+Type: MainMovie
+Year: 2004
+Source file name: 00416.mpls
+Duration: 2:07:27
+Chapters count: 16
+Size: 27.3 GB
+Segment count: 28
+Segment map: 363,366,368,369,371,372,374,377,378,380,381,384,387,388,390,393,394,396,397,399,400,402,404,405,407,408,410,411
+File name: Spider-Man 2 (2004) - [1080p].mkv
+
+Name: Visual Effects Breakdown
+Type: Extra
+Source file name: 00418.mpls
+Duration: 0:32:38
+Chapters count: 5
+Size: 1.0 GB
+Segment count: 6
+Segment map: 355,356,357,358,359,354
+File name: Visual Effects Breakdown-behindthescenes.mkv
+
+Name: Visual Effects Breakdown - Part 1
+Type: Extra
+Source file name: 00419.mpls
+Duration: 0:04:46
+Chapters count: 1
+Size: 158.7 MB
+Segment count: 2
+Segment map: 355,354
+File name: Visual Effects Breakdown - Part 1-behindthescenes.mkv
+
+Name: Visual Effects Breakdown - Part 2
+Type: Extra
+Source file name: 00420.mpls
+Duration: 0:08:56
+Chapters count: 1
+Size: 296.7 MB
+Segment count: 2
+Segment map: 356,354
+File name: Visual Effects Breakdown - Part 2-behindthescenes.mkv
+
+Name: Visual Effects Breakdown - Part 3
+Type: Extra
+Source file name: 00421.mpls
+Duration: 0:09:22
+Chapters count: 1
+Size: 308.9 MB
+Segment count: 2
+Segment map: 357,354
+File name: Visual Effects Breakdown - Part 3-behindthescenes.mkv
+
+Name: Visual Effects Breakdown - Part 4
+Type: Extra
+Source file name: 00422.mpls
+Duration: 0:06:54
+Chapters count: 1
+Size: 229.7 MB
+Segment count: 2
+Segment map: 358,354
+File name: Visual Effects Breakdown - Part 4-behindthescenes.mkv
+
+Name: Visual Effects Breakdown - Part 5
+Type: Extra
+Source file name: 00423.mpls
+Duration: 0:03:10
+Chapters count: 1
+Size: 105.1 MB
+Segment count: 2
+Segment map: 359,354
+File name: Visual Effects Breakdown - Part 5-behindthescenes.mkv
+
+Name: Spider-Man 2 (2004)
+Type: MainMovie
+Year: 2004
+Source file name: 00428.mpls
+Duration: 2:07:27
+Chapters count: 16
+Size: 27.3 GB
+Segment count: 28
+Segment map: 363,366,368,369,371,372,374,377,378,380,381,384,387,388,390,393,394,396,397,399,400,402,404,405,407,408,410,411
+File name: Spider-Man 2 (2004) - [1080p][Alt].mkv
+
+Name: Spider-Man 2.1 (2007)
+Type: MainMovie
+Year: 2007
+Source file name: 00429.mpls
+Duration: 2:15:47
+Chapters count: 16
+Size: 29.0 GB
+Segment count: 28
+Segment map: 362,366,367,369,370,372,373,376,378,379,381,383,386,388,389,392,394,395,397,398,400,401,403,405,406,408,409,411
+File name: Spider-Man 2 (2004) - [1080p][2-1 Extended Cut][Alt].mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00100.m2ts
+Duration: 0:00:14
+Size: 24.0 MB
+Segment count: 1
+Segment map: 100
+File name: Spider-Man 2 (2004) - Collector's Edition_t27.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00099.m2ts
+Duration: 0:00:37
+Size: 106.7 MB
+Segment count: 1
+Segment map: 99
+File name: Spider-Man 2 (2004) - Collector's Edition_t28.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00103.m2ts
+Duration: 0:00:00
+Size: 0.4 MB
+Segment count: 1
+Segment map: 103
+File name: Spider-Man 2 (2004) - Collector's Edition_t29.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00104.m2ts
+Duration: 0:00:00
+Size: 0.4 MB
+Segment count: 1
+Segment map: 104
+File name: Spider-Man 2 (2004) - Collector's Edition_t30.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00116.m2ts
+Duration: 0:00:11
+Size: 25.9 MB
+Segment count: 1
+Segment map: 116
+File name: Spider-Man 2 (2004) - Collector's Edition_t31.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00205.m2ts
+Duration: 0:00:05
+Size: 11.2 MB
+Segment count: 1
+Segment map: 205
+File name: Spider-Man 2 (2004) - Collector's Edition_t32.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00097.m2ts
+Duration: 0:00:01
+Size: 0.3 MB
+Segment count: 1
+Segment map: 97
+File name: Spider-Man 2 (2004) - Collector's Edition_t33.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00098.m2ts
+Duration: 0:00:03
+Size: 1.0 MB
+Segment count: 1
+Segment map: 98
+File name: Spider-Man 2 (2004) - Collector's Edition_t34.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00208.m2ts
+Duration: 0:00:11
+Size: 24.8 MB
+Segment count: 1
+Segment map: 208
+File name: Spider-Man 2 (2004) - Collector's Edition_t35.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00080.m2ts
+Duration: 0:00:13
+Size: 1.7 MB
+Segment count: 1
+Segment map: 80
+File name: Spider-Man 2 (2004) - Collector's Edition_t36.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00081.m2ts
+Duration: 0:00:20
+Size: 2.5 MB
+Segment count: 1
+Segment map: 81
+File name: Spider-Man 2 (2004) - Collector's Edition_t37.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00249.m2ts
+Duration: 0:00:01
+Size: 0.1 MB
+Segment count: 1
+Segment map: 249
+File name: Spider-Man 2 (2004) - Collector's Edition_t38.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00220.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 220
+File name: Spider-Man 2 (2004) - Collector's Edition_t39.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00228.m2ts
+Duration: 0:00:00
+Size: 0.1 MB
+Segment count: 1
+Segment map: 228
+File name: Spider-Man 2 (2004) - Collector's Edition_t40.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00221.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 221
+File name: Spider-Man 2 (2004) - Collector's Edition_t41.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00222.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 222
+File name: Spider-Man 2 (2004) - Collector's Edition_t42.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00223.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 223
+File name: Spider-Man 2 (2004) - Collector's Edition_t43.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00224.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 224
+File name: Spider-Man 2 (2004) - Collector's Edition_t44.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00225.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 225
+File name: Spider-Man 2 (2004) - Collector's Edition_t45.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00226.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 226
+File name: Spider-Man 2 (2004) - Collector's Edition_t46.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00227.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 227
+File name: Spider-Man 2 (2004) - Collector's Edition_t47.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00229.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 229
+File name: Spider-Man 2 (2004) - Collector's Edition_t48.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00082.m2ts
+Duration: 0:00:10
+Size: 1.0 MB
+Segment count: 1
+Segment map: 82
+File name: Spider-Man 2 (2004) - Collector's Edition_t49.mkv
+
+Name: Blooper Reel
+Type: Extra
+Source file name: 00334.m2ts
+Duration: 0:07:39
+Size: 248.1 MB
+Segment count: 1
+Segment map: 334
+File name: Blooper Reel-behindthescenes.mkv
+
+Name: Inside 2.1
+Type: Extra
+Source file name: 00335.m2ts
+Duration: 0:13:36
+Size: 451.4 MB
+Segment count: 1
+Segment map: 335
+File name: Inside 2.1-featurette.mkv
+
+Name: Alfred Molina / "Doc Ock" Green-Screen Gag
+Type: Extra
+Source file name: 00347.m2ts
+Duration: 0:00:45
+Size: 24.3 MB
+Segment count: 1
+Segment map: 347
+File name: Alfred Molina 'Doc Ock' Green-Screen Gag-behindthescenes.mkv
+
+Name: Willem Dafoe / "Doc Ock" On-Set Gag
+Type: Extra
+Source file name: 00348.m2ts
+Duration: 0:01:21
+Size: 43.8 MB
+Segment count: 1
+Segment map: 348
+File name: Willem Dafoe 'Doc Ock' On-Set Gag-behindthescenes.mkv
+
+Name: Hero in Crisis
+Type: Extra
+Source file name: 00349.m2ts
+Duration: 0:14:59
+Size: 498.4 MB
+Segment count: 1
+Segment map: 349
+File name: Hero in Crisis-featurette.mkv
+
+Name: Interwoven: The Women of Spider-Man
+Type: Extra
+Source file name: 00350.m2ts
+Duration: 0:15:35
+Size: 501.3 MB
+Segment count: 1
+Segment map: 350
+File name: Interwoven- The Women of Spider-Man-featurette.mkv
+
+Name: Villains of Spider-Man
+Type: Extra
+Source file name: 00351.m2ts
+Duration: 0:13:34
+Size: 453.2 MB
+Segment count: 1
+Segment map: 351
+File name: Villains of Spider-Man-featurette.mkv
+
+Name: VH1 Goes Inside Spider-Man
+Type: Extra
+Source file name: 00352.m2ts
+Duration: 0:20:14
+Size: 649.2 MB
+Segment count: 1
+Segment map: 352
+File name: VH1 Goes Inside Spider-Man-featurette.mkv
+
+Name: With Great Effort, Comes Great Recognition
+Type: Extra
+Source file name: 00353.m2ts
+Duration: 0:07:52
+Size: 263.0 MB
+Segment count: 1
+Segment map: 353
+File name: With Great Effort Comes Great Recognition-featurette.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00354.m2ts
+Duration: 0:00:08
+Size: 4.2 MB
+Segment count: 1
+Segment map: 354
+File name: Spider-Man 2 (2004) - Collector's Edition_t59.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00355.m2ts
+Duration: 0:04:38
+Size: 154.5 MB
+Segment count: 1
+Segment map: 355
+File name: Spider-Man 2 (2004) - Collector's Edition_t60.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00356.m2ts
+Duration: 0:08:48
+Size: 292.4 MB
+Segment count: 1
+Segment map: 356
+File name: Spider-Man 2 (2004) - Collector's Edition_t61.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00357.m2ts
+Duration: 0:09:14
+Size: 304.6 MB
+Segment count: 1
+Segment map: 357
+File name: Spider-Man 2 (2004) - Collector's Edition_t62.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00358.m2ts
+Duration: 0:06:46
+Size: 225.4 MB
+Segment count: 1
+Segment map: 358
+File name: Spider-Man 2 (2004) - Collector's Edition_t63.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00359.m2ts
+Duration: 0:03:02
+Size: 100.9 MB
+Segment count: 1
+Segment map: 359
+File name: Spider-Man 2 (2004) - Collector's Edition_t64.mkv
+
+Name: Danny Elfman Scores Spider-Man 2 - Angle 1
+Type: Extra
+Source file name: 00360.m2ts
+Duration: 0:05:09
+Size: 166.0 MB
+Segment count: 1
+Segment map: 360
+File name: Danny Elfman Scores Spider-Man 2 - Angle 1-behindthescenes.mkv
+
+Name: Danny Elfman Scores Spider-Man 2 - Angle 2 (English)
+Source file name: 00361.m2ts
+Duration: 0:05:09
+Size: 166.6 MB
+Segment count: 1
+Segment map: 361
+File name: Danny Elfman Scores Spider-Man 2 - Angle 2-behindthescenes.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00362.m2ts
+Duration: 0:04:25
+Size: 957.3 MB
+Segment count: 1
+Segment map: 362
+File name: Spider-Man 2 (2004) - Collector's Edition_t67.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00363.m2ts
+Duration: 0:04:12
+Size: 946.8 MB
+Segment count: 1
+Segment map: 363
+File name: Spider-Man 2 (2004) - Collector's Edition_t68.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00366.m2ts
+Duration: 0:01:35
+Size: 347.2 MB
+Segment count: 1
+Segment map: 366
+File name: Spider-Man 2 (2004) - Collector's Edition_t69.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00367.m2ts
+Duration: 0:01:45
+Size: 376.6 MB
+Segment count: 1
+Segment map: 367
+File name: Spider-Man 2 (2004) - Collector's Edition_t70.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00368.m2ts
+Duration: 0:01:09
+Size: 247.2 MB
+Segment count: 1
+Segment map: 368
+File name: Spider-Man 2 (2004) - Collector's Edition_t71.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00369.m2ts
+Duration: 0:04:50
+Size: 1.0 GB
+Segment count: 1
+Segment map: 369
+File name: Spider-Man 2 (2004) - Collector's Edition_t72.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00370.m2ts
+Duration: 0:01:31
+Size: 335.1 MB
+Segment count: 1
+Segment map: 370
+File name: Spider-Man 2 (2004) - Collector's Edition_t73.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00371.m2ts
+Duration: 0:00:38
+Size: 141.1 MB
+Segment count: 1
+Segment map: 371
+File name: Spider-Man 2 (2004) - Collector's Edition_t74.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00372.m2ts
+Duration: 0:02:15
+Size: 493.1 MB
+Segment count: 1
+Segment map: 372
+File name: Spider-Man 2 (2004) - Collector's Edition_t75.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00373.m2ts
+Duration: 0:03:54
+Size: 846.4 MB
+Segment count: 1
+Segment map: 373
+File name: Spider-Man 2 (2004) - Collector's Edition_t76.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00374.m2ts
+Duration: 0:03:19
+Size: 716.7 MB
+Segment count: 1
+Segment map: 374
+File name: Spider-Man 2 (2004) - Collector's Edition_t77.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00376.m2ts
+Duration: 0:00:41
+Size: 146.3 MB
+Segment count: 1
+Segment map: 376
+File name: Spider-Man 2 (2004) - Collector's Edition_t78.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00377.m2ts
+Duration: 0:00:34
+Size: 120.1 MB
+Segment count: 1
+Segment map: 377
+File name: Spider-Man 2 (2004) - Collector's Edition_t79.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00378.m2ts
+Duration: 0:00:58
+Size: 214.6 MB
+Segment count: 1
+Segment map: 378
+File name: Spider-Man 2 (2004) - Collector's Edition_t80.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00379.m2ts
+Duration: 0:03:06
+Size: 687.5 MB
+Segment count: 1
+Segment map: 379
+File name: Spider-Man 2 (2004) - Collector's Edition_t81.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00380.m2ts
+Duration: 0:02:37
+Size: 580.5 MB
+Segment count: 1
+Segment map: 380
+File name: Spider-Man 2 (2004) - Collector's Edition_t82.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00381.m2ts
+Duration: 0:03:36
+Size: 780.1 MB
+Segment count: 1
+Segment map: 381
+File name: Spider-Man 2 (2004) - Collector's Edition_t83.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00383.m2ts
+Duration: 0:00:56
+Size: 198.3 MB
+Segment count: 1
+Segment map: 383
+File name: Spider-Man 2 (2004) - Collector's Edition_t84.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00384.m2ts
+Duration: 0:00:53
+Size: 193.4 MB
+Segment count: 1
+Segment map: 384
+File name: Spider-Man 2 (2004) - Collector's Edition_t85.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00386.m2ts
+Duration: 0:00:40
+Size: 144.4 MB
+Segment count: 1
+Segment map: 386
+File name: Spider-Man 2 (2004) - Collector's Edition_t86.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00387.m2ts
+Duration: 0:00:23
+Size: 86.5 MB
+Segment count: 1
+Segment map: 387
+File name: Spider-Man 2 (2004) - Collector's Edition_t87.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00388.m2ts
+Duration: 0:02:28
+Size: 537.7 MB
+Segment count: 1
+Segment map: 388
+File name: Spider-Man 2 (2004) - Collector's Edition_t88.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00389.m2ts
+Duration: 0:12:15
+Size: 2.5 GB
+Segment count: 1
+Segment map: 389
+File name: Spider-Man 2 (2004) - Collector's Edition_t89.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00390.m2ts
+Duration: 0:11:10
+Size: 2.3 GB
+Segment count: 1
+Segment map: 390
+File name: Spider-Man 2 (2004) - Collector's Edition_t90.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00392.m2ts
+Duration: 0:01:03
+Size: 230.9 MB
+Segment count: 1
+Segment map: 392
+File name: Spider-Man 2 (2004) - Collector's Edition_t91.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00393.m2ts
+Duration: 0:01:00
+Size: 217.5 MB
+Segment count: 1
+Segment map: 393
+File name: Spider-Man 2 (2004) - Collector's Edition_t92.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00394.m2ts
+Duration: 0:09:13
+Size: 1.9 GB
+Segment count: 1
+Segment map: 394
+File name: Spider-Man 2 (2004) - Collector's Edition_t93.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00395.m2ts
+Duration: 0:00:48
+Size: 178.3 MB
+Segment count: 1
+Segment map: 395
+File name: Spider-Man 2 (2004) - Collector's Edition_t94.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00396.m2ts
+Duration: 0:00:29
+Size: 105.8 MB
+Segment count: 1
+Segment map: 396
+File name: Spider-Man 2 (2004) - Collector's Edition_t95.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00397.m2ts
+Duration: 0:08:16
+Size: 1.7 GB
+Segment count: 1
+Segment map: 397
+File name: Spider-Man 2 (2004) - Collector's Edition_t96.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00398.m2ts
+Duration: 0:05:57
+Size: 1.2 GB
+Segment count: 1
+Segment map: 398
+File name: Spider-Man 2 (2004) - Collector's Edition_t97.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00399.m2ts
+Duration: 0:03:27
+Size: 754.5 MB
+Segment count: 1
+Segment map: 399
+File name: Spider-Man 2 (2004) - Collector's Edition_t98.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00400.m2ts
+Duration: 0:00:50
+Size: 180.0 MB
+Segment count: 1
+Segment map: 400
+File name: Spider-Man 2 (2004) - Collector's Edition_t99.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00401.m2ts
+Duration: 0:05:18
+Size: 1.1 GB
+Segment count: 1
+Segment map: 401
+File name: Spider-Man 2 (2004) - Collector's Edition_t100.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00402.m2ts
+Duration: 0:05:18
+Size: 1.1 GB
+Segment count: 1
+Segment map: 402
+File name: Spider-Man 2 (2004) - Collector's Edition_t101.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00403.m2ts
+Duration: 0:01:20
+Size: 289.8 MB
+Segment count: 1
+Segment map: 403
+File name: Spider-Man 2 (2004) - Collector's Edition_t102.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00404.m2ts
+Duration: 0:00:55
+Size: 209.2 MB
+Segment count: 1
+Segment map: 404
+File name: Spider-Man 2 (2004) - Collector's Edition_t103.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00405.m2ts
+Duration: 0:25:06
+Size: 5.5 GB
+Segment count: 1
+Segment map: 405
+File name: Spider-Man 2 (2004) - Collector's Edition_t104.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00406.m2ts
+Duration: 0:02:04
+Size: 453.1 MB
+Segment count: 1
+Segment map: 406
+File name: Spider-Man 2 (2004) - Collector's Edition_t105.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00407.m2ts
+Duration: 0:01:17
+Size: 280.5 MB
+Segment count: 1
+Segment map: 407
+File name: Spider-Man 2 (2004) - Collector's Edition_t106.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00408.m2ts
+Duration: 0:01:39
+Size: 367.2 MB
+Segment count: 1
+Segment map: 408
+File name: Spider-Man 2 (2004) - Collector's Edition_t107.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00409.m2ts
+Duration: 0:01:34
+Size: 346.2 MB
+Segment count: 1
+Segment map: 409
+File name: Spider-Man 2 (2004) - Collector's Edition_t108.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00410.m2ts
+Duration: 0:01:35
+Size: 348.6 MB
+Segment count: 1
+Segment map: 410
+File name: Spider-Man 2 (2004) - Collector's Edition_t109.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00411.m2ts
+Duration: 0:27:31
+Size: 5.9 GB
+Segment count: 1
+Segment map: 411
+File name: Spider-Man 2 (2004) - Collector's Edition_t110.mkv
+
+Name: "Ordinary" music video by Train
+Type: Extra
+Source file name: 00415.m2ts
+Duration: 0:03:51
+Size: 122.7 MB
+Segment count: 1
+Segment map: 415
+File name: 'Ordinary' music video by Train-short.mkv
+
+Name: Spider-Man 2 (2004) - Collector's Edition (English)
+Source file name: 00416.m2ts
+Duration: 0:02:03
+Size: 280.0 MB
+Segment count: 1
+Segment map: 416
+File name: Spider-Man 2 (2004) - Collector's Edition_t112.mkv
+
+Name: Theatrical Trailer
+Type: Trailer
+Source file name: 00417.m2ts
+Duration: 0:02:35
+Size: 364.0 MB
+Segment count: 1
+Segment map: 417
+File name: Theatrical Trailer-trailer.mkv
+
+Name: 2.1 Theatrical Trailer (English)
+Type: Trailer
+Source file name: 00418.m2ts
+Duration: 0:01:55
+Size: 269.7 MB
+Segment count: 1
+Segment map: 418
+File name: 2.1 Theatrical Trailer-trailer.mkv

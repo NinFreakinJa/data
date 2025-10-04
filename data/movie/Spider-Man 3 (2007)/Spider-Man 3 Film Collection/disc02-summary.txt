@@ -1,0 +1,445 @@
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00171.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.5 MB
+Segment count: 1
+Segment map: 171
+File name: Spider-Man 3 (2007) - Collector's Edition_t00.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00102.mpls
+Duration: 0:04:47
+Chapters count: 7
+Size: 308.1 MB
+Segment count: 1
+Segment map: 102
+File name: Spider-Man 3 (2007) - Collector's Edition_t01.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00186.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 186
+File name: Spider-Man 3 (2007) - Collector's Edition_t02.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00206.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 206
+File name: Spider-Man 3 (2007) - Collector's Edition_t03.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00207.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 207
+File name: Spider-Man 3 (2007) - Collector's Edition_t04.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00210.mpls
+Duration: 0:00:18
+Chapters count: 3
+Size: 0.9 MB
+Segment count: 1
+Segment map: 209
+File name: Spider-Man 3 (2007) - Collector's Edition_t05.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00213.mpls
+Duration: 0:00:12
+Chapters count: 2
+Size: 0.5 MB
+Segment count: 1
+Segment map: 213
+File name: Spider-Man 3 (2007) - Collector's Edition_t06.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00216.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 0.6 MB
+Segment count: 1
+Segment map: 216
+File name: Spider-Man 3 (2007) - Collector's Edition_t07.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00217.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 0.9 MB
+Segment count: 1
+Segment map: 217
+File name: Spider-Man 3 (2007) - Collector's Edition_t08.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00218.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 0.6 MB
+Segment count: 1
+Segment map: 218
+File name: Spider-Man 3 (2007) - Collector's Edition_t09.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00219.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 0.9 MB
+Segment count: 1
+Segment map: 219
+File name: Spider-Man 3 (2007) - Collector's Edition_t10.mkv
+
+Name: Spider-Man 3 (2007) (English)
+Type: MainMovie
+Year: 2007
+Source file name: 00001.mpls
+Duration: 2:19:08
+Chapters count: 16
+Size: 30.3 GB
+Segment count: 1
+Segment map: 1
+File name: Spider-Man 3 (2007) - [1080p].mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00096.mpls
+Duration: 0:00:46
+Chapters count: 2
+Size: 122.1 MB
+Segment count: 2
+Segment map: 97,334
+File name: Spider-Man 3 (2007) - Collector's Edition_t12.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00100.m2ts
+Duration: 0:00:14
+Size: 24.0 MB
+Segment count: 1
+Segment map: 100
+File name: Spider-Man 3 (2007) - Collector's Edition_t13.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00103.m2ts
+Duration: 0:00:00
+Size: 0.4 MB
+Segment count: 1
+Segment map: 103
+File name: Spider-Man 3 (2007) - Collector's Edition_t14.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00104.m2ts
+Duration: 0:00:00
+Size: 0.4 MB
+Segment count: 1
+Segment map: 104
+File name: Spider-Man 3 (2007) - Collector's Edition_t15.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00116.m2ts
+Duration: 0:00:11
+Size: 25.9 MB
+Segment count: 1
+Segment map: 116
+File name: Spider-Man 3 (2007) - Collector's Edition_t16.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00205.m2ts
+Duration: 0:00:05
+Size: 11.2 MB
+Segment count: 1
+Segment map: 205
+File name: Spider-Man 3 (2007) - Collector's Edition_t17.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00097.m2ts
+Duration: 0:00:01
+Size: 0.1 MB
+Segment count: 1
+Segment map: 97
+File name: Spider-Man 3 (2007) - Collector's Edition_t18.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00098.m2ts
+Duration: 0:00:03
+Size: 1.0 MB
+Segment count: 1
+Segment map: 98
+File name: Spider-Man 3 (2007) - Collector's Edition_t19.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00208.m2ts
+Duration: 0:00:11
+Size: 24.8 MB
+Segment count: 1
+Segment map: 208
+File name: Spider-Man 3 (2007) - Collector's Edition_t20.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00080.m2ts
+Duration: 0:00:13
+Size: 1.6 MB
+Segment count: 1
+Segment map: 80
+File name: Spider-Man 3 (2007) - Collector's Edition_t21.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00081.m2ts
+Duration: 0:00:10
+Size: 1.0 MB
+Segment count: 1
+Segment map: 81
+File name: Spider-Man 3 (2007) - Collector's Edition_t22.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00249.m2ts
+Duration: 0:00:01
+Size: 0.1 MB
+Segment count: 1
+Segment map: 249
+File name: Spider-Man 3 (2007) - Collector's Edition_t23.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00220.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 220
+File name: Spider-Man 3 (2007) - Collector's Edition_t24.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00228.m2ts
+Duration: 0:00:00
+Size: 0.1 MB
+Segment count: 1
+Segment map: 228
+File name: Spider-Man 3 (2007) - Collector's Edition_t25.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00221.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 221
+File name: Spider-Man 3 (2007) - Collector's Edition_t26.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00222.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 222
+File name: Spider-Man 3 (2007) - Collector's Edition_t27.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00223.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 223
+File name: Spider-Man 3 (2007) - Collector's Edition_t28.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00224.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 224
+File name: Spider-Man 3 (2007) - Collector's Edition_t29.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00225.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 225
+File name: Spider-Man 3 (2007) - Collector's Edition_t30.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00226.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 226
+File name: Spider-Man 3 (2007) - Collector's Edition_t31.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00227.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 227
+File name: Spider-Man 3 (2007) - Collector's Edition_t32.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00229.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 229
+File name: Spider-Man 3 (2007) - Collector's Edition_t33.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00082.m2ts
+Duration: 0:00:10
+Size: 1.0 MB
+Segment count: 1
+Segment map: 82
+File name: Spider-Man 3 (2007) - Collector's Edition_t34.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00334.m2ts
+Duration: 0:00:45
+Size: 122.0 MB
+Segment count: 1
+Segment map: 334
+File name: Spider-Man 3 (2007) - Collector's Edition_t35.mkv
+
+Name: Spider-Man 3 (2007) - Collector's Edition (English)
+Source file name: 00335.m2ts
+Duration: 0:02:17
+Size: 323.9 MB
+Segment count: 1
+Segment map: 335
+File name: Spider-Man 3 (2007) - Collector's Edition_t36.mkv
+
+Name: Teaser Trailer
+Type: Trailer
+Source file name: 00336.m2ts
+Duration: 0:01:39
+Size: 231.6 MB
+Segment count: 1
+Segment map: 336
+File name: Teaser Trailer-trailer.mkv
+
+Name: Theatrical Trailer 1
+Type: Trailer
+Source file name: 00337.m2ts
+Duration: 0:02:32
+Size: 355.0 MB
+Segment count: 1
+Segment map: 337
+File name: Theatrical Trailer 1-trailer.mkv
+
+Name: Theatrical Trailer 2
+Type: Trailer
+Source file name: 00338.m2ts
+Duration: 0:01:48
+Size: 252.0 MB
+Segment count: 1
+Segment map: 338
+File name: Theatrical Trailer 2-trailer.mkv
+
+Name: Theatrical Trailer 3
+Type: Trailer
+Source file name: 00339.m2ts
+Duration: 0:03:06
+Size: 434.1 MB
+Segment count: 1
+Segment map: 339
+File name: Theatrical Trailer 3-trailer.mkv
+
+Name: Grains of Sand: Building Sandman
+Type: Extra
+Source file name: 00340.m2ts
+Duration: 0:13:50
+Size: 1.2 GB
+Segment count: 1
+Segment map: 340
+File name: Grains of Sand Building Sandman-featurette.mkv
+
+Name: Re-Imagining the Goblin
+Type: Extra
+Source file name: 00341.m2ts
+Duration: 0:10:37
+Size: 1018.1 MB
+Segment count: 1
+Segment map: 341
+File name: Re-Imagining the Goblin-featurette.mkv
+
+Name: Covered in Black: Creating Venom
+Type: Extra
+Source file name: 00342.m2ts
+Duration: 0:15:36
+Size: 1.4 GB
+Segment count: 1
+Segment map: 342
+File name: Covered in Black- Creating Venom-featurette.mkv
+
+Name: Hanging On...Gwen Stacy and the Collapsing Floor
+Type: Extra
+Source file name: 00343.m2ts
+Duration: 0:10:14
+Size: 984.4 MB
+Segment count: 1
+Segment map: 343
+File name: Hanging On Gwen Stacy and the Collapsing Floor-featurette.mkv
+
+Name: Fighting, Flying and Driving: The Stunts
+Type: Extra
+Source file name: 00344.m2ts
+Duration: 0:18:59
+Size: 1.7 GB
+Segment count: 1
+Segment map: 344
+File name: Fighting, Flying and Driving- The Stunts-featurette.mkv
+
+Name: Tangled Web: The Love Triangles of Spider-Man 3
+Type: Extra
+Source file name: 00345.m2ts
+Duration: 0:09:13
+Size: 885.8 MB
+Segment count: 1
+Segment map: 345
+File name: Tangled Web- The Love Triangles of Spider-Man 3-featurette.mkv
+
+Name: Wall of Water
+Type: Extra
+Source file name: 00346.m2ts
+Duration: 0:07:21
+Size: 706.1 MB
+Segment count: 1
+Segment map: 346
+File name: Wall of Water-featurette.mkv
+
+Name: Inside the Editing Room
+Type: Extra
+Source file name: 00347.m2ts
+Duration: 0:03:59
+Size: 133.6 MB
+Segment count: 1
+Segment map: 347
+File name: Inside the Editing Room-featurette.mkv
+
+Name: The Science of Sound (with Optimized Audio)
+Type: Extra
+Source file name: 00348.m2ts
+Duration: 0:16:22
+Size: 598.9 MB
+Segment count: 1
+Segment map: 348
+File name: The Science of Sound (with Optimized Audio)-featurette.mkv
+
+Name: Bloopers
+Type: Extra
+Source file name: 00349.m2ts
+Duration: 0:06:43
+Size: 219.9 MB
+Segment count: 1
+Segment map: 349
+File name: Bloopers-behindthescenes.mkv
+
+Name: "Signal Fire" music video by Snow Patrol
+Type: Extra
+Source file name: 00350.m2ts
+Duration: 0:04:35
+Size: 145.8 MB
+Segment count: 1
+Segment map: 350
+File name: 'Signal Fire' music video by Snow Patrol-short.mkv
