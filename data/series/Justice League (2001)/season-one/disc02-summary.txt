@@ -1,0 +1,123 @@
+Source file name: 00000.mpls
+Duration: 0:21:24
+Chapters count: 5
+Size: 2.0 GB
+Segment count: 1
+Segment map: 0
+File name: title_t00.mkv
+
+Source file name: 00006.mpls
+Duration: 0:21:59
+Chapters count: 5
+Size: 1.9 GB
+Segment count: 1
+Segment map: 7
+File name: title_t01.mkv
+
+Source file name: 00007.mpls
+Duration: 0:21:41
+Chapters count: 5
+Size: 2.0 GB
+Segment count: 1
+Segment map: 8
+File name: title_t02.mkv
+
+Source file name: 00008.mpls
+Duration: 0:21:51
+Chapters count: 5
+Size: 2.0 GB
+Segment count: 1
+Segment map: 9
+File name: title_t03.mkv
+
+Source file name: 00009.mpls
+Duration: 0:21:37
+Chapters count: 5
+Size: 2.0 GB
+Segment count: 1
+Segment map: 10
+File name: title_t04.mkv
+
+Source file name: 00010.mpls
+Duration: 0:21:41
+Chapters count: 5
+Size: 1.8 GB
+Segment count: 1
+Segment map: 11
+File name: title_t05.mkv
+
+Source file name: 00011.mpls
+Duration: 0:21:38
+Chapters count: 5
+Size: 1.8 GB
+Segment count: 1
+Segment map: 12
+File name: title_t06.mkv
+
+Source file name: 00012.mpls
+Duration: 0:21:34
+Chapters count: 5
+Size: 2.0 GB
+Segment count: 1
+Segment map: 13
+File name: title_t07.mkv
+
+Source file name: 00013.mpls
+Duration: 0:21:57
+Chapters count: 5
+Size: 2.1 GB
+Segment count: 1
+Segment map: 14
+File name: title_t08.mkv
+
+Source file name: 00014.mpls
+Duration: 0:21:45
+Chapters count: 5
+Size: 2.1 GB
+Segment count: 1
+Segment map: 15
+File name: title_t09.mkv
+
+Source file name: 00002.mpls
+Duration: 2:10:16
+Chapters count: 30
+Size: 11.8 GB
+Segment count: 6
+Segment map: 0,7,8,9,10,11
+File name: title_t10.mkv
+
+Source file name: 00002.mpls(2)
+Duration: 1:05:17
+Chapters count: 15
+Size: 6.3 GB
+Segment count: 3
+Segment map: 13,14,15
+File name: title_t11.mkv
+
+Source file name: 00001.m2ts
+Duration: 0:00:05
+Size: 1.5 MB
+Segment count: 1
+Segment map: 1
+File name: title_t12.mkv
+
+Source file name: 00002.m2ts
+Duration: 0:00:12
+Size: 9.5 MB
+Segment count: 1
+Segment map: 2
+File name: title_t13.mkv
+
+Source file name: 00004.m2ts
+Duration: 0:00:23
+Size: 14.6 MB
+Segment count: 1
+Segment map: 4
+File name: title_t14.mkv
+
+Source file name: 00016.m2ts
+Duration: 0:00:11
+Size: 11.0 MB
+Segment count: 1
+Segment map: 16
+File name: title_t15.mkv
