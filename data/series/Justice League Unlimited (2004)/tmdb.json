@@ -1,0 +1,284 @@
+{
+  "account_states": {
+    "favorite": false,
+    "id": 0,
+    "watchlist": false
+  },
+  "alternative_titles": {
+    "id": 0,
+    "results": []
+  },
+  "backdrop_path": "/3NF0qCnYVjczbeEUZBcJg2SlNVt.jpg",
+  "changes": {
+    "changes": []
+  },
+  "content_ratings": {
+    "id": 0,
+    "results": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "created_by": [],
+  "credits": {
+    "cast": [
+      {
+        "cast_id": 0,
+        "character": "Batman (voice)",
+        "credit_id": "5d167323fe63fa00237df4a1",
+        "id": 34947,
+        "name": "Kevin Conroy",
+        "order": 0,
+        "profile_path": "/pLv79QALLd72NM3BgJ3UYd6yltB.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "Superman (voice)",
+        "credit_id": "5d1672fafe63fa00157df087",
+        "id": 59222,
+        "name": "George Newbern",
+        "order": 1,
+        "profile_path": "/1Xx0K3KGqxyIpL6o2eVQKui86jS.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "Wonder Woman (voice)",
+        "credit_id": "5d167344f9183a00151c5157",
+        "id": 112043,
+        "name": "Susan Eisenberg",
+        "order": 2,
+        "profile_path": "/Ak63eUqvD7PvehBkpd00pcHaGFE.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 0,
+        "character": "J\u0027onn J\u0027onzz (voice)",
+        "credit_id": "5d1673e16262080030989de9",
+        "id": 29382,
+        "name": "Carl Lumbly",
+        "order": 3,
+        "profile_path": "/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "Green Lantern (voice)",
+        "credit_id": "5d16739a665408001599b7d6",
+        "id": 31549,
+        "name": "Phil LaMarr",
+        "order": 4,
+        "profile_path": "/xP2kNlsmXtzXq0geutflO4K9mSE.jpg",
+        "gender": 2
+      }
+    ],
+    "crew": [
+      {
+        "credit_id": "65d3c69b967cc70186621605",
+        "department": "Writing",
+        "id": 3794,
+        "job": "Characters",
+        "name": "Bob Kane",
+        "profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "65d3c72b414291017ca14e18",
+        "department": "Writing",
+        "id": 1236448,
+        "job": "Characters",
+        "name": "William Moulton Marston",
+        "profile_path": "/o5wbY2yg6RDAC9VXoQKGpN2YeBP.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "65d3c6a9414291017ca14d91",
+        "department": "Writing",
+        "id": 1368162,
+        "job": "Characters",
+        "name": "Gardner Fox",
+        "profile_path": "/uaMj71gVjjJHpqBEomTKmDkeYQR.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "65d3c6e923d278017cf34326",
+        "department": "Writing",
+        "id": 20008,
+        "job": "Characters",
+        "name": "Joe Shuster",
+        "profile_path": "/bb2RpPm1GZy45dxndVdlxNx7AvU.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "65d3c6f8bbcae0018203b679",
+        "department": "Writing",
+        "id": 20007,
+        "job": "Characters",
+        "name": "Jerry Siegel",
+        "profile_path": "/tpkgpm3pHrkSNewoDasKz6Chpg4.jpg",
+        "gender": 2
+      }
+    ],
+    "id": 0
+  },
+  "episode_run_time": [
+    23
+  ],
+  "external_ids": {
+    "imdb_id": "tt6025022",
+    "freebase_mid": "/m/03w6gj",
+    "id": 0
+  },
+  "first_air_date": "2004-07-31T00:00:00-04:00",
+  "genre_ids": [],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action \u0026 Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi \u0026 Fantasy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 84200,
+  "images": {
+    "backdrops": [],
+    "posters": []
+  },
+  "in_production": false,
+  "keywords": {
+    "id": 0,
+    "results": [
+      {
+        "id": 9717,
+        "name": "based on comic"
+      },
+      {
+        "id": 155030,
+        "name": "superhero team"
+      }
+    ]
+  },
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2006-05-13T00:00:00-04:00",
+  "last_episode_to_air": {
+    "air_date": "2006-05-13T00:00:00-04:00",
+    "name": "Destroyer",
+    "overview": "Faced with a common enemy, Lex Luthor and his criminals offer the League to join.",
+    "production_code": "",
+    "show_id": 84200,
+    "still_path": "/62eGl9u2vMV2ONIbHGFt3vRuT3T.jpg",
+    "vote_average": 7.8,
+    "vote_count": 6,
+    "id": 1659564,
+    "season_number": 3,
+    "episode_number": 13
+  },
+  "name": "Justice League Unlimited",
+  "networks": [
+    {
+      "logo_path": "/c5OC6oVCg6QP4eqzW6XIq17CQjI.png",
+      "id": 56,
+      "name": "Cartoon Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 39,
+  "number_of_seasons": 3,
+  "original_language": "en",
+  "original_name": "Justice League Unlimited",
+  "origin_country": [
+    "US"
+  ],
+  "overview": "The galaxy\u0027s most powerful superheroes return to battle the allied villains and criminal plots that endanger the universe.",
+  "popularity": 14.5763,
+  "poster_path": "/vRRvCUREeqqnp3hHdqep83eQjdP.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "name": "Warner Bros. Animation",
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "origin_country": "US"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-07-31T00:00:00-04:00",
+      "episode_count": 13,
+      "id": 112927,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/fkhbqN2JhS29XJXsHzLrS3TKq05.jpg",
+      "season_number": 1
+    },
+    {
+      "air_date": "2005-02-05T00:00:00-05:00",
+      "episode_count": 13,
+      "id": 112929,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/dXtghDWRNsbTaiEn5kpgEqqj4Yi.jpg",
+      "season_number": 2
+    },
+    {
+      "air_date": "2005-09-17T00:00:00-04:00",
+      "episode_count": 13,
+      "id": 115412,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/p2H3Xlk8o4fQtPfMxO3uXZAMc47.jpg",
+      "season_number": 3
+    }
+  ],
+  "reviews": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "similar": {
+    "id": 0,
+    "results": []
+  },
+  "recommendations": {
+    "id": 0,
+    "results": []
+  },
+  "status": "Ended",
+  "translations": {
+    "id": 0,
+    "translations": []
+  },
+  "type": "Scripted",
+  "videos": {
+    "id": 0,
+    "results": []
+  },
+  "vote_average": 8.274,
+  "vote_count": 856
+}
