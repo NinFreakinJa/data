@@ -1,3 +1,165 @@
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00302.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 2
+Segment map: 9,0
+File name: Star Wars- The Phantom Menace_t00.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00105.mpls
+Duration: 0:00:21
+Chapters count: 3
+Size: 11.6 MB
+Segment count: 4
+Segment map: 27,28,29,0
+File name: Star Wars- The Phantom Menace_t01.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00104.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.9 MB
+Segment count: 2
+Segment map: 26,0
+File name: Star Wars- The Phantom Menace_t02.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00102.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 4.8 MB
+Segment count: 3
+Segment map: 25,5,0
+File name: Star Wars- The Phantom Menace_t03.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00803.mpls
+Duration: 2:16:11
+Chapters count: 50
+Size: 53.4 GB
+Segment count: 18
+Segment map: 94,83,75,84,76,85,77,86,78,87,79,88,80,89,81,90,82,91
+File name: Star Wars- The Phantom Menace_t04.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00101.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 4.0 MB
+Segment count: 3
+Segment map: 24,4,0
+File name: Star Wars- The Phantom Menace_t05.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00902.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 2.3 MB
+Segment count: 3
+Segment map: 64,65,0
+File name: Star Wars- The Phantom Menace_t06.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00802.mpls
+Duration: 2:16:11
+Chapters count: 50
+Size: 53.4 GB
+Segment count: 18
+Segment map: 93,83,75,84,76,85,77,86,78,87,79,88,80,89,81,90,82,91
+File name: Star Wars- The Phantom Menace_t07.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00002.mpls
+Duration: 0:00:03
+Chapters count: 2
+Size: 6.2 MB
+Segment count: 2
+Segment map: 150,151
+File name: Star Wars- The Phantom Menace_t08.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00801.mpls
+Duration: 2:16:11
+Chapters count: 50
+Size: 53.4 GB
+Segment count: 18
+Segment map: 92,83,75,84,76,85,77,86,78,87,79,88,80,89,81,90,82,91
+File name: Star Wars- The Phantom Menace_t09.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00042.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 6.2 MB
+Segment count: 2
+Segment map: 6,0
+File name: Star Wars- The Phantom Menace_t10.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00041.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 1.4 MB
+Segment count: 2
+Segment map: 3,0
+File name: Star Wars- The Phantom Menace_t11.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00040.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.2 MB
+Segment count: 2
+Segment map: 1,0
+File name: Star Wars- The Phantom Menace_t12.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00301.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.9 MB
+Segment count: 2
+Segment map: 8,0
+File name: Star Wars- The Phantom Menace_t13.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00106.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.8 MB
+Segment count: 2
+Segment map: 30,0
+File name: Star Wars- The Phantom Menace_t14.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00020.mpls
+Duration: 0:01:58
+Chapters count: 3
+Size: 665.9 MB
+Segment count: 2
+Segment map: 40,41
+File name: Star Wars- The Phantom Menace_t15.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00300.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.9 MB
+Segment count: 2
+Segment map: 19,0
+File name: Star Wars- The Phantom Menace_t16.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00100.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.7 MB
+Segment count: 2
+Segment map: 14,0
+File name: Star Wars- The Phantom Menace_t17.mkv
+
 Name: Star Wars: The Phantom Menace
 Source file name: 00800.mpls
 Duration: 2:16:11
@@ -60,3 +222,325 @@ Chapters:
 -Naboo Celebration
 -End Credits
 File name: Star Wars Episode I - The Phantom Menace (1999) [2160p].mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00306.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 0.8 MB
+Segment count: 2
+Segment map: 37,0
+File name: Star Wars- The Phantom Menace_t19.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00305.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 3.8 MB
+Segment count: 2
+Segment map: 36,0
+File name: Star Wars- The Phantom Menace_t20.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00035.m2ts
+Duration: 0:00:41
+Size: 23.8 MB
+Segment count: 1
+Segment map: 35
+File name: Star Wars- The Phantom Menace_t21.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00032.m2ts
+Duration: 0:00:05
+Size: 2.6 MB
+Segment count: 1
+Segment map: 32
+File name: Star Wars- The Phantom Menace_t22.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00031.m2ts
+Duration: 0:00:05
+Size: 2.3 MB
+Segment count: 1
+Segment map: 31
+File name: Star Wars- The Phantom Menace_t23.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00023.m2ts
+Duration: 0:00:05
+Size: 3.2 MB
+Segment count: 1
+Segment map: 23
+File name: Star Wars- The Phantom Menace_t24.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00022.m2ts
+Duration: 0:00:07
+Size: 1.3 MB
+Segment count: 1
+Segment map: 22
+File name: Star Wars- The Phantom Menace_t25.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00021.m2ts
+Duration: 0:00:07
+Size: 1.1 MB
+Segment count: 1
+Segment map: 21
+File name: Star Wars- The Phantom Menace_t26.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00020.m2ts
+Duration: 0:00:07
+Size: 1.5 MB
+Segment count: 1
+Segment map: 20
+File name: Star Wars- The Phantom Menace_t27.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00017.m2ts
+Duration: 0:00:07
+Size: 1.4 MB
+Segment count: 1
+Segment map: 17
+File name: Star Wars- The Phantom Menace_t28.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00007.m2ts
+Duration: 0:00:07
+Size: 1.2 MB
+Segment count: 1
+Segment map: 7
+File name: Star Wars- The Phantom Menace_t29.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00013.m2ts
+Duration: 0:00:07
+Size: 1.4 MB
+Segment count: 1
+Segment map: 13
+File name: Star Wars- The Phantom Menace_t30.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00012.m2ts
+Duration: 0:00:07
+Size: 1.6 MB
+Segment count: 1
+Segment map: 12
+File name: Star Wars- The Phantom Menace_t31.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00002.m2ts
+Duration: 0:00:07
+Size: 1.2 MB
+Segment count: 1
+Segment map: 2
+File name: Star Wars- The Phantom Menace_t32.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00150.m2ts
+Duration: 0:00:01
+Size: 0.4 MB
+Segment count: 1
+Segment map: 150
+File name: Star Wars- The Phantom Menace_t33.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00039.m2ts
+Duration: 0:00:08
+Size: 1.5 MB
+Segment count: 1
+Segment map: 39
+File name: Star Wars- The Phantom Menace_t34.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00018.m2ts
+Duration: 0:00:30
+Size: 0.6 MB
+Segment count: 1
+Segment map: 18
+File name: Star Wars- The Phantom Menace_t35.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00151.m2ts
+Duration: 0:00:02
+Size: 5.7 MB
+Segment count: 1
+Segment map: 151
+File name: Star Wars- The Phantom Menace_t36.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00053.m2ts
+Duration: 0:00:08
+Size: 1.6 MB
+Segment count: 1
+Segment map: 53
+File name: Star Wars- The Phantom Menace_t37.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00052.m2ts
+Duration: 0:00:08
+Size: 1.8 MB
+Segment count: 1
+Segment map: 52
+File name: Star Wars- The Phantom Menace_t38.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00050.m2ts
+Duration: 0:00:05
+Size: 3.4 MB
+Segment count: 1
+Segment map: 50
+File name: Star Wars- The Phantom Menace_t39.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00049.m2ts
+Duration: 0:00:05
+Size: 2.7 MB
+Segment count: 1
+Segment map: 49
+File name: Star Wars- The Phantom Menace_t40.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00048.m2ts
+Duration: 0:00:05
+Size: 2.7 MB
+Segment count: 1
+Segment map: 48
+File name: Star Wars- The Phantom Menace_t41.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00034.m2ts
+Duration: 0:00:05
+Size: 2.5 MB
+Segment count: 1
+Segment map: 34
+File name: Star Wars- The Phantom Menace_t42.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00045.m2ts
+Duration: 0:00:07
+Size: 1.1 MB
+Segment count: 1
+Segment map: 45
+File name: Star Wars- The Phantom Menace_t43.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00044.m2ts
+Duration: 0:00:07
+Size: 1.2 MB
+Segment count: 1
+Segment map: 44
+File name: Star Wars- The Phantom Menace_t44.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00043.m2ts
+Duration: 0:00:07
+Size: 1.1 MB
+Segment count: 1
+Segment map: 43
+File name: Star Wars- The Phantom Menace_t45.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00042.m2ts
+Duration: 0:00:07
+Size: 1.2 MB
+Segment count: 1
+Segment map: 42
+File name: Star Wars- The Phantom Menace_t46.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00015.m2ts
+Duration: 0:00:02
+Size: 3.1 MB
+Segment count: 1
+Segment map: 15
+File name: Star Wars- The Phantom Menace_t47.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00000.m2ts
+Duration: 0:00:00
+Size: 0.0 MB
+Segment count: 1
+Segment map: 0
+File name: Star Wars- The Phantom Menace_t48.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00016.m2ts
+Duration: 0:00:07
+Size: 1.2 MB
+Segment count: 1
+Segment map: 16
+File name: Star Wars- The Phantom Menace_t49.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00033.m2ts
+Duration: 0:00:08
+Size: 2.4 MB
+Segment count: 1
+Segment map: 33
+File name: Star Wars- The Phantom Menace_t50.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00011.m2ts
+Duration: 0:00:08
+Size: 3.6 MB
+Segment count: 1
+Segment map: 11
+File name: Star Wars- The Phantom Menace_t51.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00010.m2ts
+Duration: 0:00:08
+Size: 1.7 MB
+Segment count: 1
+Segment map: 10
+File name: Star Wars- The Phantom Menace_t52.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00038.m2ts
+Duration: 0:00:08
+Size: 0.8 MB
+Segment count: 1
+Segment map: 38
+File name: Star Wars- The Phantom Menace_t53.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00054.m2ts
+Duration: 0:00:08
+Size: 1.7 MB
+Segment count: 1
+Segment map: 54
+File name: Star Wars- The Phantom Menace_t54.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00051.m2ts
+Duration: 0:00:08
+Size: 1.6 MB
+Segment count: 1
+Segment map: 51
+File name: Star Wars- The Phantom Menace_t55.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00047.m2ts
+Duration: 0:00:05
+Size: 2.6 MB
+Segment count: 1
+Segment map: 47
+File name: Star Wars- The Phantom Menace_t56.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00073.m2ts
+Duration: 0:00:00
+Size: 0.1 MB
+Segment count: 1
+Segment map: 73
+File name: Star Wars- The Phantom Menace_t57.mkv
+
+Name: Star Wars: The Phantom Menace (English)
+Source file name: 00046.m2ts
+Duration: 0:00:07
+Size: 1.3 MB
+Segment count: 1
+Segment map: 46
+File name: Star Wars- The Phantom Menace_t58.mkv
