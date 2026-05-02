@@ -1,3 +1,1683 @@
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_MenuSelectorPage_Intro
+Source file name: 00152.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 12.0 MB
+Segment count: 1
+Segment map: 178
+File name: Star Wars- The Rise of Skywalker-SEG_MenuSelectorPage_Intro_t00.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_UltraPlayPage_Intro
+Source file name: 01163.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 12.0 MB
+Segment count: 1
+Segment map: 334
+File name: Star Wars- The Rise of Skywalker-SEG_UltraPlayPage_Intro_t01.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: LoadingPlaylist
+Source file name: 01313.mpls
+Duration: 0:00:01
+Chapters count: 1
+Size: 0.0 MB
+Segment count: 1
+Segment map: 437
+File name: Star Wars- The Rise of Skywalker-LoadingPlaylist_t02.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_MenuSelectorPage_OUT
+Source file name: 01314.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 12.0 MB
+Segment count: 1
+Segment map: 438
+File name: Star Wars- The Rise of Skywalker-SEG_MenuSelectorPage_OUT_t03.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: FBI_eng
+Source file name: 00004.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 1.9 MB
+Segment count: 1
+Segment map: 246
+File name: Star Wars- The Rise of Skywalker-FBI_eng_t04.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Parental_Warning
+Source file name: 01129.mpls
+Duration: 0:00:01
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 264
+File name: Star Wars- The Rise of Skywalker-Parental_Warning_t05.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: German_FSK
+Source file name: 01132.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 5.5 MB
+Segment count: 1
+Segment map: 303
+File name: Star Wars- The Rise of Skywalker-German_FSK_t06.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: IPR_eng
+Source file name: 01136.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 1.3 MB
+Segment count: 1
+Segment map: 307
+File name: Star Wars- The Rise of Skywalker-IPR_eng_t07.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_Studio_jpn
+Source file name: 01133.mpls
+Duration: 0:00:21
+Chapters count: 3
+Size: 11.0 MB
+Segment count: 1
+Segment map: 304
+File name: Star Wars- The Rise of Skywalker-SEG_Studio_jpn_t08.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_kor
+Source file name: 01135.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.0 MB
+Segment count: 1
+Segment map: 306
+File name: Star Wars- The Rise of Skywalker-Studio_kor_t09.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_zho_SM
+Source file name: 01156.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.8 MB
+Segment count: 1
+Segment map: 327
+File name: Star Wars- The Rise of Skywalker-Studio_zho_SM_t10.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_eng
+Source file name: 01157.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.6 MB
+Segment count: 1
+Segment map: 328
+File name: Star Wars- The Rise of Skywalker-Studio_eng_t11.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_fra_PF
+Source file name: 01158.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 3.3 MB
+Segment count: 1
+Segment map: 329
+File name: Star Wars- The Rise of Skywalker-Studio_fra_PF_t12.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_fra_CF
+Source file name: 01159.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 4.3 MB
+Segment count: 1
+Segment map: 330
+File name: Star Wars- The Rise of Skywalker-Studio_fra_CF_t13.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_deu
+Source file name: 01160.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.9 MB
+Segment count: 1
+Segment map: 331
+File name: Star Wars- The Rise of Skywalker-Studio_deu_t14.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_spa_LS
+Source file name: 01161.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 4.8 MB
+Segment count: 1
+Segment map: 332
+File name: Star Wars- The Rise of Skywalker-Studio_spa_LS_t15.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_eng
+Source file name: 01141.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.1 MB
+Segment count: 1
+Segment map: 312
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_eng_t16.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_fra_CF
+Source file name: 01142.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 313
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_fra_CF_t17.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_fra_PF
+Source file name: 01143.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.2 MB
+Segment count: 1
+Segment map: 314
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_fra_PF_t18.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_deu
+Source file name: 01144.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.2 MB
+Segment count: 1
+Segment map: 315
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_deu_t19.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_jpn
+Source file name: 01145.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.4 MB
+Segment count: 1
+Segment map: 316
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_jpn_t20.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_kor
+Source file name: 01146.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.0 MB
+Segment count: 1
+Segment map: 317
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_kor_t21.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_spa_LS
+Source file name: 01147.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.3 MB
+Segment count: 1
+Segment map: 318
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_spa_LS_t22.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_zho_TM
+Source file name: 01148.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.5 MB
+Segment count: 1
+Segment map: 319
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_zho_TM_t23.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_tha
+Source file name: 01149.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.3 MB
+Segment count: 1
+Segment map: 320
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_tha_t24.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_dan
+Source file name: 01319.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.1 MB
+Segment count: 1
+Segment map: 440
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_dan_t25.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_nld
+Source file name: 01320.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.2 MB
+Segment count: 1
+Segment map: 441
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_nld_t26.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_fin
+Source file name: 01321.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.0 MB
+Segment count: 1
+Segment map: 442
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_fin_t27.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_nor
+Source file name: 01322.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.1 MB
+Segment count: 1
+Segment map: 443
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_nor_t28.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_swe
+Source file name: 01323.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.1 MB
+Segment count: 1
+Segment map: 444
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_swe_t29.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_Resume_Intro
+Source file name: 01335.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 12.0 MB
+Segment count: 1
+Segment map: 455
+File name: Star Wars- The Rise of Skywalker-SEG_Resume_Intro_t30.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_Resume_OUT
+Source file name: 01336.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 12.0 MB
+Segment count: 1
+Segment map: 456
+File name: Star Wars- The Rise of Skywalker-SEG_Resume_OUT_t31.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_Black
+Source file name: 01338.mpls
+Duration: 0:00:01
+Chapters count: 1
+Size: 0.0 MB
+Segment count: 1
+Segment map: 457
+File name: Star Wars- The Rise of Skywalker-SEG_Black_t32.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG Intro
+Source file name: 00156.mpls
+Duration: 0:00:54
+Chapters count: 1
+Size: 331.3 MB
+Segment count: 1
+Segment map: 174
+File name: Star Wars- The Rise of Skywalker-SEG Intro_t33.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG Loop
+Source file name: 00157.mpls
+Duration: 0:00:45
+Chapters count: 1
+Size: 282.7 MB
+Segment count: 1
+Segment map: 175
+File name: Star Wars- The Rise of Skywalker-SEG Loop_t34.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_ara
+Source file name: 01349.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 462
+File name: Star Wars- The Rise of Skywalker-Studio_ara_t35.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_est
+Source file name: 01350.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 1.9 MB
+Segment count: 1
+Segment map: 463
+File name: Star Wars- The Rise of Skywalker-Studio_est_t36.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_ind
+Source file name: 01351.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 3.7 MB
+Segment count: 1
+Segment map: 464
+File name: Star Wars- The Rise of Skywalker-Studio_ind_t37.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_bul
+Source file name: 01352.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 1.9 MB
+Segment count: 1
+Segment map: 465
+File name: Star Wars- The Rise of Skywalker-Studio_bul_t38.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_ces
+Source file name: 01353.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 3.0 MB
+Segment count: 1
+Segment map: 466
+File name: Star Wars- The Rise of Skywalker-Studio_ces_t39.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_hrv
+Source file name: 01354.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.8 MB
+Segment count: 1
+Segment map: 467
+File name: Star Wars- The Rise of Skywalker-Studio_hrv_t40.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_zho_TM
+Source file name: 01355.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.8 MB
+Segment count: 1
+Segment map: 468
+File name: Star Wars- The Rise of Skywalker-Studio_zho_TM_t41.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_ell
+Source file name: 01356.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 3.2 MB
+Segment count: 1
+Segment map: 469
+File name: Star Wars- The Rise of Skywalker-Studio_ell_t42.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_nld
+Source file name: 01357.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 3.4 MB
+Segment count: 1
+Segment map: 470
+File name: Star Wars- The Rise of Skywalker-Studio_nld_t43.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_nor
+Source file name: 01358.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.9 MB
+Segment count: 1
+Segment map: 471
+File name: Star Wars- The Rise of Skywalker-Studio_nor_t44.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_heb
+Source file name: 01359.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.3 MB
+Segment count: 1
+Segment map: 472
+File name: Star Wars- The Rise of Skywalker-Studio_heb_t45.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_hun
+Source file name: 01360.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 3.9 MB
+Segment count: 1
+Segment map: 473
+File name: Star Wars- The Rise of Skywalker-Studio_hun_t46.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_fin
+Source file name: 01361.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.8 MB
+Segment count: 1
+Segment map: 474
+File name: Star Wars- The Rise of Skywalker-Studio_fin_t47.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_dan
+Source file name: 01362.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 3.0 MB
+Segment count: 1
+Segment map: 475
+File name: Star Wars- The Rise of Skywalker-Studio_dan_t48.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_hin
+Source file name: 01363.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 1.3 MB
+Segment count: 1
+Segment map: 476
+File name: Star Wars- The Rise of Skywalker-Studio_hin_t49.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_ita
+Source file name: 01364.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.5 MB
+Segment count: 1
+Segment map: 477
+File name: Star Wars- The Rise of Skywalker-Studio_ita_t50.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_lit
+Source file name: 01365.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.3 MB
+Segment count: 1
+Segment map: 478
+File name: Star Wars- The Rise of Skywalker-Studio_lit_t51.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_isl
+Source file name: 01366.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.3 MB
+Segment count: 1
+Segment map: 479
+File name: Star Wars- The Rise of Skywalker-Studio_isl_t52.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_lav
+Source file name: 01367.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.1 MB
+Segment count: 1
+Segment map: 480
+File name: Star Wars- The Rise of Skywalker-Studio_lav_t53.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_msa
+Source file name: 01368.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.4 MB
+Segment count: 1
+Segment map: 481
+File name: Star Wars- The Rise of Skywalker-Studio_msa_t54.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_pol
+Source file name: 01369.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.9 MB
+Segment count: 1
+Segment map: 482
+File name: Star Wars- The Rise of Skywalker-Studio_pol_t55.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_por_BP
+Source file name: 01370.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.7 MB
+Segment count: 1
+Segment map: 483
+File name: Star Wars- The Rise of Skywalker-Studio_por_BP_t56.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_por_PP
+Source file name: 01371.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.8 MB
+Segment count: 1
+Segment map: 484
+File name: Star Wars- The Rise of Skywalker-Studio_por_PP_t57.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_ron
+Source file name: 01372.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.4 MB
+Segment count: 1
+Segment map: 485
+File name: Star Wars- The Rise of Skywalker-Studio_ron_t58.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_rus
+Source file name: 01373.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.9 MB
+Segment count: 1
+Segment map: 486
+File name: Star Wars- The Rise of Skywalker-Studio_rus_t59.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_srp
+Source file name: 01374.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.5 MB
+Segment count: 1
+Segment map: 487
+File name: Star Wars- The Rise of Skywalker-Studio_srp_t60.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_spa_CS
+Source file name: 01375.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.8 MB
+Segment count: 1
+Segment map: 488
+File name: Star Wars- The Rise of Skywalker-Studio_spa_CS_t61.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_slk
+Source file name: 01376.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.8 MB
+Segment count: 1
+Segment map: 489
+File name: Star Wars- The Rise of Skywalker-Studio_slk_t62.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_swe
+Source file name: 01377.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 3.1 MB
+Segment count: 1
+Segment map: 490
+File name: Star Wars- The Rise of Skywalker-Studio_swe_t63.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_tha
+Source file name: 01378.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.3 MB
+Segment count: 1
+Segment map: 491
+File name: Star Wars- The Rise of Skywalker-Studio_tha_t64.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_tur
+Source file name: 01379.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 4.5 MB
+Segment count: 1
+Segment map: 492
+File name: Star Wars- The Rise of Skywalker-Studio_tur_t65.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_slv
+Source file name: 01380.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.8 MB
+Segment count: 1
+Segment map: 493
+File name: Star Wars- The Rise of Skywalker-Studio_slv_t66.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_ukr
+Source file name: 01381.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 3.2 MB
+Segment count: 1
+Segment map: 494
+File name: Star Wars- The Rise of Skywalker-Studio_ukr_t67.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_vie
+Source file name: 01382.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.9 MB
+Segment count: 1
+Segment map: 495
+File name: Star Wars- The Rise of Skywalker-Studio_vie_t68.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_eng_ADES
+Source file name: 01383.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 2.7 MB
+Segment count: 1
+Segment map: 496
+File name: Star Wars- The Rise of Skywalker-Studio_eng_ADES_t69.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_ara
+Source file name: 01404.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.1 MB
+Segment count: 1
+Segment map: 618
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_ara_t70.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_ind
+Source file name: 01405.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.2 MB
+Segment count: 1
+Segment map: 619
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_ind_t71.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_bul
+Source file name: 01406.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.3 MB
+Segment count: 1
+Segment map: 620
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_bul_t72.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_spa_CS
+Source file name: 01407.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 621
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_spa_CS_t73.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_zho_SM
+Source file name: 01408.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.0 MB
+Segment count: 1
+Segment map: 622
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_zho_SM_t74.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_zho_TM
+Source file name: 01409.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 0.9 MB
+Segment count: 1
+Segment map: 623
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_zho_TM_t75.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_hrv
+Source file name: 01410.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 624
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_hrv_t76.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_dan
+Source file name: 01411.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 625
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_dan_t77.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_nld
+Source file name: 01412.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 626
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_nld_t78.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_eng
+Source file name: 01413.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.0 MB
+Segment count: 1
+Segment map: 627
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_eng_t79.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_deu
+Source file name: 01414.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 3.5 MB
+Segment count: 1
+Segment map: 628
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_deu_t80.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_est
+Source file name: 01415.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 629
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_est_t81.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_fin
+Source file name: 01416.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 630
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_fin_t82.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_fra_CF
+Source file name: 01417.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.0 MB
+Segment count: 1
+Segment map: 631
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_fra_CF_t83.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_fra_PF
+Source file name: 01418.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 632
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_fra_PF_t84.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_ell
+Source file name: 01419.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.3 MB
+Segment count: 1
+Segment map: 633
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_ell_t85.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_heb
+Source file name: 01420.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.2 MB
+Segment count: 1
+Segment map: 634
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_heb_t86.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_hin
+Source file name: 01421.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 635
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_hin_t87.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_hun
+Source file name: 01422.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.5 MB
+Segment count: 1
+Segment map: 636
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_hun_t88.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_isl
+Source file name: 01423.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 637
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_isl_t89.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_jpn
+Source file name: 01424.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 3.8 MB
+Segment count: 1
+Segment map: 638
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_jpn_t90.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_kor
+Source file name: 01425.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 0.8 MB
+Segment count: 1
+Segment map: 639
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_kor_t91.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_spa_LS
+Source file name: 01426.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.0 MB
+Segment count: 1
+Segment map: 640
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_spa_LS_t92.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_lav
+Source file name: 01427.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 641
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_lav_t93.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_lit
+Source file name: 01428.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.2 MB
+Segment count: 1
+Segment map: 642
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_lit_t94.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_msa
+Source file name: 01429.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.2 MB
+Segment count: 1
+Segment map: 643
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_msa_t95.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_nor
+Source file name: 01430.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 644
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_nor_t96.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_pol
+Source file name: 01431.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 645
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_pol_t97.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_por_BP
+Source file name: 01432.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.2 MB
+Segment count: 1
+Segment map: 646
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_por_BP_t98.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_por_PP
+Source file name: 01433.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 647
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_por_PP_t99.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_ron
+Source file name: 01434.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.2 MB
+Segment count: 1
+Segment map: 648
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_ron_t100.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_rus
+Source file name: 01435.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 649
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_rus_t101.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_srp
+Source file name: 01436.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 650
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_srp_t102.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_swe
+Source file name: 01437.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.9 MB
+Segment count: 1
+Segment map: 651
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_swe_t103.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_tha
+Source file name: 01440.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.6 MB
+Segment count: 1
+Segment map: 654
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_tha_t104.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_tur
+Source file name: 01441.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.5 MB
+Segment count: 1
+Segment map: 655
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_tur_t105.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_ukr
+Source file name: 01442.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 656
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_ukr_t106.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_ita
+Source file name: 01443.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 657
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_ita_t107.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_slk
+Source file name: 01444.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 658
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_slk_t108.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_slv
+Source file name: 01445.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 659
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_slv_t109.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_vie
+Source file name: 01446.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.5 MB
+Segment count: 1
+Segment map: 660
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_vie_t110.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Audio_Comm_ces
+Source file name: 01447.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 661
+File name: Star Wars- The Rise of Skywalker-Audio_Comm_ces_t111.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_ara
+Source file name: 01448.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.3 MB
+Segment count: 1
+Segment map: 572
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_ara_t112.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_ind
+Source file name: 01449.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.9 MB
+Segment count: 1
+Segment map: 573
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_ind_t113.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_bul
+Source file name: 01450.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 574
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_bul_t114.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_spa_CS
+Source file name: 01451.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 575
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_spa_CS_t115.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_zho_SM
+Source file name: 01452.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.5 MB
+Segment count: 1
+Segment map: 576
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_zho_SM_t116.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_zho_TM
+Source file name: 01453.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.4 MB
+Segment count: 1
+Segment map: 577
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_zho_TM_t117.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_hrv
+Source file name: 01454.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 578
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_hrv_t118.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_dan
+Source file name: 01455.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 579
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_dan_t119.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_nld
+Source file name: 01456.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 580
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_nld_t120.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_eng
+Source file name: 01457.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 581
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_eng_t121.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_deu
+Source file name: 01458.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.0 MB
+Segment count: 1
+Segment map: 586
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_deu_t122.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_est
+Source file name: 01459.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 582
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_est_t123.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_fin
+Source file name: 01460.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 583
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_fin_t124.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_fra_CF
+Source file name: 01461.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.0 MB
+Segment count: 1
+Segment map: 584
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_fra_CF_t125.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_fra_PF
+Source file name: 01462.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 585
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_fra_PF_t126.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_ell
+Source file name: 01463.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.0 MB
+Segment count: 1
+Segment map: 587
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_ell_t127.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_heb
+Source file name: 01464.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.3 MB
+Segment count: 1
+Segment map: 588
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_heb_t128.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_hin
+Source file name: 01465.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 589
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_hin_t129.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_hun
+Source file name: 01466.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.6 MB
+Segment count: 1
+Segment map: 590
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_hun_t130.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_isl
+Source file name: 01467.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.5 MB
+Segment count: 1
+Segment map: 591
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_isl_t131.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_jpn
+Source file name: 01468.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 4.3 MB
+Segment count: 1
+Segment map: 592
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_jpn_t132.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_kor
+Source file name: 01469.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.4 MB
+Segment count: 1
+Segment map: 593
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_kor_t133.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_spa_LS
+Source file name: 01470.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.9 MB
+Segment count: 1
+Segment map: 594
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_spa_LS_t134.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_lav
+Source file name: 01471.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.5 MB
+Segment count: 1
+Segment map: 595
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_lav_t135.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_lit
+Source file name: 01472.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.5 MB
+Segment count: 1
+Segment map: 596
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_lit_t136.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_msa
+Source file name: 01473.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.1 MB
+Segment count: 1
+Segment map: 597
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_msa_t137.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_nor
+Source file name: 01474.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.0 MB
+Segment count: 1
+Segment map: 598
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_nor_t138.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_pol
+Source file name: 01475.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 599
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_pol_t139.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_por_BP
+Source file name: 01384.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.1 MB
+Segment count: 1
+Segment map: 600
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_por_BP_t140.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_por_PP
+Source file name: 01385.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.9 MB
+Segment count: 1
+Segment map: 601
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_por_PP_t141.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_ron
+Source file name: 01386.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.0 MB
+Segment count: 1
+Segment map: 602
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_ron_t142.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_rus
+Source file name: 01387.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.1 MB
+Segment count: 1
+Segment map: 603
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_rus_t143.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_srp
+Source file name: 01388.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 604
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_srp_t144.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_swe
+Source file name: 01391.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.0 MB
+Segment count: 1
+Segment map: 607
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_swe_t145.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_tam
+Source file name: 01392.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 3.1 MB
+Segment count: 1
+Segment map: 608
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_tam_t146.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_tel
+Source file name: 01393.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 3.6 MB
+Segment count: 1
+Segment map: 609
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_tel_t147.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_tha
+Source file name: 01394.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 2.1 MB
+Segment count: 1
+Segment map: 610
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_tha_t148.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_tur
+Source file name: 01395.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.1 MB
+Segment count: 1
+Segment map: 611
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_tur_t149.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_ukr
+Source file name: 01396.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 612
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_ukr_t150.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_ita
+Source file name: 01399.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 615
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_ita_t151.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_slk
+Source file name: 01389.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.9 MB
+Segment count: 1
+Segment map: 605
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_slk_t152.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_slv
+Source file name: 01390.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.5 MB
+Segment count: 1
+Segment map: 606
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_slv_t153.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_vie
+Source file name: 01397.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.8 MB
+Segment count: 1
+Segment map: 613
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_vie_t154.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ML_Audio_Comm_ces
+Source file name: 01398.mpls
+Duration: 0:00:08
+Chapters count: 1
+Size: 1.7 MB
+Segment count: 1
+Segment map: 614
+File name: Star Wars- The Rise of Skywalker-ML_Audio_Comm_ces_t155.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: HDR Disclaimer_ita
+Source file name: 01150.mpls
+Duration: 0:00:07
+Chapters count: 1
+Size: 1.2 MB
+Segment count: 1
+Segment map: 662
+File name: Star Wars- The Rise of Skywalker-HDR Disclaimer_ita_t156.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_MainFeature_ENG
+Source file name: 00801.mpls
+Duration: 0:02:01
+Chapters count: 1
+Size: 841.8 MB
+Segment count: 1
+Segment map: 294
+File name: Star Wars- The Rise of Skywalker-SEG_MainFeature_ENG_t157.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_Dub_fra
+Source file name: 00802.mpls
+Duration: 0:00:15
+Chapters count: 3
+Size: 7.8 MB
+Segment count: 1
+Segment map: 295
+File name: Star Wars- The Rise of Skywalker-SEG_Dub_fra_t158.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_MenuSelectorPage_OUT 2
+Source file name: 01477.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 12.0 MB
+Segment count: 1
+Segment map: 663
+File name: Star Wars- The Rise of Skywalker-SEG_MenuSelectorPage_OUT 2_t159.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_Black 2
+Source file name: 01479.mpls
+Duration: 0:00:01
+Chapters count: 1
+Size: 0.0 MB
+Segment count: 1
+Segment map: 664
+File name: Star Wars- The Rise of Skywalker-SEG_Black 2_t160.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Studio_spa_LS_intl
+Source file name: 01617.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 3.1 MB
+Segment count: 1
+Segment map: 668
+File name: Star Wars- The Rise of Skywalker-Studio_spa_LS_intl_t161.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_MainFeature_B_DCFM_D_Common
+Source file name: 01618.mpls
+Duration: 2:19:51
+Chapters count: 1
+Size: 57.6 GB
+Segment count: 1
+Segment map: 669
+File name: Star Wars- The Rise of Skywalker-SEG_MainFeature_B_DCFM_D_Common_t162.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_MainFeature_FRC
+Source file name: 01619.mpls
+Duration: 0:02:01
+Chapters count: 1
+Size: 845.8 MB
+Segment count: 1
+Segment map: 670
+File name: Star Wars- The Rise of Skywalker-SEG_MainFeature_FRC_t163.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_MainFeature_LAS
+Source file name: 01620.mpls
+Duration: 0:02:01
+Chapters count: 1
+Size: 843.5 MB
+Segment count: 1
+Segment map: 671
+File name: Star Wars- The Rise of Skywalker-SEG_MainFeature_LAS_t164.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: SEG_Dub_spa
+Source file name: 01624.mpls
+Duration: 0:00:15
+Chapters count: 3
+Size: 9.6 MB
+Segment count: 1
+Segment map: 672
+File name: Star Wars- The Rise of Skywalker-SEG_Dub_spa_t165.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: MenuSelectorPage
+Source file name: 01316.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 24.0 MB
+Segment count: 2
+Segment map: 178,438
+File name: Star Wars- The Rise of Skywalker-MenuSelectorPage_t166.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: ResumePage
+Source file name: 01334.mpls
+Duration: 0:00:10
+Chapters count: 2
+Size: 24.0 MB
+Segment count: 2
+Segment map: 455,456
+File name: Star Wars- The Rise of Skywalker-ResumePage_t167.mkv
+
 Name: Star Wars: The Rise of Skywalker
 Comment: FPL_MainFeature_eng
 Source file name: 00800.mpls
@@ -55,3 +1735,63 @@ Chapters:
 -Saga's End
 -End Credits
 File name: Star Wars Episode IX - The Rise of Skywalker (2019) [2160p].mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: TMPL Main Menu
+Source file name: 00149.mpls
+Duration: 0:01:40
+Chapters count: 2
+Size: 614.0 MB
+Segment count: 2
+Segment map: 174,175
+File name: Star Wars- The Rise of Skywalker-TMPL Main Menu_t169.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Dub_fra
+Source file name: 01340.mpls
+Duration: 0:00:16
+Chapters count: 4
+Size: 7.8 MB
+Segment count: 2
+Segment map: 295,457
+File name: Star Wars- The Rise of Skywalker-Dub_fra_t170.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: DVM_UltraPlay_VPC
+Source file name: 01476.mpls
+Duration: 0:00:20
+Chapters count: 4
+Size: 48.0 MB
+Segment count: 4
+Segment map: 178,438,334,663
+File name: Star Wars- The Rise of Skywalker-DVM_UltraPlay_VPC_t171.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: FPL_MainFeature_fra
+Source file name: 01621.mpls
+Duration: 2:21:53
+Chapters count: 44
+Size: 58.4 GB
+Segment count: 2
+Segment map: 670,669
+File name: Star Wars- The Rise of Skywalker-FPL_MainFeature_fra_t172.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: FPL_MainFeature_spa
+Source file name: 01622.mpls
+Duration: 2:21:53
+Chapters count: 44
+Size: 58.4 GB
+Segment count: 2
+Segment map: 671,669
+File name: Star Wars- The Rise of Skywalker-FPL_MainFeature_spa_t173.mkv
+
+Name: Star Wars: The Rise of Skywalker (English)
+Comment: Dub_spa
+Source file name: 01623.mpls
+Duration: 0:00:16
+Chapters count: 4
+Size: 9.6 MB
+Segment count: 2
+Segment map: 672,457
+File name: Star Wars- The Rise of Skywalker-Dub_spa_t174.mkv
