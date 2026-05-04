@@ -1,3 +1,12 @@
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 01468.mpls
+Duration: 0:00:21
+Chapters count: 3
+Size: 11.2 MB
+Segment count: 1
+Segment map: 682
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t00.mkv
+
 Name: The Skywalker Legacy
 Source file name: 01747.mpls
 Duration: 2:06:11
@@ -7,6 +16,161 @@ Segment count: 1
 Segment map: 765
 Type: Extra
 File name: The Skywalker Legacy.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 01491.mpls
+Duration: 0:00:30
+Chapters count: 2
+Size: 2.9 MB
+Segment count: 1
+Segment map: 705
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t02.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 00149.mpls
+Duration: 0:01:40
+Chapters count: 2
+Size: 255.6 MB
+Segment count: 2
+Segment map: 616,617
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t03.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 01622.mpls
+Duration: 0:00:13
+Chapters count: 2
+Size: 7.8 MB
+Segment count: 2
+Segment map: 631,762
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t04.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 01624.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 22.0 MB
+Segment count: 2
+Segment map: 628,708
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t05.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 01646.mpls
+Duration: 0:00:13
+Chapters count: 2
+Size: 7.8 MB
+Segment count: 2
+Segment map: 640,763
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t06.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 01664.mpls
+Duration: 0:00:13
+Chapters count: 2
+Size: 7.8 MB
+Segment count: 2
+Segment map: 584,762
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t07.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 01666.mpls
+Duration: 0:00:16
+Chapters count: 2
+Size: 22.0 MB
+Segment count: 2
+Segment map: 586,708
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t08.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 01688.mpls
+Duration: 0:00:13
+Chapters count: 2
+Size: 7.8 MB
+Segment count: 2
+Segment map: 594,763
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t09.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 01696.mpls
+Duration: 0:00:05
+Chapters count: 1
+Size: 1.9 MB
+Segment count: 2
+Segment map: 662,729
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t10.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 01718.mpls
+Duration: 0:00:21
+Chapters count: 1
+Size: 11.3 MB
+Segment count: 2
+Segment map: 682,729
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t31.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 01741.mpls
+Duration: 0:00:10
+Chapters count: 1
+Size: 5.0 MB
+Segment count: 2
+Segment map: 709,710
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t52.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 00165.m2ts
+Duration: 0:00:13
+Size: 30.3 MB
+Segment count: 1
+Segment map: 165
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t53.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 00257.m2ts
+Duration: 0:00:40
+Size: 122.5 MB
+Segment count: 1
+Segment map: 257
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t55.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 00264.m2ts
+Duration: 0:00:00
+Size: 0.7 MB
+Segment count: 1
+Segment map: 264
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t56.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 00571.m2ts
+Duration: 0:00:30
+Size: 75.1 MB
+Segment count: 1
+Segment map: 571
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t58.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 00616.m2ts
+Duration: 0:00:54
+Size: 138.8 MB
+Segment count: 1
+Segment map: 616
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t103.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 00617.m2ts
+Duration: 0:00:45
+Size: 116.8 MB
+Segment count: 1
+Segment map: 617
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t104.mkv
+
+Name: Star Wars: The Rise of Skywalker Bonus Disc (English)
+Source file name: 00704.m2ts
+Duration: 0:00:41
+Size: 22.1 MB
+Segment count: 1
+Segment map: 704
+File name: Star Wars- The Rise of Skywalker Bonus Disc_t187.mkv
 
 Name: Pasaana Pursuit: Creating The Speeder Chase
 Source file name: 00766.m2ts
