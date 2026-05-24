@@ -131,7 +131,7 @@ Segment map: 487
 Type: Trailer
 File name: Theatrical Trailer.mkv
 
-Name: Back to the Future Part The Ride
+Name: Back to the Future The Ride
 Comment: SF_08_Ride_00_PlayAll
 Source file name: 01261.mpls
 Duration: 0:31:00

@@ -99,7 +99,7 @@ Segment map: 317
 Type: Trailer
 File name: Theatrical Trailer.mkv
 
-Name: Back to the Future Part The Ride
+Name: Back to the Future The Ride
 Source file name: 00318.mpls
 Duration: 0:31:06
 Chapters count: 3
