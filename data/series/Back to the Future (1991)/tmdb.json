@@ -1,0 +1,305 @@
+{
+  "account_states": {
+    "favorite": false,
+    "id": 0,
+    "watchlist": false
+  },
+  "alternative_titles": {
+    "id": 0,
+    "results": []
+  },
+  "backdrop_path": "/iOTb3PsZ1dXC7UlYKOAaNtUYrFc.jpg",
+  "changes": {
+    "changes": []
+  },
+  "content_ratings": {
+    "id": 0,
+    "results": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "created_by": [],
+  "credits": {
+    "cast": [
+      {
+        "cast_id": 0,
+        "character": "Marty McFly (voice)",
+        "credit_id": "52577a26760ee36aaa56ee2a",
+        "id": 157536,
+        "name": "David Kaufman",
+        "order": 0,
+        "profile_path": "/gaNu7BzTgn768Yb7XAXzN3rSwgE.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "Jennifer Parker (voice)",
+        "credit_id": "52577a27760ee36aaa56eec4",
+        "id": 64948,
+        "name": "Cathy Cavadini",
+        "order": 1,
+        "profile_path": "/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 0,
+        "character": "Clara Clayton (voice)",
+        "credit_id": "52577a26760ee36aaa56ee14",
+        "id": 2453,
+        "name": "Mary Steenburgen",
+        "order": 2,
+        "profile_path": "/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 0,
+        "character": "Emmett Brown (voice)",
+        "credit_id": "52577a26760ee36aaa56ee40",
+        "id": 198,
+        "name": "Dan Castellaneta",
+        "order": 3,
+        "profile_path": "/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "Jules Brown (voice)",
+        "credit_id": "52577a26760ee36aaa56ee56",
+        "id": 20903,
+        "name": "Josh Keaton",
+        "order": 4,
+        "profile_path": "/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "Einstein (voice)",
+        "credit_id": "52577a27760ee36aaa56ee82",
+        "id": 1212739,
+        "name": "Danny Mann",
+        "order": 5,
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "Science Guy",
+        "credit_id": "52577a27760ee36aaa56ee98",
+        "id": 1218795,
+        "name": "Bill Nye",
+        "order": 6,
+        "profile_path": "/HfEBnQuiCMPjcsONf9FCpnEyJL.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "Emmett Brown",
+        "credit_id": "52577a27760ee36aaa56eeae",
+        "id": 1062,
+        "name": "Christopher Lloyd",
+        "order": 7,
+        "profile_path": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg",
+        "gender": 2
+      }
+    ],
+    "crew": [
+      {
+        "credit_id": "52577a27760ee36aaa56eef4",
+        "department": "Production",
+        "id": 1058,
+        "job": "Producer",
+        "name": "Bob Gale",
+        "profile_path": "/wZLj3qLrieFQzt49i981lMVijPm.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "5d227cce20e6a50012a07882",
+        "department": "Writing",
+        "id": 24,
+        "job": "Characters",
+        "name": "Robert Zemeckis",
+        "profile_path": "/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "5d227ce0ef4889000ee9555f",
+        "department": "Writing",
+        "id": 1058,
+        "job": "Characters",
+        "name": "Bob Gale",
+        "profile_path": "/wZLj3qLrieFQzt49i981lMVijPm.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "65a65667f74f5f012868edfb",
+        "department": "Production",
+        "id": 1706577,
+        "job": "Executive Producer",
+        "name": "Japhet Asher",
+        "profile_path": "/4VcA4R8KWXbG6qdcqdoGhrIGieL.jpg",
+        "gender": 2
+      }
+    ],
+    "id": 0
+  },
+  "episode_run_time": [
+    23
+  ],
+  "external_ids": {
+    "imdb_id": "tt0101042",
+    "tvdb_id": "75880",
+    "freebase_id": "/en/back_to_the_future_the_animated_series",
+    "freebase_mid": "/m/052f3k",
+    "id": 0,
+    "tvrage_id": "2698"
+  },
+  "first_air_date": "1991-09-14T00:00:00-04:00",
+  "genre_ids": [],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi \u0026 Fantasy"
+    }
+  ],
+  "homepage": "https://www.backtothefuture.com",
+  "id": 4745,
+  "images": {
+    "backdrops": [],
+    "posters": []
+  },
+  "in_production": false,
+  "keywords": {
+    "id": 0,
+    "results": [
+      {
+        "id": 4379,
+        "name": "time travel"
+      },
+      {
+        "id": 165317,
+        "name": "based on movie"
+      }
+    ]
+  },
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1992-12-26T00:00:00-05:00",
+  "last_episode_to_air": {
+    "air_date": "1992-12-26T00:00:00-05:00",
+    "name": "Verne Hatches an Egg",
+    "overview": "Verne uses the DeLorean to look for something to bring in for show and tell, finding a dinosaur egg. Unfortunately, the egg hatches in the present and it becomes more and more difficult to hide it.",
+    "production_code": "",
+    "show_id": 4745,
+    "still_path": "/9798LwJd6jNksST88NHKIHTqZ2o.jpg",
+    "vote_average": 0,
+    "vote_count": 0,
+    "id": 342652,
+    "season_number": 2,
+    "episode_number": 13
+  },
+  "name": "Back to the Future",
+  "networks": [
+    {
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "id": 16,
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 27,
+  "number_of_seasons": 2,
+  "original_language": "en",
+  "original_name": "Back to the Future",
+  "origin_country": [
+    "US"
+  ],
+  "overview": "An animated series for television based on the Back to the Future trilogy of feature films.\n\nBased on the highly successful Back to the Future movie trilogy, this series is set, um, \u0022after\u0022 the events of the last film, as the adventures of Marty McFly and Doc Brown in their DeLorean time machine continue. Joining the ride is Clara, (Doc\u0027s wife from Back To The Future Part III,) Jules and Verne (their sons) Einstein the dog and Jennifer (Marty\u0027s girlfriend). And apparently there\u0027s a Tannen in every time as relatives of Biff keep popping up, and creating conflict. Mary Steenburgen and Tom Wilson reprise their roles from the movies. During live portions of the show, Christopher Lloyd reprised his role as Doc Brown and was joined by Bill Nye, who conducted experiments that were used in the show.",
+  "popularity": 4.5485,
+  "poster_path": "/4V6DH7zvZCRhTMRRkouI9kosQ0C.jpg",
+  "production_companies": [
+    {
+      "id": 7671,
+      "name": "Amblin Television",
+      "logo_path": "/r7KeUsNVv0iggZRh6XmNNq2OEw1.png",
+      "origin_country": "US"
+    },
+    {
+      "id": 4285,
+      "name": "Universal Cartoon Studios",
+      "logo_path": "/2lYBhGMYUUUToRssPb2Oxka5MrP.png",
+      "origin_country": "US"
+    },
+    {
+      "id": 73481,
+      "name": "Zaloom Mayfield Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 204014,
+      "name": "Big Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "seasons": [
+    {
+      "episode_count": 2,
+      "id": 111469,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/hOvwS56y2mcsdpJlHSQ45RsQdBd.jpg",
+      "season_number": 0
+    },
+    {
+      "air_date": "1991-09-14T00:00:00-04:00",
+      "episode_count": 14,
+      "id": 14391,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8i86k81wihiV7J3qNDBvuAYQi2p.jpg",
+      "season_number": 1
+    },
+    {
+      "air_date": "1992-09-19T00:00:00-04:00",
+      "episode_count": 13,
+      "id": 14392,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/b5LAjfqzmjZkEsvTqsQW5GXXgqZ.jpg",
+      "season_number": 2
+    }
+  ],
+  "reviews": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "similar": {
+    "id": 0,
+    "results": []
+  },
+  "recommendations": {
+    "id": 0,
+    "results": []
+  },
+  "status": "Canceled",
+  "translations": {
+    "id": 0,
+    "translations": []
+  },
+  "type": "Scripted",
+  "videos": {
+    "id": 0,
+    "results": []
+  },
+  "vote_average": 6.2,
+  "vote_count": 47
+}

@@ -1,0 +1,107 @@
+Comment: A1
+Source title ID: 02
+Duration: 0:00:25
+Chapters count: 2
+Size: 18.3 MB
+Segment count: 2
+Segment map: 1,2
+File name: A1_t00.mkv
+
+Comment: B1
+Source title ID: 05
+Duration: 2:38:55
+Chapters count: 29
+Size: 7.0 GB
+Segment count: 8
+Segment map: 1-4,5-8,9-12,13-16,17-20,21-24,25-28,29
+File name: B1_t01.mkv
+
+Comment: C1
+Source title ID: 06
+Duration: 0:23:17
+Chapters count: 5
+Size: 1.0 GB
+Segment count: 2
+Segment map: 1-4,5
+File name: C1_t02.mkv
+
+Comment: C2
+Source title ID: 07
+Duration: 0:21:16
+Chapters count: 5
+Size: 964.7 MB
+Segment count: 2
+Segment map: 1-4,5
+File name: C2_t03.mkv
+
+Comment: C3
+Source title ID: 08
+Duration: 0:22:36
+Chapters count: 5
+Size: 1.0 GB
+Segment count: 2
+Segment map: 1-4,5
+File name: C3_t04.mkv
+
+Comment: C4
+Source title ID: 09
+Duration: 0:22:47
+Chapters count: 5
+Size: 1.0 GB
+Segment count: 2
+Segment map: 1-4,5
+File name: C4_t05.mkv
+
+Comment: D1
+Source title ID: 10
+Duration: 0:22:43
+Chapters count: 5
+Size: 1.0 GB
+Segment count: 2
+Segment map: 1-4,5
+File name: D1_t06.mkv
+
+Comment: D2
+Source title ID: 11
+Duration: 0:23:00
+Chapters count: 5
+Size: 1.0 GB
+Segment count: 2
+Segment map: 1-4,5
+File name: D2_t07.mkv
+
+Comment: D3
+Source title ID: 12
+Duration: 0:23:16
+Chapters count: 5
+Size: 1.0 GB
+Segment count: 2
+Segment map: 1-4,5
+File name: D3_t08.mkv
+
+Comment: B1
+Source title ID: 13
+Duration: 0:00:14
+Chapters count: 2
+Size: 9.3 MB
+Segment count: 2
+Segment map: 1,2
+File name: B1_t09.mkv
+
+Comment: B3
+Source title ID: 14
+Duration: 0:08:10
+Chapters count: 98
+Size: 11.7 MB
+Segment count: 98
+Segment map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98
+File name: B3_t10.mkv
+
+Comment: B3
+Source title ID: 14
+Duration: 0:07:20
+Chapters count: 88
+Size: 10.9 MB
+Segment count: 88
+Segment map: 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89
+File name: B3_t11.mkv
