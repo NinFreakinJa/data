@@ -1,4 +1,49 @@
-Name: Back to the Future
-Type: MainMovie
-Year: 1985
-File name: Back to the Future (1985) [1080p].mkv
+Name: 40 Years Later: Reflecting on The Future
+Type: Extra
+Year: 2025
+Source file name: 00300.m2ts
+Duration: 0:25:08
+Size: 7.0 GB
+Segment count: 1
+Segment map: 300
+File Name: 40 Years Later- Reflecting on The Future (2025)-featurette.mkv
+
+Name: Back to Hill Valley
+Type: Extra
+Year: 2025
+Source file name: 00301.m2ts
+Duration: 0:16:41
+Size: 4.6 GB
+Segment count: 1
+Segment map: 301
+File Name: Back to Hill Valley (2025)-featurette.mkv
+
+Name: Untold Stories of Back to the Future
+Type: Extra
+Year: 2025
+Source file name: 00302.m2ts
+Duration: 0:37:20
+Size: 10.3 GB
+Segment count: 1
+Segment map: 302
+File Name: Untold Stories of Back to the Future (2025)-featurette.mkv
+
+Name: TCM Classic Film Festival Panel
+Type: Extra
+Year: 2025
+Source file name: 00303.m2ts
+Duration: 0:16:07
+Size: 4.5 GB
+Segment count: 1
+Segment map: 303
+File Name: TCM Classic Film Festival Panel (2025)-interview.mkv
+
+Name: A Mystery in History
+Type: Extra
+Year: 2025
+Source file name: 00304.m2ts
+Duration: 0:09:33
+Size: 2.6 GB
+Segment count: 1
+Segment map: 304
+File Name: A Mystery in History (2025)-featurette.mkv

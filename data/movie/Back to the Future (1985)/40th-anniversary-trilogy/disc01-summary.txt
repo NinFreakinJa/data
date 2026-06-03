@@ -1,4 +1,180 @@
 Name: Back to the Future
+Comment: SEG_MainFeature
+Source file name: 00801.mpls
+Duration: 1:56:02
+Chapters count: 20
+Size: 73.1 GB
+Segment count: 1
+Segment map: 294
 Type: MainMovie
 Year: 1985
-File name: Back to the Future (1985) [1080p].mkv
+File name: Back to the Future (1985) [2160p].mkv
+
+Name: Deleted Scenes
+Comment: SF_DS_00_PlayAll
+Source file name: 01257.mpls
+Duration: 0:10:45
+Chapters count: 8
+Size: 705.5 MB
+Segment count: 17
+Segment map: 474,475,476,477,478,479,480,481,482,483,484,485,486,487,489,490,491
+Type: DeletedScene
+Chapters:
+-Peanut Brittle
+-"Pinch me"
+-Doc's Personal Belongings
+-"She's cheating"
+-"Darth Vader" Extended Version
+-"Hit me, George"
+-"You got a permit?"
+-The Phone Booth
+File name: Deleted Scenes-deletedscene.mkv
+
+Name: Back to the Future Night
+Comment: SF_07_AF_BTTFNight
+Source file name: 01279.mpls
+Duration: 0:27:11
+Chapters count: 1
+Size: 1.1 GB
+Segment count: 1
+Segment map: 498
+Type: Extra
+Year: 1988
+File name: Back to the Future Night (1988)-featurette.mkv
+
+Name: Original Makeup Tests
+Comment: SF_09_BTS_MakeupTest
+Source file name: 01289.mpls
+Duration: 0:02:17
+Chapters count: 1
+Size: 95.9 MB
+Segment count: 1
+Segment map: 508
+Type: Extra
+File name: Original Makeup Tests-behindthescenes.mkv
+
+Name: Outtakes
+Comment: SF_10_BTS_Outtakes
+Source file name: 01290.mpls
+Duration: 0:02:50
+Chapters count: 1
+Size: 190.2 MB
+Segment count: 1
+Segment map: 509
+Type: Extra
+File name: Outtakes-behindthescenes.mkv
+
+Name: Nuclear Test Site Sequence
+Comment: SF_ES_11_NuclearSite
+Source file name: 01291.mpls
+Duration: 0:04:12
+Chapters count: 1
+Size: 291.8 MB
+Segment count: 1
+Segment map: 510
+Type: Extra
+File name: Nuclear Test Site Sequence-deletedscene.mkv
+
+Name: 'Power of Love' Music Video
+Comment: SF_12_HueyLewis
+Source file name: 01292.mpls
+Duration: 0:06:27
+Chapters count: 1
+Size: 266.2 MB
+Segment count: 1
+Segment map: 511
+Type: Extra
+File name: 'Power of Love' Music Video-extra.mkv
+
+Name: Theatrical Trailer
+Comment: SF_13_TheatTrlr
+Source file name: 01293.mpls
+Duration: 0:01:24
+Chapters count: 1
+Size: 55.6 MB
+Segment count: 1
+Segment map: 512
+Type: Trailer
+File name: Theatrical Trailer-trailer.mkv
+
+Name: Join Team Fox
+Comment: SF_14_JoinTeamFox
+Source file name: 01294.mpls
+Duration: 0:06:04
+Chapters count: 1
+Size: 251.5 MB
+Segment count: 1
+Segment map: 513
+Type: Extra
+File name: Join Team Fox-extra.mkv
+
+Name: The Hollywood Museum Goes Back to the Future
+Comment: SF_QA_00_PlayAll
+Source file name: 01297.mpls
+Duration: 0:10:16
+Chapters count: 8
+Size: 445.7 MB
+Segment count: 9
+Segment map: 499,500,501,502,503,504,505,506,507
+Type: Extra
+File name: The Hollywood Museum Goes Back to the Future-interview.mkv
+
+Title: Tales from the Future; Episode 1 - In the Beginning
+Comment: SF_02_InBeginning
+Source file name: 01274.mpls
+Duration: 0:27:25
+Chapters count: 1
+Size: 1.7 GB
+Segment count: 1
+Segment map: 493
+Type: Extra
+Year: 2010
+File name: Tales from the Future; Episode 1 - In the Beginning (2010)-featurette.mkv
+
+Title: Tales from the Future; Episode 2 - Time to Go
+Comment: SF_03_TimeToGo
+Source file name: 01275.mpls
+Duration: 0:29:54
+Chapters count: 1
+Size: 1.9 GB
+Segment count: 1
+Segment map: 494
+Type: Extra
+Year: 2010
+File name: Tales from the Future; Episode 2 - Time to Go (2010)-featurette.mkv
+
+Title: Tales from the Future; Episode 3 - Keeping Time
+Comment: SF_04_KeepingTime
+Source file name: 01276.mpls
+Duration: 0:05:44
+Chapters count: 1
+Size: 376.8 MB
+Segment count: 1
+Segment map: 495
+Type: Extra
+Year: 2010
+File name: Tales from the Future; Episode 3 - Keeping Time (2010)-featurette.mkv
+
+Title: The Making of 'Back to the Future'
+Comment: SF_05_AF_MakingOfBTTF
+Source file name: 01277.mpls
+Duration: 0:14:28
+Chapters count: 1
+Size: 618.3 MB
+Segment count: 1
+Segment map: 496
+Type: Extra
+Year: 1985
+File name: The Making of 'Back to the Future'-featurette.mkv
+
+Title: Back to the Future: Making the Trilogy - Chapter I
+Comment: SF_06_AF_MakingTrilogy
+Source file name: 01278.mpls
+Duration: 0:15:30
+Chapters count: 1
+Size: 654.6 MB
+Segment count: 1
+Segment map: 497
+Type: Extra
+Year: 2002
+File name: Back to the Future; Making the Trilogy - Chapter I (2002)-featurette.mkv
