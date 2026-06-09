@@ -1,0 +1,71 @@
+{
+  "Slug": "40th-anniversary-trilogy",
+  "Asin": "B0FMJ3T38R",
+  "Upc": 191329279632,
+  "Year": 2025,
+  "Locale": "en-us",
+  "RegionCode": 1,
+  "Title": "40th-anniversary-trilogy",
+  "SortTitle": "2025 40th-anniversary-trilogy",
+  "Type": "Movie",
+  "ReleaseDate": "2025-10-14T00:00:00-04:00",
+  "DateAdded": "2026-05-22T00:00:00-04:00",
+  "Discs": [
+    {
+      "Index": 1,
+      "Format": "UHD",
+      "Slug": "4k-disc",
+      "Name": "4k-disc",
+      "TitleSlug": "back-to-the-future-1985"
+    },
+    {
+      "Index": 2,
+      "Format": "Blu-Ray",
+      "Slug": "bluray-disc",
+      "Name": "bluray-disc",
+      "TitleSlug": "back-to-the-future-1985"
+    },
+    {
+      "Index": 3,
+      "Format": "Blu-Ray",
+      "Slug": "bonus-disc",
+      "Name": "bonus-disc",
+      "TitleSlug": "back-to-the-future-bonus-disc-1"
+    },
+    {
+      "Index": 4,
+      "Format": "UHD",
+      "Slug": "4k-disc",
+      "Name": "4k-disc",
+      "TitleSlug": "back-to-the-future-part-ii-1989"
+    },
+    {
+      "Index": 5,
+      "Format": "Blu-Ray",
+      "Slug": "bluray-disc",
+      "Name": "bluray-disc",
+      "TitleSlug": "back-to-the-future-part-ii-1989"
+    },
+    {
+      "Index": 6,
+      "Format": "UHD",
+      "Slug": "4k-disc",
+      "Name": "4k-disc",
+      "TitleSlug": "back-to-the-future-part-iii-1990"
+    },
+    {
+      "Index": 7,
+      "Format": "Blu-Ray",
+      "Slug": "bluray-disc",
+      "Name": "bluray-disc",
+      "TitleSlug": "back-to-the-future-part-iii-1990"
+    },
+    {
+      "Index": 8,
+      "Format": "Blu-Ray",
+      "Slug": "bonus-disc",
+      "Name": "bonus-disc",
+      "TitleSlug": "back-to-the-future-bonus-disc-2"
+    }
+  ]
+}
