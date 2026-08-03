@@ -1,0 +1,58 @@
+Name: Doctor Who - The Movie (English)
+Source file name: 00417.mpls
+Duration: 1:30:08
+Chapters count: 24
+Size: 43.3 GB
+Segment count: 1
+Segment map: 354
+File name: Doctor Who - The Movie_t00.mkv
+
+Name: Doctor Who - The Movie (English)
+Source file name: 00422.mpls
+Duration: 1:29:59
+Chapters count: 24
+Size: 43.6 GB
+Segment count: 1
+Segment map: 362
+File name: Doctor Who - The Movie_t01.mkv
+
+Name: Doctor Who - The Movie (English)
+Source file name: 00007.mpls
+Duration: 0:01:58
+Chapters count: 1
+Size: 1.1 GB
+Segment count: 2
+Segment map: 361,8
+File name: Doctor Who - The Movie_t02.mkv
+
+Name: Doctor Who - The Movie (English)
+Source file name: 00005.m2ts
+Duration: 0:00:06
+Size: 3.7 MB
+Segment count: 1
+Segment map: 5
+File name: Doctor Who - The Movie_t03.mkv
+
+Name: Doctor Who - The Movie (English)
+Source file name: 00006.m2ts
+Duration: 0:00:05
+Size: 7.2 MB
+Segment count: 1
+Segment map: 6
+File name: Doctor Who - The Movie_t04.mkv
+
+Name: Doctor Who - The Movie (English)
+Source file name: 00037.m2ts
+Duration: 0:00:07
+Size: 10.3 MB
+Segment count: 1
+Segment map: 37
+File name: Doctor Who - The Movie_t05.mkv
+
+Name: Doctor Who - The Movie (English)
+Source file name: 00360.m2ts
+Duration: 0:00:17
+Size: 122.4 MB
+Segment count: 1
+Segment map: 360
+File name: Doctor Who - The Movie_t06.mkv

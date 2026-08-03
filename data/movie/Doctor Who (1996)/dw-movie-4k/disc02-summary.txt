@@ -1,0 +1,292 @@
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00022.mpls
+Duration: 0:53:54
+Chapters count: 5
+Size: 2.7 GB
+Segment count: 1
+Segment map: 14
+File name: Doctor Who - The Movie - Bonus Disc_t00.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00033.mpls
+Duration: 0:40:56
+Chapters count: 4
+Size: 7.7 GB
+Segment count: 1
+Segment map: 26
+File name: Doctor Who - The Movie - Bonus Disc_t01.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00034.mpls
+Duration: 1:02:01
+Chapters count: 6
+Size: 11.7 GB
+Segment count: 1
+Segment map: 27
+File name: Doctor Who - The Movie - Bonus Disc_t02.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00035.mpls
+Duration: 0:20:24
+Chapters count: 2
+Size: 3.8 GB
+Segment count: 1
+Segment map: 28
+File name: Doctor Who - The Movie - Bonus Disc_t03.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00158.mpls
+Duration: 0:20:13
+Chapters count: 2
+Size: 3.8 GB
+Segment count: 1
+Segment map: 134
+File name: Doctor Who - The Movie - Bonus Disc_t04.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00318.mpls
+Duration: 0:20:02
+Chapters count: 2
+Size: 3.8 GB
+Segment count: 1
+Segment map: 264
+File name: Doctor Who - The Movie - Bonus Disc_t05.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00329.mpls
+Duration: 0:15:27
+Chapters count: 2
+Size: 810.3 MB
+Segment count: 1
+Segment map: 275
+File name: Doctor Who - The Movie - Bonus Disc_t06.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00332.mpls
+Duration: 0:23:30
+Chapters count: 2
+Size: 1.2 GB
+Segment count: 1
+Segment map: 278
+File name: Doctor Who - The Movie - Bonus Disc_t07.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00333.mpls
+Duration: 0:19:47
+Chapters count: 2
+Size: 1.0 GB
+Segment count: 1
+Segment map: 279
+File name: Doctor Who - The Movie - Bonus Disc_t08.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00334.mpls
+Duration: 0:10:49
+Chapters count: 2
+Size: 565.9 MB
+Segment count: 1
+Segment map: 280
+File name: Doctor Who - The Movie - Bonus Disc_t09.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00335.mpls
+Duration: 0:17:11
+Chapters count: 2
+Size: 905.0 MB
+Segment count: 1
+Segment map: 281
+File name: Doctor Who - The Movie - Bonus Disc_t10.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00007.mpls
+Duration: 0:01:10
+Chapters count: 1
+Size: 219.4 MB
+Segment count: 2
+Segment map: 288,8
+File name: Doctor Who - The Movie - Bonus Disc_t11.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00177.mpls
+Duration: 0:07:54
+Chapters count: 50
+Size: 85.2 MB
+Segment count: 50
+Segment map: 61,62,63,98,206,100,101,102,103,263,265,289,290,110,291,292,293,294,295,296,297,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,324,129,130,131,133
+File name: Doctor Who - The Movie - Bonus Disc_t12.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00015.m2ts
+Duration: 0:01:17
+Size: 249.6 MB
+Segment count: 1
+Segment map: 15
+File name: Doctor Who - The Movie - Bonus Disc_t13.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00005.m2ts
+Duration: 0:00:07
+Size: 9.8 MB
+Segment count: 1
+Segment map: 5
+File name: Doctor Who - The Movie - Bonus Disc_t14.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00006.m2ts
+Duration: 0:00:06
+Size: 8.2 MB
+Segment count: 1
+Segment map: 6
+File name: Doctor Who - The Movie - Bonus Disc_t15.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00037.m2ts
+Duration: 0:00:15
+Size: 57.3 MB
+Segment count: 1
+Segment map: 37
+File name: Doctor Who - The Movie - Bonus Disc_t16.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00266.m2ts
+Duration: 0:07:41
+Size: 403.0 MB
+Segment count: 1
+Segment map: 266
+File name: Doctor Who - The Movie - Bonus Disc_t17.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00267.m2ts
+Duration: 0:01:59
+Size: 385.4 MB
+Segment count: 1
+Segment map: 267
+File name: Doctor Who - The Movie - Bonus Disc_t18.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00268.m2ts
+Duration: 0:01:25
+Size: 275.9 MB
+Segment count: 1
+Segment map: 268
+File name: Doctor Who - The Movie - Bonus Disc_t19.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00269.m2ts
+Duration: 0:01:59
+Size: 385.1 MB
+Segment count: 1
+Segment map: 269
+File name: Doctor Who - The Movie - Bonus Disc_t20.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00270.m2ts
+Duration: 0:04:48
+Size: 251.9 MB
+Segment count: 1
+Segment map: 270
+File name: Doctor Who - The Movie - Bonus Disc_t21.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00271.m2ts
+Duration: 0:02:35
+Size: 135.8 MB
+Segment count: 1
+Segment map: 271
+File name: Doctor Who - The Movie - Bonus Disc_t22.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00272.m2ts
+Duration: 0:00:50
+Size: 43.4 MB
+Segment count: 1
+Segment map: 272
+File name: Doctor Who - The Movie - Bonus Disc_t23.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00273.m2ts
+Duration: 0:02:33
+Size: 130.9 MB
+Segment count: 1
+Segment map: 273
+File name: Doctor Who - The Movie - Bonus Disc_t24.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00274.m2ts
+Duration: 0:11:15
+Size: 464.9 MB
+Segment count: 1
+Segment map: 274
+File name: Doctor Who - The Movie - Bonus Disc_t25.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00276.m2ts
+Duration: 0:01:02
+Size: 55.6 MB
+Segment count: 1
+Segment map: 276
+File name: Doctor Who - The Movie - Bonus Disc_t26.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00277.m2ts
+Duration: 0:01:49
+Size: 353.9 MB
+Segment count: 1
+Segment map: 277
+File name: Doctor Who - The Movie - Bonus Disc_t27.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00282.m2ts
+Duration: 0:02:04
+Size: 108.4 MB
+Segment count: 1
+Segment map: 282
+File name: Doctor Who - The Movie - Bonus Disc_t28.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00283.m2ts
+Duration: 0:09:01
+Size: 472.9 MB
+Segment count: 1
+Segment map: 283
+File name: Doctor Who - The Movie - Bonus Disc_t29.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00284.m2ts
+Duration: 0:03:55
+Size: 351.1 MB
+Segment count: 1
+Segment map: 284
+File name: Doctor Who - The Movie - Bonus Disc_t30.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00285.m2ts
+Duration: 0:03:30
+Size: 313.1 MB
+Segment count: 1
+Segment map: 285
+File name: Doctor Who - The Movie - Bonus Disc_t31.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00286.m2ts
+Duration: 0:02:03
+Size: 185.6 MB
+Segment count: 1
+Segment map: 286
+File name: Doctor Who - The Movie - Bonus Disc_t32.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00287.m2ts
+Duration: 0:00:47
+Size: 70.7 MB
+Segment count: 1
+Segment map: 287
+File name: Doctor Who - The Movie - Bonus Disc_t33.mkv
+
+Name: Doctor Who - The Movie - Bonus Disc (English)
+Source file name: 00325.m2ts
+Duration: 0:00:00
+Size: 0.1 MB
+Segment count: 1
+Segment map: 325
+File name: Doctor Who - The Movie - Bonus Disc_t34.mkv
