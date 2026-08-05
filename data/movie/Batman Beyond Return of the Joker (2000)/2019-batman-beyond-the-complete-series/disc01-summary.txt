@@ -1,3 +1,12 @@
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00053.mpls
+Duration: 0:00:50
+Chapters count: 5
+Size: 27.5 MB
+Segment count: 1
+Segment map: 13
+File name: Batman Beyond- Return of the Joker_t00.mkv
+
 Name: Batman Beyond: Return of the Joker
 Source file name: 00100.mpls
 Duration: 1:16:45
@@ -8,6 +17,15 @@ Segment Map: 42
 Type: MainMovie
 Year: 2000
 File name: Batman Beyond: Return of the Joker (2000) [1080p].mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00120.mpls
+Duration: 0:00:02
+Chapters count: 2
+Size: 0.6 MB
+Segment count: 2
+Segment map: 23,26
+File name: Batman Beyond- Return of the Joker_t02.mkv
 
 Name: Animatics
 Source file name: 00043.m2ts
@@ -69,3 +87,99 @@ Segment Map: 1
 Type: Trailer
 File name: Young Justice Trailer.mkv
 
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00054.mpls
+Duration: 0:00:30
+Chapters count: 3
+Size: 19.0 MB
+Segment count: 1
+Segment map: 14
+File name: Batman Beyond- Return of the Joker_t04.mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00012.m2ts
+Duration: 0:00:23
+Size: 14.6 MB
+Segment count: 1
+Segment map: 12
+File name: Batman Beyond- Return of the Joker_t10.mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00005.m2ts
+Duration: 0:00:07
+Size: 16.9 MB
+Segment count: 1
+Segment map: 5
+File name: Batman Beyond- Return of the Joker_t11.mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00022.m2ts
+Duration: 0:00:05
+Size: 0.6 MB
+Segment count: 1
+Segment map: 22
+File name: Batman Beyond- Return of the Joker_t13.mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00016.m2ts
+Duration: 0:00:05
+Size: 0.4 MB
+Segment count: 1
+Segment map: 16
+File name: Batman Beyond- Return of the Joker_t14.mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00011.m2ts
+Duration: 0:00:48
+Size: 66.3 MB
+Segment count: 1
+Segment map: 11
+File name: Batman Beyond- Return of the Joker_t15.mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00021.m2ts
+Duration: 0:01:41
+Size: 137.9 MB
+Segment count: 1
+Segment map: 21
+File name: Batman Beyond- Return of the Joker_t16.mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00024.m2ts
+Duration: 0:00:05
+Size: 3.0 MB
+Segment count: 1
+Segment map: 24
+File name: Batman Beyond- Return of the Joker_t17.mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00003.m2ts
+Duration: 0:00:11
+Size: 16.0 MB
+Segment count: 1
+Segment map: 3
+File name: Batman Beyond- Return of the Joker_t18.mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00002.m2ts
+Duration: 0:00:12
+Size: 3.4 MB
+Segment count: 1
+Segment map: 2
+File name: Batman Beyond- Return of the Joker_t19.mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00010.m2ts
+Duration: 0:01:10
+Size: 97.5 MB
+Segment count: 1
+Segment map: 10
+File name: Batman Beyond- Return of the Joker_t20.mkv
+
+Name: Batman Beyond: Return of the Joker (English)
+Source file name: 00008.m2ts
+Duration: 0:00:10
+Size: 2.9 MB
+Segment count: 1
+Segment map: 8
+File name: Batman Beyond- Return of the Joker_t21.mkv

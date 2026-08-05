@@ -1,0 +1,284 @@
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00054.mpls
+Duration: 0:00:29
+Chapters count: 3
+Size: 34.2 MB
+Segment count: 1
+Segment map: 17
+File name: Batman Beyond™- The Complete Series Disc 1_t00.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00053.mpls
+Duration: 0:00:50
+Chapters count: 5
+Size: 51.4 MB
+Segment count: 1
+Segment map: 16
+File name: Batman Beyond™- The Complete Series Disc 1_t01.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00055.mpls
+Duration: 0:05:40
+Chapters count: 34
+Size: 169.9 MB
+Segment count: 1
+Segment map: 238
+File name: Batman Beyond™- The Complete Series Disc 1_t02.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00120.mpls
+Duration: 0:00:02
+Chapters count: 2
+Size: 1.5 MB
+Segment count: 1
+Segment map: 199
+File name: Batman Beyond™- The Complete Series Disc 1_t03.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00017.mpls
+Duration: 0:00:08
+Chapters count: 2
+Size: 1.8 MB
+Segment count: 2
+Segment map: 50,51
+File name: Batman Beyond™- The Complete Series Disc 1_t04.mkv
+
+Name: Rebirth (English)
+Source file name: 00071.mpls
+Duration: 0:22:02
+Chapters count: 5
+Size: 2.8 GB
+Segment count: 1
+Segment map: 318
+File name: Rebirth_t05.mkv
+
+Name: Rebirth Part II (English)
+Source file name: 00072.mpls
+Duration: 0:21:37
+Chapters count: 6
+Size: 2.7 GB
+Segment count: 1
+Segment map: 355
+File name: Rebirth Part II_t06.mkv
+
+Name: Black Out (English)
+Source file name: 00073.mpls
+Duration: 0:20:31
+Chapters count: 5
+Size: 2.5 GB
+Segment count: 1
+Segment map: 356
+File name: Black Out_t07.mkv
+
+Name: A Touch of Curaré (English)
+Source file name: 00082.mpls
+Duration: 0:20:55
+Chapters count: 5
+Size: 2.6 GB
+Segment count: 1
+Segment map: 365
+File name: A Touch of Curaré_t08.mkv
+
+Name: Ascension (English)
+Source file name: 00083.mpls
+Duration: 0:21:17
+Chapters count: 5
+Size: 2.6 GB
+Segment count: 1
+Segment map: 366
+File name: Ascension_t09.mkv
+
+Name: Golem (English)
+Source file name: 00074.mpls
+Duration: 0:21:24
+Chapters count: 5
+Size: 2.6 GB
+Segment count: 1
+Segment map: 357
+File name: Golem_t10.mkv
+
+Name: Meltdown (English)
+Source file name: 00075.mpls
+Duration: 0:20:46
+Chapters count: 5
+Size: 2.6 GB
+Segment count: 1
+Segment map: 358
+File name: Meltdown_t11.mkv
+
+Name: Heroes (English)
+Source file name: 00076.mpls
+Duration: 0:20:48
+Chapters count: 5
+Size: 2.6 GB
+Segment count: 1
+Segment map: 359
+File name: Heroes_t12.mkv
+
+Name: Shriek (English)
+Source file name: 00077.mpls
+Duration: 0:21:16
+Chapters count: 5
+Size: 2.7 GB
+Segment count: 1
+Segment map: 360
+File name: Shriek_t13.mkv
+
+Name: Dead Man's Hand (English)
+Source file name: 00078.mpls
+Duration: 0:21:15
+Chapters count: 5
+Size: 2.6 GB
+Segment count: 1
+Segment map: 361
+File name: Dead Man's Hand_t14.mkv
+
+Name: The Winning Edge (English)
+Source file name: 00079.mpls
+Duration: 0:20:41
+Chapters count: 5
+Size: 2.5 GB
+Segment count: 1
+Segment map: 362
+File name: The Winning Edge_t15.mkv
+
+Name: Spellbound (English)
+Source file name: 00080.mpls
+Duration: 0:21:16
+Chapters count: 5
+Size: 2.6 GB
+Segment count: 1
+Segment map: 363
+File name: Spellbound_t16.mkv
+
+Name: Disappearing Inque (English)
+Source file name: 00081.mpls
+Duration: 0:20:56
+Chapters count: 5
+Size: 2.6 GB
+Segment count: 1
+Segment map: 364
+File name: Disappearing Inque_t17.mkv
+
+Name: Rebirth Commentary (English)
+Source file name: 00201.mpls
+Duration: 0:22:02
+Chapters count: 5
+Size: 2.8 GB
+Segment count: 1
+Segment map: 318
+File name: Rebirth Commentary_t18.mkv
+
+Name: Shriek Commentary (English)
+Source file name: 00202.mpls
+Duration: 0:21:16
+Chapters count: 5
+Size: 2.7 GB
+Segment count: 1
+Segment map: 360
+File name: Shriek Commentary_t19.mkv
+
+Name: Trailers (English)
+Source file name: 00205.mpls
+Duration: 0:03:54
+Chapters count: 2
+Size: 375.6 MB
+Segment count: 2
+Segment map: 382,383
+File name: Trailers_t20.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00015.m2ts
+Duration: 0:00:23
+Size: 28.3 MB
+Segment count: 1
+Segment map: 15
+File name: Batman Beyond™- The Complete Series Disc 1_t21.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00004.m2ts
+Duration: 0:00:13
+Size: 44.3 MB
+Segment count: 1
+Segment map: 4
+File name: Batman Beyond™- The Complete Series Disc 1_t22.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00050.m2ts
+Duration: 0:00:04
+Size: 1.1 MB
+Segment count: 1
+Segment map: 50
+File name: Batman Beyond™- The Complete Series Disc 1_t23.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00051.m2ts
+Duration: 0:00:04
+Size: 0.7 MB
+Segment count: 1
+Segment map: 51
+File name: Batman Beyond™- The Complete Series Disc 1_t24.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00009.m2ts
+Duration: 0:00:05
+Size: 1.1 MB
+Segment count: 1
+Segment map: 9
+File name: Batman Beyond™- The Complete Series Disc 1_t25.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00239.m2ts
+Duration: 0:00:04
+Size: 6.0 MB
+Segment count: 1
+Segment map: 239
+File name: Batman Beyond™- The Complete Series Disc 1_t26.mkv
+
+Name: Batman: Hush Trailer (English)
+Source file name: 00230.m2ts
+Duration: 0:01:48
+Size: 165.3 MB
+Segment count: 1
+Segment map: 230
+File name: Batman- Hush Trailer_t27.mkv
+
+Name: Wonder Woman: Bloodlines Trailer (English)
+Source file name: 00316.m2ts
+Duration: 0:01:43
+Size: 161.0 MB
+Segment count: 1
+Segment map: 316
+File name: Wonder Woman- Bloodlines Trailer_t28.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00317.m2ts
+Duration: 0:00:10
+Size: 2.3 MB
+Segment count: 1
+Segment map: 317
+File name: Batman Beyond™- The Complete Series Disc 1_t29.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 1 (English)
+Source file name: 00386.m2ts
+Duration: 0:00:05
+Size: 0.2 MB
+Segment count: 1
+Segment map: 386
+File name: Batman Beyond™- The Complete Series Disc 1_t30.mkv
+
+Name: Music of the Knight (English)
+Source file name: 00330.m2ts
+Duration: 0:15:00
+Size: 902.0 MB
+Segment count: 1
+Segment map: 330
+File name: Music of the Knight_t31.mkv
+
+Name: Inside Batman Beyond - Meet Series Creators (English)
+Source file name: 00367.m2ts
+Duration: 0:09:42
+Size: 595.3 MB
+Segment count: 1
+Segment map: 367
+File name: Inside Batman Beyond - Meet Series Creators_t32.mkv

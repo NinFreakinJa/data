@@ -239,3 +239,130 @@ Episode: 1
 Type: Episode
 File name: S02.E01.Splicers.mkv
 
+
+
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00054.mpls
+Duration: 0:00:29
+Chapters count: 3
+Size: 34.2 MB
+Segment count: 1
+Segment map: 17
+File name: Batman Beyond™- The Complete Series Disc 2_t00.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00053.mpls
+Duration: 0:00:50
+Chapters count: 5
+Size: 51.4 MB
+Segment count: 1
+Segment map: 16
+File name: Batman Beyond™- The Complete Series Disc 2_t01.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00055.mpls
+Duration: 0:05:40
+Chapters count: 34
+Size: 169.9 MB
+Segment count: 1
+Segment map: 238
+File name: Batman Beyond™- The Complete Series Disc 2_t02.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00120.mpls
+Duration: 0:00:02
+Chapters count: 2
+Size: 1.5 MB
+Segment count: 1
+Segment map: 199
+File name: Batman Beyond™- The Complete Series Disc 2_t03.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00017.mpls
+Duration: 0:00:08
+Chapters count: 2
+Size: 1.8 MB
+Segment count: 2
+Segment map: 50,51
+File name: Batman Beyond™- The Complete Series Disc 2_t04.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00015.m2ts
+Duration: 0:00:23
+Size: 28.3 MB
+Segment count: 1
+Segment map: 15
+File name: Batman Beyond™- The Complete Series Disc 2_t19.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00004.m2ts
+Duration: 0:00:13
+Size: 44.3 MB
+Segment count: 1
+Segment map: 4
+File name: Batman Beyond™- The Complete Series Disc 2_t20.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00050.m2ts
+Duration: 0:00:04
+Size: 1.1 MB
+Segment count: 1
+Segment map: 50
+File name: Batman Beyond™- The Complete Series Disc 2_t21.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00051.m2ts
+Duration: 0:00:04
+Size: 0.7 MB
+Segment count: 1
+Segment map: 51
+File name: Batman Beyond™- The Complete Series Disc 2_t22.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00009.m2ts
+Duration: 0:00:05
+Size: 1.1 MB
+Segment count: 1
+Segment map: 9
+File name: Batman Beyond™- The Complete Series Disc 2_t23.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00239.m2ts
+Duration: 0:00:04
+Size: 2.9 MB
+Segment count: 1
+Segment map: 239
+File name: Batman Beyond™- The Complete Series Disc 2_t24.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00230.m2ts
+Duration: 0:00:10
+Size: 2.3 MB
+Segment count: 1
+Segment map: 230
+File name: Batman Beyond™- The Complete Series Disc 2_t25.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00316.m2ts
+Duration: 0:00:10
+Size: 2.3 MB
+Segment count: 1
+Segment map: 316
+File name: Batman Beyond™- The Complete Series Disc 2_t26.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 00317.m2ts
+Duration: 0:00:10
+Size: 2.3 MB
+Segment count: 1
+Segment map: 317
+File name: Batman Beyond™- The Complete Series Disc 2_t27.mkv
+
+Name: Batman Beyond™: The Complete Series Disc 2 (English)
+Source file name: 01066.m2ts
+Duration: 0:00:05
+Size: 0.2 MB
+Segment count: 1
+Segment map: 1066
+File name: Batman Beyond™- The Complete Series Disc 2_t28.mkv
