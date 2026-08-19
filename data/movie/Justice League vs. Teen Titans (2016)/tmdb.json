@@ -1,0 +1,886 @@
+{
+  "account_states": {
+    "favorite": false,
+    "id": 0,
+    "watchlist": false
+  },
+  "adult": false,
+  "alternative_titles": {
+    "id": 0,
+    "titles": []
+  },
+  "backdrop_path": "/kYFjRRu8DF7ccv0ioOFhlPL20Df.jpg",
+  "belongs_to_collection": {
+    "backdrop_path": "/hHeA75Sg2iLQOFVcEnvu1Y5tpjp.jpg",
+    "id": 466894,
+    "name": "Teen Titans Collection",
+    "poster_path": "/9A6vlFLgqCfv8YGRDC7yYGpdtQ4.jpg"
+  },
+  "budget": 0,
+  "changes": {
+    "changes": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "cast_id": 2,
+        "character": "Damian Wayne / Robin (voice)",
+        "credit_id": "56aa0ccfc3a36872e9005c97",
+        "id": 1164238,
+        "name": "Stuart Allan",
+        "order": 0,
+        "profile_path": "/xCAGTIcgC7J6YCl2bviIADY8blp.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 4,
+        "character": "Rachel Roth / Raven (voice)",
+        "credit_id": "56aa0d039251410e2d0058d3",
+        "id": 527313,
+        "name": "Taissa Farmiga",
+        "order": 1,
+        "profile_path": "/jMDY4rFh2SFINj0wzoX10Roye3n.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 10,
+        "character": "Bruce Wayne / Batman (voice)",
+        "credit_id": "56aa0d8b9251416f8600010c",
+        "id": 183812,
+        "name": "Jason O\u0027Mara",
+        "order": 2,
+        "profile_path": "/9Cs9PD5pwUkFQPLmpp5e6wkFQoY.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 1,
+        "character": "Wonder Woman (voice)",
+        "credit_id": "56a5a6f5c3a368389000a2c4",
+        "id": 5916,
+        "name": "Rosario Dawson",
+        "order": 3,
+        "profile_path": "/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 9,
+        "character": "Clark Kent / Superman (voice)",
+        "credit_id": "56aa0d77925141547500455d",
+        "id": 3035,
+        "name": "Jerry O\u0027Connell",
+        "order": 4,
+        "profile_path": "/siMZhO5SIUc6K5sTKyVJRXmkoiG.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 8,
+        "character": "Trigon (voice)",
+        "credit_id": "56aa0d659251416fd80000f5",
+        "id": 19498,
+        "name": "Jon Bernthal",
+        "order": 5,
+        "profile_path": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 12,
+        "character": "Dick Grayson / Nightwing (voice)",
+        "credit_id": "56aa0db6c3a36872cb00605c",
+        "id": 55148,
+        "name": "Sean Maher",
+        "order": 6,
+        "profile_path": "/o7splcOIVAdbHnwohJOUAvXWVlk.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 7,
+        "character": "Koriand\u0027r / Starfire (voice)",
+        "credit_id": "56aa0d50c3a36872cb006019",
+        "id": 116315,
+        "name": "Kari Wahlgren",
+        "order": 7,
+        "profile_path": "/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 5,
+        "character": "Jaime Reyes / Blue Beetle (voice)",
+        "credit_id": "56aa0d1dc3a36872e1005fdb",
+        "id": 60255,
+        "name": "Jake T. Austin",
+        "order": 8,
+        "profile_path": "/uwTMfGFPVW315hoG0YaY9N7ozxD.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 6,
+        "character": "Garfield Logan / Beast Boy (voice)",
+        "credit_id": "56aa0d3bc3a36872d30062bf",
+        "id": 1115122,
+        "name": "Brandon Soo Hoo",
+        "order": 9,
+        "profile_path": "/8diINjJaRv4PKC66RC8oRRfNqDw.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 11,
+        "character": "Barry Allen / Flash (voice)",
+        "credit_id": "56aa0da3925141547500457f",
+        "id": 53761,
+        "name": "Christopher Gorham",
+        "order": 10,
+        "profile_path": "/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 3,
+        "character": "Victor Stone / Cyborg (voice)",
+        "credit_id": "56aa0ceac3a36872e9005ca8",
+        "id": 50266,
+        "name": "Shemar Moore",
+        "order": 11,
+        "profile_path": "/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 25,
+        "character": "Angela Chen (voice)",
+        "credit_id": "5eb27772bf0f63001d801127",
+        "id": 75037,
+        "name": "Laura Bailey",
+        "order": 12,
+        "profile_path": "/xrq33v9N78hhmApcfkoYx0TAw1A.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 26,
+        "character": "Lex Luthor (voice)",
+        "credit_id": "5eb27782f74f5f001f95c662",
+        "id": 571562,
+        "name": "Steve Blum",
+        "order": 13,
+        "profile_path": "/cpO0muunoigq1WHegeOEI1AIQAo.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 27,
+        "character": "Ra\u0027s Al Ghul (voice)",
+        "credit_id": "5eb2779f65e0a200264186b3",
+        "id": 233191,
+        "name": "Terrence \u0027T.C.\u0027 Carson",
+        "order": 14,
+        "profile_path": "/3cKzbe7UY61ELyQSEWCHWzDSnNG.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 28,
+        "character": "Weather Wizard (voice)",
+        "credit_id": "5eb277b1caab6d0023dbcc60",
+        "id": 106774,
+        "name": "Rick D. Wasserman",
+        "order": 15,
+        "profile_path": "/gjjsSK4WMvDQhComOC02ht1Yo26.jpg",
+        "gender": 2
+      }
+    ],
+    "crew": [
+      {
+        "credit_id": "56a5a6cc9251410c08006ef4",
+        "department": "Directing",
+        "id": 90367,
+        "job": "Director",
+        "name": "Sam Liu",
+        "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "56f30c1f9251411a85000163",
+        "department": "Writing",
+        "id": 34936,
+        "job": "Writer",
+        "name": "Alan Burnett",
+        "profile_path": "/3gNmuxxdQbZ6nX2F63SMQNVbmqz.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "56f30c329251411a8d00016c",
+        "department": "Writing",
+        "id": 1237445,
+        "job": "Writer",
+        "name": "Bryan Q. Miller",
+        "gender": 2
+      },
+      {
+        "credit_id": "65aebe5125cd8500ea0d882d",
+        "department": "Art",
+        "id": 4176877,
+        "job": "Storyboard Artist",
+        "name": "Tanner Johnson",
+        "profile_path": "/8QgLnAjGTEfmVvnEAPIgW40loly.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "58d59facc3a368124f030e43",
+        "department": "Editing",
+        "id": 1033619,
+        "job": "Editor",
+        "name": "Christopher D. Lozinski",
+        "gender": 0
+      },
+      {
+        "credit_id": "66685c59eeada0a9d5be9063",
+        "department": "Sound",
+        "id": 544355,
+        "job": "Original Music Composer",
+        "name": "Frederik Wiedmann",
+        "profile_path": "/CNkfFuNkHia02qUikqnDi4IBCM.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "5eb2767e0b7316001e436c4f",
+        "department": "Production",
+        "id": 141043,
+        "job": "Executive Producer",
+        "name": "Sam Register",
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "5eb276e2fbe36f001ec41ede",
+        "department": "Production",
+        "id": 1641642,
+        "job": "Casting",
+        "name": "Wes Gleason",
+        "gender": 2
+      },
+      {
+        "credit_id": "5eb276a10b7316002443401b",
+        "department": "Production",
+        "id": 1225820,
+        "job": "Supervising Producer",
+        "name": "James Tucker",
+        "profile_path": "/3Z3VmdGbGk9qkM32m1e3khIwwDE.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "5eb277ea65e0a2001d4185fd",
+        "department": "Visual Effects",
+        "id": 2104085,
+        "job": "Lead Character Designer",
+        "name": "Phil Bourassa",
+        "gender": 0
+      },
+      {
+        "credit_id": "5eb276c1bf0f63001f802a54",
+        "department": "Production",
+        "id": 1964180,
+        "job": "Line Producer",
+        "name": "Amy McKenna",
+        "gender": 1
+      },
+      {
+        "credit_id": "5eb275f765e0a20026418468",
+        "department": "Art",
+        "id": 2627293,
+        "job": "Storyboard Artist",
+        "name": "Chris Palmer",
+        "profile_path": "/oTMXuXkfqJHnaLSZPmFIzSUP3TT.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "5eb27665bf0f63001f8029f5",
+        "department": "Writing",
+        "id": 1237445,
+        "job": "Story",
+        "name": "Bryan Q. Miller",
+        "gender": 2
+      },
+      {
+        "credit_id": "5eb276ae0b7316002443403d",
+        "department": "Production",
+        "id": 34936,
+        "job": "Co-Producer",
+        "name": "Alan Burnett",
+        "profile_path": "/3gNmuxxdQbZ6nX2F63SMQNVbmqz.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "5eb277dafbe36f001ec4210c",
+        "department": "Production",
+        "id": 2169044,
+        "job": "Production Manager",
+        "name": "Matthew Mahoney",
+        "profile_path": "/zrIJDfMD755hZq6qC9yHoVy7j45.jpg",
+        "gender": 2
+      }
+    ],
+    "id": 0
+  },
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 379291,
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/kYFjRRu8DF7ccv0ioOFhlPL20Df.jpg",
+        "height": 1080,
+        "vote_average": 6.722,
+        "vote_count": 9,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/rNYhGQ9O4a3DJsbjfBO3DNfdHv6.jpg",
+        "height": 2160,
+        "vote_average": 6.722,
+        "vote_count": 6,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/xdJLjrOtkiNIRN3vskXvBA00qmy.jpg",
+        "height": 720,
+        "iso_639_1": "en",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/lvpU9E3wB4nXBwm2APXek7HTjza.jpg",
+        "height": 1080,
+        "vote_average": 1.434,
+        "vote_count": 5,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/z8uqmG3nGodZRmj8a5LsFXKEyeR.jpg",
+        "height": 1080,
+        "vote_average": 1.434,
+        "vote_count": 5,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.781,
+        "file_path": "/AjtPveq4ZdDDvMGHY4Vi4LIM8oe.jpg",
+        "height": 1651,
+        "vote_average": 1.208,
+        "vote_count": 8,
+        "width": 2940
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/zK0jyNwiFbaX4E6yXArDuRM28S4.jpg",
+        "height": 720,
+        "vote_average": 0.958,
+        "vote_count": 4,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.779,
+        "file_path": "/1IK54LGSb3sh6iiX3sFcoq1U1ZX.jpg",
+        "height": 999,
+        "vote_average": 0.166,
+        "vote_count": 3,
+        "width": 1777
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/3Pp5BxMO3RB92etNaRVeODIfyqU.jpg",
+        "height": 1080,
+        "iso_639_1": "pt",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/cTktGEmhCCjCLE5z1QZGvscrx9U.jpg",
+        "height": 2160,
+        "iso_639_1": "pt",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/tvJDEsCBjTutCuKOEfWN3J5WeYm.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/95DtuNcni9GIyFwLRID3Yot8YWb.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/83qZIqqGcDz8CjULI1ACbJ8Ywct.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/ryKWcssZZEjJMITzD7RdlCmhFsR.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/6cUDnsWQSeknDeasWpq59WNjWjd.jpg",
+        "height": 3000,
+        "iso_639_1": "es",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/jUPs52maoXm1ENJrovATwqkypSw.jpg",
+        "height": 3000,
+        "iso_639_1": "fr",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.666,
+        "file_path": "/jJfFff6mwMyU48kCo07LMRN9Rvs.jpg",
+        "height": 1451,
+        "iso_639_1": "cs",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 967
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/rSpvtA67QiVWTSC0e8TISbtD7FK.jpg",
+        "height": 1500,
+        "iso_639_1": "pt",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/n8LnuCWAeEQdIi8FmFwcUhlJfM5.jpg",
+        "height": 801,
+        "iso_639_1": "zh",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 534
+      },
+      {
+        "aspect_ratio": 0.701,
+        "file_path": "/3FUFmBDRYUjFDn3SE79G1P9Hybr.jpg",
+        "height": 1426,
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.701,
+        "file_path": "/uwSbNF7G8aDw129CqDUfCh6f1iF.jpg",
+        "height": 1426,
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/mrphHnLo1ywe7yGcA5WhYlx9v3n.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/ctHGhbe19xIX6wlECsFydHiha4W.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 1.75,
+        "vote_count": 6,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.666,
+        "file_path": "/3G6RPpafXApTzn56cbVqLBp9uSz.jpg",
+        "height": 1508,
+        "iso_639_1": "en",
+        "vote_average": 1.714,
+        "vote_count": 7,
+        "width": 1005
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/bClGVxEr77Wnf3DIQoVro9zopuV.jpg",
+        "height": 3000,
+        "iso_639_1": "pt",
+        "vote_average": 1.222,
+        "vote_count": 3,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/sPjcGLDMKAVMGuYy4xEco8hHw6e.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 0.958,
+        "vote_count": 4,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/5ox4NHqbaq7VfKxNUHNKeNov2Ko.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 0.958,
+        "vote_count": 4,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.694,
+        "file_path": "/yxXh1UyREFEulBNyTBpv0AxlGs5.jpg",
+        "height": 1440,
+        "iso_639_1": "pt",
+        "vote_average": 0.166,
+        "vote_count": 2,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/njCymXdH1fOfdZJDWGMrlnpHEbe.jpg",
+        "height": 1500,
+        "iso_639_1": "fr",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.668,
+        "file_path": "/2qpzJk400vmGFIBvgyRlpmiVtTg.jpg",
+        "height": 750,
+        "iso_639_1": "ru",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 501
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/vvISc1rMloxbuTzXxsMwkappX2k.jpg",
+        "height": 3000,
+        "iso_639_1": "hu",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/pA1JRgOao8B40e1gs53qH2CnVvX.jpg",
+        "height": 3000,
+        "iso_639_1": "pl",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/ymTmwXNcHCnatxXoAQG4BzFjl7I.jpg",
+        "height": 3000,
+        "iso_639_1": "tr",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/wTxdbd2zMABAyCqtNkqogTXtlui.jpg",
+        "height": 3000,
+        "iso_639_1": "th",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.706,
+        "file_path": "/l5oUYxM5DLE3uueFG3LaE1DPOoL.jpg",
+        "height": 1406,
+        "iso_639_1": "cs",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 992
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/6ifxokZxi98cOdJ8tgXas4LdOG4.jpg",
+        "height": 3000,
+        "iso_639_1": "uk",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/skJDmOYfpohTPEd2zI0DIOF6IPj.jpg",
+        "height": 3000,
+        "iso_639_1": "es",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/iT1FTQR8ECW2nFsPsotxd27EuIQ.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/z6fRu5EFNPmm43MYmgG9RyEnVr5.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/pHGU7MGQgmaYIYfpGud6oxWr7aG.jpg",
+        "height": 750,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "imdb_id": "tt5091548",
+  "keywords": {
+    "id": 0,
+    "keywords": [
+      {
+        "id": 9715,
+        "name": "superhero"
+      },
+      {
+        "id": 6513,
+        "name": "cartoon"
+      },
+      {
+        "id": 9717,
+        "name": "based on comic"
+      },
+      {
+        "id": 33637,
+        "name": "super power"
+      },
+      {
+        "id": 155030,
+        "name": "superhero team"
+      },
+      {
+        "id": 213104,
+        "name": "teen superhero"
+      },
+      {
+        "id": 325811,
+        "name": "excited"
+      },
+      {
+        "id": 325824,
+        "name": "hopeful"
+      },
+      {
+        "id": 359527,
+        "name": "dc animated movie universe (dcamu)"
+      }
+    ]
+  },
+  "lists": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "original_language": "en",
+  "original_title": "Justice League vs. Teen Titans",
+  "overview": "Robin is sent by Batman to work with the Teen Titans after his volatile behavior botches up a Justice League mission. The Titans must then step up to face Trigon after he possesses the League and threatens to conquer the world.",
+  "popularity": 3.6358,
+  "poster_path": "/mrphHnLo1ywe7yGcA5WhYlx9v3n.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "name": "Warner Bros. Animation",
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "name": "DC",
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {}
+  ],
+  "release_date": "2016-03-26T00:00:00-04:00",
+  "release_dates": {
+    "id": 0,
+    "results": []
+  },
+  "external_ids": {
+    "id": 0,
+    "imdb_id": "tt5091548"
+  },
+  "releases": {
+    "countries": [
+      {
+        "certification": "PG-13",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2016-03-29T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "BR",
+        "primary": false,
+        "release_date": "2016-03-29T00:00:00"
+      },
+      {
+        "certification": "PG-13",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2016-03-26T00:00:00"
+      },
+      {
+        "certification": "PG-13",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2016-04-12T00:00:00"
+      },
+      {
+        "certification": "TP",
+        "iso_3166_1": "FR",
+        "primary": false,
+        "release_date": "2016-04-13T00:00:00"
+      },
+      {
+        "certification": "M",
+        "iso_3166_1": "AU",
+        "primary": false,
+        "release_date": "2016-03-29T00:00:00"
+      },
+      {
+        "certification": "7",
+        "iso_3166_1": "ES",
+        "primary": false,
+        "release_date": "2016-05-13T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "IE",
+        "primary": false,
+        "release_date": "2016-04-13T00:00:00"
+      },
+      {
+        "certification": "B-15",
+        "iso_3166_1": "MX",
+        "primary": false,
+        "release_date": "2016-03-29T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "GB",
+        "primary": false,
+        "release_date": "2019-04-17T00:00:00"
+      },
+      {
+        "certification": "7",
+        "iso_3166_1": "DK",
+        "primary": false,
+        "release_date": "2016-03-26T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "HU",
+        "primary": false,
+        "release_date": "2016-05-18T00:00:00"
+      },
+      {
+        "certification": "",
+        "iso_3166_1": "FR",
+        "primary": false,
+        "release_date": "2018-08-04T00:00:00"
+      }
+    ],
+    "id": 0
+  },
+  "revenue": 0,
+  "reviews": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "runtime": 78,
+  "similar": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "recommendations": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "spoken_languages": [
+    {}
+  ],
+  "status": "Released",
+  "tagline": "Two teams. One epic battle.",
+  "title": "Justice League vs. Teen Titans",
+  "translations": {
+    "id": 0,
+    "translations": []
+  },
+  "video": false,
+  "videos": {
+    "id": 0,
+    "results": []
+  },
+  "vote_average": 7.271,
+  "vote_count": 1048
+}
