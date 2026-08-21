@@ -1,0 +1,253 @@
+{
+  "account_states": {
+    "favorite": false,
+    "id": 0,
+    "watchlist": false
+  },
+  "adult": false,
+  "alternative_titles": {
+    "id": 0,
+    "titles": []
+  },
+  "backdrop_path": "/bneDPLLO1Zhc351QEJdKPQpReEa.jpg",
+  "budget": 0,
+  "changes": {
+    "changes": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "cast_id": 2,
+        "character": "Theo Martin",
+        "credit_id": "60634b411130bd003e58c39a",
+        "id": 1094511,
+        "name": "Aljin Abella",
+        "order": 0,
+        "profile_path": "/mAsuTXH9xflaBUBYo3roUuV2bss.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 3,
+        "character": "Lily Chilman",
+        "credit_id": "60634b5b6f6a99006aff0937",
+        "id": 486603,
+        "name": "Anna Hutchison",
+        "order": 1,
+        "profile_path": "/i7o5JRt43W3qsPbFm8qhsQAws6t.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 1,
+        "character": "Casey Rhodes",
+        "credit_id": "60634b33d7a70a0028087238",
+        "id": 1231127,
+        "name": "Jason Smith",
+        "order": 2,
+        "profile_path": "/ehHgM1V763E2gRHSYlmeo6IVyEj.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 4,
+        "character": "RJ",
+        "credit_id": "60634b7d1f98d10028c8c400",
+        "id": 1212129,
+        "name": "David de Lautour",
+        "order": 3,
+        "profile_path": "/bpXXaZ93AmOXfI1ptFLWF6VFxT.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 5,
+        "character": "Jarrod",
+        "credit_id": "60634b911f98d1006ab0992f",
+        "id": 1239209,
+        "name": "Bede Skinner",
+        "order": 4,
+        "profile_path": "/7ffo4oTNg3f8QCojXG3yxoorzeO.jpg",
+        "gender": 2
+      }
+    ],
+    "crew": [
+      {
+        "credit_id": "69078a09ab36f4db7d0814ac",
+        "department": "Directing",
+        "id": 173587,
+        "job": "Director",
+        "name": "Mark Beesley",
+        "gender": 2
+      },
+      {
+        "credit_id": "69078a39769fb3352ee12d49",
+        "department": "Writing",
+        "id": 1103571,
+        "job": "Writer",
+        "name": "Jackie Marchand",
+        "gender": 1
+      },
+      {
+        "credit_id": "69078a489a215cbd39f93170",
+        "department": "Writing",
+        "id": 2580746,
+        "job": "Writer",
+        "name": "John Tellegen",
+        "gender": 0
+      },
+      {
+        "credit_id": "69078a582697d30c0a2fea14",
+        "department": "Writing",
+        "id": 166095,
+        "job": "Writer",
+        "name": "Bruce Kalish",
+        "profile_path": "/3plQxCwiZDoUvveBXhqhSYifGL8.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "69078a6a769fb3352ee12d4d",
+        "department": "Production",
+        "id": 166095,
+        "job": "Executive Producer",
+        "name": "Bruce Kalish",
+        "profile_path": "/3plQxCwiZDoUvveBXhqhSYifGL8.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "69078a90b52e69099f0816ba",
+        "department": "Production",
+        "id": 145066,
+        "job": "Executive Producer",
+        "name": "Koichi Sakamoto",
+        "profile_path": "/wwKnhksYBo4e7mbHozsjv6hpVYH.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "69078a9da35aaf358af92fb4",
+        "department": "Camera",
+        "id": 1271977,
+        "job": "Director of Photography",
+        "name": "Simon Riera",
+        "gender": 0
+      }
+    ],
+    "id": 0
+  },
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 812137,
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/bneDPLLO1Zhc351QEJdKPQpReEa.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.704,
+        "file_path": "/e0jRLWVPGIYIXyltfjOgOrqkTKk.jpg",
+        "height": 1000,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 704
+      }
+    ]
+  },
+  "keywords": {
+    "id": 0,
+    "keywords": []
+  },
+  "lists": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "original_language": "en",
+  "original_title": "Power Rangers Jungle Fury: Into The Jungle",
+  "overview": "Three skilled members of the Kung Fu clan Pai Zhuq, or Order of the Claw, are selected to fight the villainous Dai Shi. The warriors are given the special gift of becoming the Jungle Fury Power Rangers and are the earth s only hope to stop an army of evil animal spirits from overtaking the world. Throughout their journey, the Rangers are joined by other highly trained members of the Kung Fu clan to teach them important lessons and help them in their battle.",
+  "popularity": 0.7718,
+  "poster_path": "/e0jRLWVPGIYIXyltfjOgOrqkTKk.jpg",
+  "production_companies": [
+    {
+      "id": 65723,
+      "name": "Buena Vista Television",
+      "logo_path": "/sNxYu3F4BEkeoTg53JgWztSom5d.png",
+      "origin_country": "US"
+    },
+    {
+      "id": 5822,
+      "name": "Toei Company",
+      "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {},
+    {},
+    {}
+  ],
+  "release_date": "2008-12-16T00:00:00-05:00",
+  "release_dates": {
+    "id": 0,
+    "results": []
+  },
+  "external_ids": {
+    "id": 0
+  },
+  "releases": {
+    "countries": [
+      {
+        "certification": "",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2008-12-16T00:00:00"
+      }
+    ],
+    "id": 0
+  },
+  "revenue": 0,
+  "reviews": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "runtime": 135,
+  "similar": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "recommendations": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "spoken_languages": [
+    {}
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Power Rangers Jungle Fury: Into The Jungle",
+  "translations": {
+    "id": 0,
+    "translations": []
+  },
+  "video": true,
+  "videos": {
+    "id": 0,
+    "results": []
+  },
+  "vote_average": 9.3,
+  "vote_count": 3
+}
