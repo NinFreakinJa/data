@@ -1,4 +1,134 @@
 Name: All Star Superman
 Type: MainMovie
 Year: 2011
+Source file name: 00100.mpls
+Duration: 1:16:36
+Chapters count: 9
+Size: 11.5 GB
+Segment count: 1
+Segment map: 70
 File name: All Star Superman (2011) [1080p].mkv
+
+Name: Virtual Comic: All-Star Superman #1
+Type: Extra
+Source file name: 00205.mpls
+Duration: 0:00:14
+Chapters count: 14
+Size: 5.1 MB
+Segment count: 14
+Segment map: 25,26,27,28,29,30,31,32,33,34,35,36,37,83
+File name: Virtual Comic; All-Star Superman #1 (English)-extra.mkv
+
+Name: Virtual Comic: All-Star Superman #1
+Type: Extra
+Source file name: 00306.mpls
+Duration: 0:00:14
+Chapters count: 14
+Size: 5.1 MB
+Segment count: 14
+Segment map: 53,54,55,56,57,58,59,60,61,62,63,64,65,85
+File name: Virtual Comic; All-Star Superman #1 (Portuguese)-extra.mkv
+
+Name: Virtual Comic: All-Star Superman #1
+Type: Extra
+Source file name: 00305.mpls
+Duration: 0:00:14
+Chapters count: 14
+Size: 5.1 MB
+Segment count: 14
+Segment map: 38,39,40,41,42,43,46,47,48,49,50,51,52,84
+File name: Virtual Comic; All-Star Superman #1 (German)-extra.mkv
+
+Name: Superman Now
+Type: Extra
+Source file name: 00005.m2ts
+Duration: 0:33:48
+Size: 3.0 GB
+Segment count: 1
+Segment map: 5
+File name: Superman Now-featurette.mkv
+
+Name: Superman/Batman Apocalypse Trailer
+Type: Extra
+Source file name: 00016.m2ts
+Duration: 0:01:22
+Size: 51.7 MB
+Segment count: 1
+Segment map: 16
+File name: SupermanBatman Apocalypse Trailer-extra.mkv
+
+Name: Batman: Under the Red Hood Trailer
+Type: Extra
+Source file name: 00076.m2ts
+Duration: 0:01:19
+Size: 62.1 MB
+Segment count: 1
+Segment map: 76
+File name: Batman Under the Red Hood Trailer-extra.mkv
+
+Name: Blasts from the Past Part II
+Type: Episode
+Season: 1
+Episode: 16
+Source file name: 00075.m2ts
+Duration: 0:21:26
+Size: 876.9 MB
+Segment count: 1
+Segment map: 75
+File name: Superman The Animated Series-s01e16-Blasts from the Past Part II [480p].mkv
+
+Name: Blasts from the Past Part I
+Type: Episode
+Season: 1
+Episode: 15
+Source file name: 00074.m2ts
+Duration: 0:19:53
+Size: 958.5 MB
+Segment count: 1
+Segment map: 74
+File name: Superman The Animated Series-s01e15-Blasts from the Past Part I [480p].mkv
+
+Name: Superman/Batman: Apocalypse Sneak Peek
+Type: Extra
+Source file name: 00073.m2ts
+Duration: 0:12:12
+Size: 503.3 MB
+Segment count: 1
+Segment map: 73
+File name: SupermanBatman Apocalypse Sneak Peek-featurette.mkv
+
+Name: Green Lantern: Emerald Knights Sneak Peek
+Type: Extra
+Source file name: 00072.m2ts
+Duration: 0:11:40
+Size: 1.0 GB
+Segment count: 1
+Segment map: 72
+File name: Green Lantern Emerald Knights Sneak Peek-featurette.mkv
+
+Name: The Creative Flow: Incubating the Idea with Grant Morrison
+Type: Extra
+Source file name: 00071.m2ts
+Duration: 0:09:36
+Size: 370.0 MB
+Segment count: 1
+Segment map: 71
+File name: The Creative Flow- Incubating the Idea with Grant Morrison-featurette.mkv
+
+Name: DC Universe Online Trailer
+Type: Extra
+Source file name: 00017.m2ts
+Duration: 0:01:46
+Size: 67.9 MB
+Segment count: 1
+Segment map: 17
+File name: DC Universe Online Trailer-extra.mkv
+
+Name: Harry Potter and the Deathly Hallows Part 1 Trailer
+Type: Extra
+Source file name: 00082.m2ts
+Duration: 0:02:26
+Size: 95.3 MB
+Segment count: 1
+Segment map: 82
+File name: Harry Potter and the Deathly Hallows Part 1 Trailer-extra.mkv
