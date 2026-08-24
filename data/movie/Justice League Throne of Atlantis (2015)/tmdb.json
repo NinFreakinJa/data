@@ -1,0 +1,895 @@
+{
+  "account_states": {
+    "favorite": false,
+    "id": 0,
+    "watchlist": false
+  },
+  "adult": false,
+  "alternative_titles": {
+    "id": 0,
+    "titles": []
+  },
+  "backdrop_path": "/ltlPFTMRsohmi2QbbSZUkAVg7Nc.jpg",
+  "belongs_to_collection": {
+    "backdrop_path": "/v4ijBegXGXDltrqRbhlEQqfoDl2.jpg",
+    "id": 256287,
+    "name": "Justice League (DCAMU) Collection",
+    "poster_path": "/5qm3MlCJkAtEUvnGPYwnKzrgAIO.jpg"
+  },
+  "budget": 3500000,
+  "changes": {
+    "changes": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "cast_id": 4,
+        "character": "Shazam (voice)",
+        "credit_id": "543e4d800e0a266f8e001e48",
+        "id": 1328,
+        "name": "Sean Astin",
+        "order": 0,
+        "profile_path": "/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 6,
+        "character": "Wonder Woman / Diana (voice)",
+        "credit_id": "543e4d9cc3a368250d001cdd",
+        "id": 5916,
+        "name": "Rosario Dawson",
+        "order": 1,
+        "profile_path": "/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 7,
+        "character": "Green Lantern / Hal Jordan (voice)",
+        "credit_id": "543e4dabc3a3682517001e3a",
+        "id": 51797,
+        "name": "Nathan Fillion",
+        "order": 2,
+        "profile_path": "/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 8,
+        "character": "The Flash / Barry Allen (voice)",
+        "credit_id": "543e4dbb0e0a266f8e001e58",
+        "id": 53761,
+        "name": "Christopher Gorham",
+        "order": 3,
+        "profile_path": "/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 10,
+        "character": "Aquaman / Arthur Curry (voice)",
+        "credit_id": "543e4de5c3a368250a001ea0",
+        "id": 34202,
+        "name": "Matt Lanter",
+        "order": 4,
+        "profile_path": "/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 11,
+        "character": "Mera (voice)",
+        "credit_id": "543e4df0c3a3682513001e16",
+        "id": 66655,
+        "name": "Sumalee Montano",
+        "order": 5,
+        "profile_path": "/cqkKL8hTGglY1n0DRrDmsfvwpDx.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 12,
+        "character": "Superman / Clark Kent / Kal-El (voice)",
+        "credit_id": "543e4dffc3a368250a001ea8",
+        "id": 3035,
+        "name": "Jerry O\u0027Connell",
+        "order": 6,
+        "profile_path": "/siMZhO5SIUc6K5sTKyVJRXmkoiG.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 13,
+        "character": "Batman / Bruce Wayne (voice)",
+        "credit_id": "543e4e0b0e0a266f81001e64",
+        "id": 183812,
+        "name": "Jason O\u0027Mara",
+        "order": 7,
+        "profile_path": "/9Cs9PD5pwUkFQPLmpp5e6wkFQoY.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 17,
+        "character": "Cyborg / Victor Stone (voice)",
+        "credit_id": "573008cdc3a3686dd2000ff4",
+        "id": 50266,
+        "name": "Shemar Moore",
+        "order": 8,
+        "profile_path": "/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 18,
+        "character": "Orm (voice)",
+        "credit_id": "573008fec3a3687cc900347d",
+        "id": 46362,
+        "name": "Sam Witwer",
+        "order": 9,
+        "profile_path": "/8flOyMoh9hBQPqi6ISD7W1mDjnY.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 19,
+        "character": "Lois Lane / Cassie Sandsmark (voice)",
+        "credit_id": "57300a86c3a368422a0002f4",
+        "id": 7137,
+        "name": "Juliet Landau",
+        "order": 10,
+        "profile_path": "/fxLW9OteJEO2MGVaNc3oDL0EjR0.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 20,
+        "character": "Black Manta (voice)",
+        "credit_id": "57300abc92514118d3003ded",
+        "id": 9464,
+        "name": "Harry Lennix",
+        "order": 11,
+        "profile_path": "/kNGiizWpetf4pyAkINkjkWacmCL.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 9,
+        "character": "Queen Atlanna (voice)",
+        "credit_id": "543e4dcf0e0a266f84001f20",
+        "id": 48163,
+        "name": "Sirena Irwin",
+        "order": 12,
+        "profile_path": "/uWP0DF9hOy1G8rMEDS1qLguwOEr.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 21,
+        "character": "Jimmy Olsen (voice)",
+        "credit_id": "57f4b0ad9251411c7e002882",
+        "id": 63464,
+        "name": "Patrick Cavanaugh",
+        "order": 13,
+        "profile_path": "/5SCHkIGBfmc2aeFE1kKtWZ6mxBx.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 22,
+        "character": "Steve Trevor (voice)",
+        "credit_id": "57f4b0c7c3a368053d002813",
+        "id": 59222,
+        "name": "George Newbern",
+        "order": 14,
+        "profile_path": "/1Xx0K3KGqxyIpL6o2eVQKui86jS.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 26,
+        "character": "General Lane (voice)",
+        "credit_id": "584d9af392514118e400090d",
+        "id": 166831,
+        "name": "Jay Johnson",
+        "order": 15,
+        "profile_path": "/dTi4KR3Y8XgZGa45QZqOpjCMAS0.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 34,
+        "character": "Sarah (voice)",
+        "credit_id": "5c52c949c3a368479398bbff",
+        "id": 1423227,
+        "name": "Melique Berger",
+        "order": 16,
+        "profile_path": "/ej2O4IuqRp6j6LquggHbyUAvb8K.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 35,
+        "character": "Lex Luthor / Computer Voice (voice)",
+        "credit_id": "5c52c955c3a3687290833968",
+        "id": 571562,
+        "name": "Steve Blum",
+        "order": 17,
+        "profile_path": "/cpO0muunoigq1WHegeOEI1AIQAo.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 36,
+        "character": "Thomas Curry (voice)",
+        "credit_id": "5c52c968c3a368479398bc06",
+        "id": 94304,
+        "name": "Larry Cedar",
+        "order": 18,
+        "profile_path": "/mvfn1YoL9ACp4n51HZOD0TMs2Ah.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 37,
+        "character": "Defense Advisor (voice)",
+        "credit_id": "5c52c974c3a36847779993a1",
+        "id": 72742,
+        "name": "Barry Dennen",
+        "order": 19,
+        "profile_path": "/6m6LMpQZlHLYDuMxbPU4R5gr75l.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 38,
+        "character": "Captain (voice)",
+        "credit_id": "5c52c982c3a3687564862f6c",
+        "id": 86006,
+        "name": "Paul Eiding",
+        "order": 20,
+        "profile_path": "/3Gxs9fTnkQLFlmMHROlgiDJ4p10.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 39,
+        "character": "Dr. Shin (voice)",
+        "credit_id": "5c52c98f92514149ab4ec74c",
+        "id": 157067,
+        "name": "Matthew Yang King",
+        "order": 21,
+        "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 40,
+        "character": "John Henry Irons (voice)",
+        "credit_id": "5c52c9a1c3a368729083399b",
+        "id": 65640,
+        "name": "Khary Payton",
+        "order": 22,
+        "profile_path": "/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 41,
+        "character": "Elderly Atlantean Woman (voice)",
+        "credit_id": "5c52c9ba0e0a2601d6cbbf27",
+        "id": 34945,
+        "name": "Andrea Romano",
+        "order": 23,
+        "profile_path": "/6WeW7uCKJNK5pVtHmJg5odVZH4u.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 42,
+        "character": "Drift Leader (voice)",
+        "credit_id": "661f083f0816c7017ceec56c",
+        "id": 19975,
+        "name": "Michael Rosenbaum",
+        "order": 24,
+        "profile_path": "/ymiZjRwcS3gcCtsfv4w3GjRc2yc.jpg",
+        "gender": 2
+      }
+    ],
+    "crew": [
+      {
+        "credit_id": "543e4d600e0a266f7a001f61",
+        "department": "Writing",
+        "id": 1267557,
+        "job": "Writer",
+        "name": "Heath Corson",
+        "gender": 0
+      },
+      {
+        "credit_id": "56b145d092514126cc000588",
+        "department": "Directing",
+        "id": 204553,
+        "job": "Director",
+        "name": "Ethan Spaulding",
+        "profile_path": "/wLTbLnSJ1jnjA2YOHOPqz2g0XNe.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "56a4fbf2c3a368389b0076a5",
+        "department": "Production",
+        "id": 1225820,
+        "job": "Supervising Producer",
+        "name": "James Tucker",
+        "profile_path": "/3Z3VmdGbGk9qkM32m1e3khIwwDE.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "583b4249c3a3687bc30010f7",
+        "department": "Writing",
+        "id": 20007,
+        "job": "Characters",
+        "name": "Jerry Siegel",
+        "profile_path": "/tpkgpm3pHrkSNewoDasKz6Chpg4.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "583b4240925141545d001255",
+        "department": "Writing",
+        "id": 20008,
+        "job": "Characters",
+        "name": "Joe Shuster",
+        "profile_path": "/bb2RpPm1GZy45dxndVdlxNx7AvU.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "583b4234925141546500123c",
+        "department": "Writing",
+        "id": 3794,
+        "job": "Characters",
+        "name": "Bob Kane",
+        "profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "5897631cc3a368089801b2d3",
+        "department": "Writing",
+        "id": 211962,
+        "job": "Story",
+        "name": "Geoff Johns",
+        "profile_path": "/1hiQjkIkeFoiwvD4yIk2Dq6tnOa.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "58994d9092514160a1000ad8",
+        "department": "Production",
+        "id": 141043,
+        "job": "Executive Producer",
+        "name": "Sam Register",
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "58d5a0cfc3a36812890320f4",
+        "department": "Editing",
+        "id": 1033619,
+        "job": "Editor",
+        "name": "Christopher D. Lozinski",
+        "gender": 0
+      },
+      {
+        "credit_id": "58e4b32fc3a3687326029fb1",
+        "department": "Art",
+        "id": 105643,
+        "job": "Storyboard Designer",
+        "name": "Jay Oliva",
+        "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "58e4b2f492514179de01e6b7",
+        "department": "Art",
+        "id": 90367,
+        "job": "Storyboard Designer",
+        "name": "Sam Liu",
+        "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "693db1bc9a1110571d780c7f",
+        "department": "Sound",
+        "id": 544355,
+        "job": "Original Music Composer",
+        "name": "Frederik Wiedmann",
+        "profile_path": "/CNkfFuNkHia02qUikqnDi4IBCM.jpg",
+        "gender": 2
+      }
+    ],
+    "id": 0
+  },
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "http://www.warnerbros.com/justice-league-throne-atlantis-0",
+  "id": 297556,
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/ltlPFTMRsohmi2QbbSZUkAVg7Nc.jpg",
+        "height": 1080,
+        "vote_average": 3.334,
+        "vote_count": 3,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/kPR5icEVHbLgzYusFrWNR5AmYfi.jpg",
+        "height": 1080,
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/kDZ0crxcNQDmPWgIHrWQqUTHasX.jpg",
+        "height": 1080,
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/i8C7rem1yJwhLclMQb8p38TDn2f.jpg",
+        "height": 749,
+        "vote_average": 1.222,
+        "vote_count": 3,
+        "width": 1332
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/a2wbt7SkfGd8nteMyhg5ErKtYlZ.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/ivmuobJJBqjUXbbDdfp8kIpI8yR.jpg",
+        "height": 2160,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.781,
+        "file_path": "/3OGc8ff7cXAaFIcPlBN4rIZF7b.jpg",
+        "height": 1076,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1916
+      },
+      {
+        "aspect_ratio": 1.779,
+        "file_path": "/yycJrq0ORTSZMGYOa6FmWqpSIIc.jpg",
+        "height": 999,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1777
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/7QL5M0l4KXlxuAKbAIIhTjqWRiL.jpg",
+        "height": 720,
+        "iso_639_1": "it",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/vdraUOfrrxeowP46gcmX5Ujz5uC.jpg",
+        "height": 1080,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/4zYm6fsWwFRhI4n4ZEkK0MzMI5b.jpg",
+        "height": 1080,
+        "iso_639_1": "pt",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/neBbStEzwBiyszTNnKreEaGFPbP.jpg",
+        "height": 2160,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/hY4YWBw4Nl5TgRKrpZ0BMYBJQpg.jpg",
+        "height": 2160,
+        "vote_average": 0,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/ltzp2icxxgTdXF3UdHtY9jD91qJ.jpg",
+        "height": 1386,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2464
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/iaYZA8teYeIxmR8wRrEED5wwR0u.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 10,
+        "vote_count": 4,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/xXnNT7aM0deG4ONlfavCLt15QuW.jpg",
+        "height": 1500,
+        "iso_639_1": "ru",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/hKHWoabqFg7QVS4Xqu5Q84PmuAo.jpg",
+        "height": 3000,
+        "iso_639_1": "es",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.706,
+        "file_path": "/lWSy9xexKsUujTen22pVOy7JYxQ.jpg",
+        "height": 2172,
+        "iso_639_1": "hu",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1533
+      },
+      {
+        "aspect_ratio": 0.666,
+        "file_path": "/cSNpfIblT8Jgx0ELSm3YpHhtME4.jpg",
+        "height": 1923,
+        "iso_639_1": "fr",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1281
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/t6hcyzdgpGBVlEzizCmg5CWY8Fv.jpg",
+        "height": 3000,
+        "iso_639_1": "pt",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/iowuHyA4sW1DZxUr9XizdmTWz2Y.jpg",
+        "height": 1620,
+        "iso_639_1": "uk",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1080
+      },
+      {
+        "aspect_ratio": 0.696,
+        "file_path": "/mjLMDukPSufM8oVni1A5W8Ql8TC.jpg",
+        "height": 942,
+        "iso_639_1": "zh",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 656
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/wjD6lr6vi9DIwwyDZaOjGpIbulu.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 1.75,
+        "vote_count": 4,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.666,
+        "file_path": "/172bTHUmnwFJ9I6pULEqbwB8trf.jpg",
+        "height": 1923,
+        "iso_639_1": "en",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1281
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/v5WtkFjLcGGmytfRw1k1BuWnALP.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 1.222,
+        "vote_count": 3,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/txMqsaXXxEJV1nyFz9mTWJFauTE.jpg",
+        "height": 3000,
+        "iso_639_1": "pl",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.666,
+        "file_path": "/kcaAvpxraBdv4gXLvGxPXfQvcDs.jpg",
+        "height": 1067,
+        "iso_639_1": "pt",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 711
+      },
+      {
+        "aspect_ratio": 0.663,
+        "file_path": "/5pRvlYqy1MCOhpPRuCxncORtTid.jpg",
+        "height": 1381,
+        "iso_639_1": "cs",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 915
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/ls1jBJ4JrZY9DcsT3sGqx2pLTzK.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/7slmEUHfAby2u7UEFoiu9e2qFIQ.jpg",
+        "height": 2880,
+        "iso_639_1": "it",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/iHE5ZzJzDLCF1v19Xzvi90fJW3.jpg",
+        "height": 3000,
+        "iso_639_1": "th",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/u4wxAXy6Y3Mgna8YhMxUaP6iZoA.jpg",
+        "height": 3000,
+        "iso_639_1": "es",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/dnUOL20XbT2BtH6NujBEnYWs0pd.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/dR9loL5xE2lo05AQEIMSXabqyFc.jpg",
+        "height": 942,
+        "iso_639_1": "zh",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 628
+      }
+    ]
+  },
+  "imdb_id": "tt3878542",
+  "keywords": {
+    "id": 0,
+    "keywords": [
+      {
+        "id": 6513,
+        "name": "cartoon"
+      },
+      {
+        "id": 9717,
+        "name": "based on comic"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 33637,
+        "name": "super power"
+      },
+      {
+        "id": 155030,
+        "name": "superhero team"
+      },
+      {
+        "id": 281585,
+        "name": "inspirational"
+      },
+      {
+        "id": 311315,
+        "name": "dramatic"
+      },
+      {
+        "id": 325811,
+        "name": "excited"
+      },
+      {
+        "id": 359527,
+        "name": "dc animated movie universe (dcamu)"
+      }
+    ]
+  },
+  "lists": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "original_language": "en",
+  "original_title": "Justice League: Throne of Atlantis",
+  "overview": "After the events of Justice League: War, Ocean Master and Black Manta have declared a war against the surface in retaliation of the aftermath of Apokoliptian-tyrant Darkseid\u0027s planetary invasion. Queen Atlanna seeks out her other son, Ocean Master\u2019s half-brother Arthur Curry, a half-human with aquatic powers with no knowledge of his Atlantean heritage, to restore balance.  Living with powers he doesn\u2019t understand and seeing the danger around him, Curry takes steps to embrace his destiny, joining the Justice League, and with his new teammates he battles to save Earth from total destruction.",
+  "popularity": 3.9489,
+  "poster_path": "/iaYZA8teYeIxmR8wRrEED5wwR0u.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "name": "Warner Bros. Animation",
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "name": "DC",
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {}
+  ],
+  "release_date": "2015-01-13T00:00:00-05:00",
+  "release_dates": {
+    "id": 0,
+    "results": []
+  },
+  "external_ids": {
+    "id": 0,
+    "imdb_id": "tt3878542"
+  },
+  "releases": {
+    "countries": [
+      {
+        "certification": "PG-13",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2015-01-27T00:00:00"
+      },
+      {
+        "certification": "15",
+        "iso_3166_1": "DK",
+        "primary": false,
+        "release_date": "2015-01-27T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "BR",
+        "primary": false,
+        "release_date": "2015-06-25T00:00:00"
+      },
+      {
+        "certification": "PG-13",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2015-01-13T00:00:00"
+      },
+      {
+        "certification": "U",
+        "iso_3166_1": "FR",
+        "primary": false,
+        "release_date": "2015-05-20T00:00:00"
+      },
+      {
+        "certification": "B",
+        "iso_3166_1": "MX",
+        "primary": false,
+        "release_date": "2015-01-27T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "ES",
+        "primary": false,
+        "release_date": "2015-01-23T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "IE",
+        "primary": false,
+        "release_date": "2015-01-27T00:00:00"
+      },
+      {
+        "certification": "15",
+        "iso_3166_1": "GB",
+        "primary": false,
+        "release_date": "2018-11-05T00:00:00"
+      },
+      {
+        "certification": "12\u002B",
+        "iso_3166_1": "CZ",
+        "primary": false,
+        "release_date": "2015-02-11T00:00:00"
+      },
+      {
+        "certification": "PG12",
+        "iso_3166_1": "JP",
+        "primary": false,
+        "release_date": "2015-09-09T00:00:00"
+      }
+    ],
+    "id": 0
+  },
+  "revenue": 0,
+  "reviews": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "runtime": 72,
+  "similar": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "recommendations": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "spoken_languages": [
+    {}
+  ],
+  "status": "Released",
+  "tagline": "Blood is thicker than water.",
+  "title": "Justice League: Throne of Atlantis",
+  "translations": {
+    "id": 0,
+    "translations": []
+  },
+  "video": false,
+  "videos": {
+    "id": 0,
+    "results": []
+  },
+  "vote_average": 6.969,
+  "vote_count": 1010
+}
