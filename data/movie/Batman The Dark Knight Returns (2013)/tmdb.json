@@ -1,0 +1,814 @@
+{
+  "account_states": {
+    "favorite": false,
+    "id": 0,
+    "watchlist": false
+  },
+  "adult": false,
+  "alternative_titles": {
+    "id": 0,
+    "titles": []
+  },
+  "backdrop_path": "/aAp0AkCBsMUDFCuLyd3MTcJ6ZV5.jpg",
+  "budget": 7000000,
+  "changes": {
+    "changes": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "cast_id": 52,
+        "character": "Bruce Wayne / Batman (voice)",
+        "credit_id": "599c41a0c3a368228c0152ed",
+        "id": 27811,
+        "name": "Peter Weller",
+        "order": 0,
+        "profile_path": "/3xevrmofgDhXBqV0UzSLOgR3jkk.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 53,
+        "character": "Carrie Kelley / Robin (voice)",
+        "credit_id": "599c41b69251410e5a015e23",
+        "id": 42160,
+        "name": "Ariel Winter",
+        "order": 1,
+        "profile_path": "/1h0XaXnieP5CdTAeRGuALBJmD4R.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 28,
+        "character": "Commissioner James Gordon (voice)",
+        "credit_id": "599c410cc3a36822e60148e8",
+        "id": 56930,
+        "name": "David Selby",
+        "order": 2,
+        "profile_path": "/w7OUsn0tXFV3p056704eP7DkrcP.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 54,
+        "character": "Harvey Dent / Two-Face (voice)",
+        "credit_id": "599c41c5c3a36823000155b4",
+        "id": 51930,
+        "name": "Wade Williams",
+        "order": 3,
+        "profile_path": "/s9WjsTpC8a5KfxuoJnb5I35S2SM.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 30,
+        "character": "Joker (voice)",
+        "credit_id": "599c4113c3a36878b300af24",
+        "id": 2136,
+        "name": "Michael Emerson",
+        "order": 4,
+        "profile_path": "/xOpr90SF1RCtjFNTu32nZQ90buY.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 31,
+        "character": "Don / Fat Mutant / Additional Voices (voice)",
+        "credit_id": "599c4116c3a36878b300af29",
+        "id": 23680,
+        "name": "Dee Bradley Baker",
+        "order": 5,
+        "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 32,
+        "character": "Commissioner Ellen Yindel (voice)",
+        "credit_id": "599c411b92514126ae00cb6c",
+        "id": 85759,
+        "name": "Maria Canals-Barrera",
+        "order": 6,
+        "profile_path": "/bqlwEfG1oczOW0f8tsJ31lbIfPo.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 33,
+        "character": "Lana Lang (voice)",
+        "credit_id": "599c411f92514126ae00cb78",
+        "id": 15423,
+        "name": "Paget Brewster",
+        "order": 7,
+        "profile_path": "/nq9ZuGPvzyfS8dOuPWTQUw7Igxg.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 35,
+        "character": "The Mayor (voice)",
+        "credit_id": "599c4127c3a36822e601491d",
+        "id": 29443,
+        "name": "Richard Doyle",
+        "order": 8,
+        "profile_path": "/9cW5lWRqSF6kGsVj0S3PqCGaAwT.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 36,
+        "character": "Alfred Pennyworth (voice)",
+        "credit_id": "599c412a9251410e32014e0c",
+        "id": 159572,
+        "name": "Michael Jackson",
+        "order": 9,
+        "profile_path": "/zXF5obzyHZsSnpQIYFvttvs2BSI.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 37,
+        "character": "The Son of Batman / Rookie Police Officer (voice)",
+        "credit_id": "599c4143c3a36822f3014331",
+        "id": 127387,
+        "name": "Yuri Lowenthal",
+        "order": 10,
+        "profile_path": "/aLgXm0kbbIC8I5OBmnsK8TgVKwy.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 38,
+        "character": "Dr. Bartholomew Wolper (voice)",
+        "credit_id": "599c41489251410e6701569c",
+        "id": 21731,
+        "name": "Michael McKean",
+        "order": 11,
+        "profile_path": "/xuEZeuylzznJcf0nDs1RlvuzaPr.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 39,
+        "character": "Murray / Radio Voice (voice)",
+        "credit_id": "599c414cc3a368783e00a18c",
+        "id": 105641,
+        "name": "James Patrick Stuart",
+        "order": 12,
+        "profile_path": "/sFDP6Ahkr3LuMr1kTsLzwB5jV93.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 40,
+        "character": "Mr. Hudson / Spud (voice)",
+        "credit_id": "599c415d9251410e6d015a39",
+        "id": 19506,
+        "name": "James Arnold Taylor",
+        "order": 13,
+        "profile_path": "/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 41,
+        "character": "Thomas Wayne / Hydrant Fireman (voice)",
+        "credit_id": "599c416492514126ae00cc1e",
+        "id": 34934,
+        "name": "Bruce Timm",
+        "order": 14,
+        "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 42,
+        "character": "Mayor Stevenson / Weather Man (voice)",
+        "credit_id": "599c41689251410e6d015a54",
+        "id": 15831,
+        "name": "Frank Welker",
+        "order": 15,
+        "profile_path": "/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 43,
+        "character": "Mutant Leader / Anchor Bill (voice)",
+        "credit_id": "599c416bc3a368228c015284",
+        "id": 54043,
+        "name": "Gary Anthony Williams",
+        "order": 16,
+        "profile_path": "/96BbiV8rQOeGyoDxgrepRd6lUjm.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 44,
+        "character": "Jeff Adams (voice)",
+        "credit_id": "599c416e9251410e6d015a67",
+        "id": 43125,
+        "name": "Rob Paulsen",
+        "order": 17,
+        "profile_path": "/c9Gb8stOOftFgUiZXtXAWlSaq6e.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 45,
+        "character": "Clark Kent / Superman (voice)",
+        "credit_id": "599c41749251410e710164fb",
+        "id": 136530,
+        "name": "Mark Valley",
+        "order": 18,
+        "profile_path": "/ffHfLKffDbh2BzGUE0KM88TvoYF.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 46,
+        "character": "Oliver Queen (voice)",
+        "credit_id": "599c41779251410e6d015a7d",
+        "id": 130081,
+        "name": "Robin Atkin Downes",
+        "order": 19,
+        "profile_path": "/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 47,
+        "character": "Selina Kyle / Bruno / Old Woman(voice)",
+        "credit_id": "599c417a9251410e5a015d9b",
+        "id": 34983,
+        "name": "Tress MacNeille",
+        "order": 20,
+        "profile_path": "/gI2LsgByvSffQY34vabVnPmrHzw.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 48,
+        "character": "President Ronald Reagan (voice)",
+        "credit_id": "599c4180c3a3682326014cde",
+        "id": 30697,
+        "name": "Jim Meskimen",
+        "order": 21,
+        "profile_path": "/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 49,
+        "character": "David Endochrine (voice)",
+        "credit_id": "599c41839251410e6701572b",
+        "id": 81200,
+        "name": "Conan O\u0027Brien",
+        "order": 22,
+        "profile_path": "/deRbViPut0t80miscBpP2DhBJU5.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 50,
+        "character": "Frank (voice, uncredited)",
+        "credit_id": "599c418792514126ae00cc67",
+        "id": 28637,
+        "name": "Andy Richter",
+        "order": 23,
+        "profile_path": "/5Qr7N6TzC8cI0ULxDm6EC5GpZ4C.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 58,
+        "character": "Anchor Carla / Female Mutant (voice)",
+        "credit_id": "59da012ac3a368620d03710b",
+        "id": 15761,
+        "name": "Grey DeLisle",
+        "order": 24,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 59,
+        "character": "Silk / Other Spike / Young Mutant (voice)",
+        "credit_id": "65a380d9e9c0dc0126a473c8",
+        "id": 74614,
+        "name": "Gary Anthony Sturgis",
+        "order": 25,
+        "profile_path": "/tvVVSJWIOHD4FrkV71j222qMEJD.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 60,
+        "character": "Hernando / TV Host (voice)",
+        "credit_id": "65a3811f266778012264566f",
+        "id": 59784,
+        "name": "Carlos Alazraqui",
+        "order": 26,
+        "profile_path": "/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 61,
+        "character": "Joanie / Woman with Hot Dog (voice)",
+        "credit_id": "65a3815f238513012e62bbdd",
+        "id": 64948,
+        "name": "Cathy Cavadini",
+        "order": 27,
+        "profile_path": "/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 62,
+        "character": "Mackie / Ben Derrick (voice)",
+        "credit_id": "65a381795690b5012cb04aed",
+        "id": 154106,
+        "name": "Greg Eagles",
+        "order": 28,
+        "profile_path": "/gHFu8h2l0OPyfozNMjoLhanLzi1.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 63,
+        "character": "Morrie / Civilian (voice)",
+        "credit_id": "65a38195fcec2e012ad5c5c7",
+        "id": 35035,
+        "name": "Townsend Coleman",
+        "order": 29,
+        "profile_path": "/aMVAo35uihg08G8uc4Q4FiAS5ku.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 64,
+        "character": "Dr. Willing / News Anchor (voice)",
+        "credit_id": "65a381b4266778012e645365",
+        "id": 34521,
+        "name": "Maurice LaMarche",
+        "order": 30,
+        "profile_path": "/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 65,
+        "character": "Anchor Ted (voice)",
+        "credit_id": "65a381ca5690b5137fb02a4a",
+        "id": 5176,
+        "name": "Sam McMurray",
+        "order": 31,
+        "profile_path": "/pbZSG0hprUcRkUF3q4NUUzvQX3E.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 66,
+        "character": "Young Bruce Wayne / Additional Voices (voice)",
+        "credit_id": "65a381db5690b50120b04a2c",
+        "id": 15762,
+        "name": "Tara Strong",
+        "order": 32,
+        "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 67,
+        "character": "Woman / Police Dispatch / Woman #2 (voice)",
+        "credit_id": "65a381f71f0275012e089966",
+        "id": 34945,
+        "name": "Andrea Romano",
+        "order": 33,
+        "profile_path": "/6WeW7uCKJNK5pVtHmJg5odVZH4u.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 68,
+        "character": "Lola Chong (voice)",
+        "credit_id": "65a382317d5f4b00c2b7d60e",
+        "id": 46774,
+        "name": "Gwendoline Yeo",
+        "order": 34,
+        "profile_path": "/qcT51wtWxdS51q9FQcDC455HrqY.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 69,
+        "character": "Merkel (voice)",
+        "credit_id": "65a382452973380130133246",
+        "id": 131831,
+        "name": "Manny Jacobs",
+        "order": 35,
+        "profile_path": "/ePXo3vs8JzWl6ALfDRnuGy6eRiQ.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 70,
+        "character": "Femur (voice)",
+        "credit_id": "65a382527d5f4b00c8b7d514",
+        "id": 1218308,
+        "name": "Jim Wise",
+        "order": 36,
+        "profile_path": "/vtR5eybxBGMyeTB8yUWFP3um8zh.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 71,
+        "character": "Rescued Man (voice)",
+        "credit_id": "65a3826b7d5f4b00bfb7d38a",
+        "id": 571309,
+        "name": "Lex Lang",
+        "order": 37,
+        "profile_path": "/hrgjiwtrnI6meAg2Q1eTGpyTrDX.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 72,
+        "character": "Axe Fireman (voice)",
+        "credit_id": "65a38283d35dea012e42fe07",
+        "id": 1994724,
+        "name": "Jason Charles Miller",
+        "order": 38,
+        "profile_path": "/yDCZmhxd0EknStzgeOBuEroH9le.jpg",
+        "gender": 2
+      }
+    ],
+    "crew": [
+      {
+        "credit_id": "65a382a4bc2cb300bc021f72",
+        "department": "Production",
+        "id": 1116126,
+        "job": "Casting",
+        "name": "Meredith Layne",
+        "gender": 1
+      },
+      {
+        "credit_id": "65a382991f0275012e089995",
+        "department": "Editing",
+        "id": 1033619,
+        "job": "Editor",
+        "name": "Christopher D. Lozinski",
+        "gender": 0
+      },
+      {
+        "credit_id": "65a382c5bc2cb300c002233d",
+        "department": "Production",
+        "id": 141043,
+        "job": "Executive Producer",
+        "name": "Sam Register",
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "65a382af266778012b645528",
+        "department": "Production",
+        "id": 34934,
+        "job": "Executive Producer",
+        "name": "Bruce Timm",
+        "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "65a382cf26677801286459ce",
+        "department": "Production",
+        "id": 34936,
+        "job": "Producer",
+        "name": "Alan Burnett",
+        "profile_path": "/3gNmuxxdQbZ6nX2F63SMQNVbmqz.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "65a38420e9c0dc011da47679",
+        "department": "Writing",
+        "id": 212618,
+        "job": "Writer",
+        "name": "Bob Goodman",
+        "gender": 2
+      },
+      {
+        "credit_id": "65a382ba238513013162b7a2",
+        "department": "Production",
+        "id": 10949,
+        "job": "Executive Producer",
+        "name": "Michael Uslan",
+        "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "65a382da39549a012910b0dc",
+        "department": "Sound",
+        "id": 1113050,
+        "job": "Music",
+        "name": "Christopher Drake",
+        "gender": 2
+      },
+      {
+        "credit_id": "599c43ecc3a368783e00a5d9",
+        "department": "Directing",
+        "id": 105643,
+        "job": "Director",
+        "name": "Jay Oliva",
+        "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "67cf3f5d05da1a9e15e2ea74",
+        "department": "Writing",
+        "id": 3794,
+        "job": "Characters",
+        "name": "Bob Kane",
+        "profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "69afee9cf15894c23c450eb6",
+        "department": "Writing",
+        "id": 2293,
+        "job": "Graphic Novel",
+        "name": "Frank Miller",
+        "profile_path": "/2eqqLG9Sv4i1ZlM14wY2LTTEbld.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "69afeea5477ff0af5c4eba30",
+        "department": "Writing",
+        "id": 1370762,
+        "job": "Graphic Novel",
+        "name": "Klaus Janson",
+        "gender": 2
+      }
+    ],
+    "id": 0
+  },
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 472027,
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/aAp0AkCBsMUDFCuLyd3MTcJ6ZV5.jpg",
+        "height": 2061,
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 3664
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/bUQGT4xJib43OrnpmNzgrGaLWJM.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/uHpGLT0mcMZwSFPTXTCsKwtDmvs.jpg",
+        "height": 720,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/mjhariqNjG0u5b1RfxXjdjazyUW.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/3i7zxAdSlpIq6J8lj4zqhH7zgEC.jpg",
+        "height": 720,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/fvVf4ljYnsFq54clEwtyx3KS9my.jpg",
+        "height": 720,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/sgPP7rkRaEfRSFEJnshbyiN4Y4P.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/eJ3xwH5R68dfVPPEZOEyR7QQyCe.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/496DTxlfzG2t0XosGlEQOHxd6mt.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/o07IwF9s1Ch9EnyV7jqJHQ3BorU.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 8.362,
+        "vote_count": 5,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.701,
+        "file_path": "/g1CECBSnaASE2jeyQdPhcnZqiHm.jpg",
+        "height": 1426,
+        "iso_639_1": "en",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.715,
+        "file_path": "/8Ak85pUrceen4C80VXeLlYQ9gzs.jpg",
+        "height": 2196,
+        "iso_639_1": "en",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1570
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/5wtf0fmaq4eBXVlQb4FaVMqf5Yb.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/9uydeANO6PLpD6Irh7qLizaEMjk.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/uAusUK2YS94ptDyPJik2SltkCfR.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/Ri0IIVieGulcvNrNdK7ifTSNSE.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.704,
+        "file_path": "/9atLJg6vLlsVIYIGihDv8Vp9QVG.jpg",
+        "height": 2841,
+        "iso_639_1": "es",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.666,
+        "file_path": "/6bvSmO9EcBaGhTtpyljLlkL89JP.jpg",
+        "height": 1450,
+        "iso_639_1": "cs",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 965
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/mFHdO0xJ6UAg4ix9xCkRnq5LJrz.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "imdb_id": "",
+  "keywords": {
+    "id": 0,
+    "keywords": [
+      {
+        "id": 4565,
+        "name": "dystopia"
+      },
+      {
+        "id": 18712,
+        "name": "based on graphic novel"
+      },
+      {
+        "id": 33637,
+        "name": "super power"
+      }
+    ]
+  },
+  "lists": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "original_language": "en",
+  "original_title": "Batman: The Dark Knight Returns",
+  "overview": "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing fifty-five-year-old Bruce Wayne back into the cape and cowl, but does he still have what it takes to fight crime in a new era?",
+  "popularity": 2.7807,
+  "poster_path": "/o07IwF9s1Ch9EnyV7jqJHQ3BorU.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "name": "Warner Bros. Animation",
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "origin_country": "US"
+    },
+    {
+      "id": 4811,
+      "name": "Warner Premiere",
+      "logo_path": "/7xym5CnL4LcMPaWpp51cN1v73AR.png",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "name": "DC",
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {}
+  ],
+  "release_date": "2013-10-08T00:00:00-04:00",
+  "release_dates": {
+    "id": 0,
+    "results": []
+  },
+  "external_ids": {
+    "id": 0,
+    "imdb_id": ""
+  },
+  "releases": {
+    "countries": [
+      {
+        "certification": "PG-13",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2013-10-08T00:00:00"
+      }
+    ],
+    "id": 0
+  },
+  "revenue": 0,
+  "reviews": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "runtime": 148,
+  "similar": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "recommendations": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "spoken_languages": [
+    {}
+  ],
+  "status": "Released",
+  "tagline": "From the chronicles of the DC Universe comes the sweeping saga of rebirth, revenge, and redemption.",
+  "title": "Batman: The Dark Knight Returns",
+  "translations": {
+    "id": 0,
+    "translations": []
+  },
+  "video": true,
+  "videos": {
+    "id": 0,
+    "results": []
+  },
+  "vote_average": 8.119,
+  "vote_count": 164
+}
