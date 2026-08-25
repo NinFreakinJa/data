@@ -1,4 +1,146 @@
+Name: Requiem and Rebirth: Superman Lives!
+Type: Extra
+Source file name: 00015.mpls
+Duration: 0:43:15
+Chapters count: 5
+Size: 1.6 GB
+Segment count: 5
+Segment map: 8,19,20,21,23
+File Name: Requiem and Rebirth; Superman Lives! (2007) [480p].mkv
+
 Name: Superman: Doomsday
 Type: MainMovie
 Year: 2007
-File name: Superman Doomsday (2007) [1080p].mkv
+Source file name: 00003.mpls
+Duration: 1:17:41
+Chapters count: 20
+Size: 9.6 GB
+Segment count: 1
+Segment map: 0
+File Name: Superman Doomsday (2007) [1080p].mkv
+
+Name: Bruce Timm's Top Picks from Superman - The Animated Series
+Type: Extra
+Source file name: 00009.mpls
+Duration: 1:24:50
+Chapters count: 4
+Size: 3.2 GB
+Segment count: 4
+Segment map: 15,16,17,18
+File Name: Bruce Timm's Top Picks from Superman - The Animated Series-extra.mkv
+
+Name: Behind the Voice
+Type: Extra
+Source file name: 00009.m2ts
+Duration: 0:05:18
+Size: 210.2 MB
+Segment count: 1
+Segment map: 9
+File Name: Behind the Voice-featurette.mkv
+
+Name: When Heroes Die: The Making of Superman: Doomsday
+Type: Extra
+Source file name: 00010.m2ts
+Duration: 0:29:16
+Size: 1.0 GB
+Segment count: 1
+Segment map: 10
+File Name: When Heroes Die; The Making of Superman Doomsday-featurette.mkv
+
+Name: The Clash of the Juggernauts
+Type: Extra
+Source file name: 00011.m2ts
+Duration: 0:13:09
+Size: 517.5 MB
+Segment count: 1
+Segment map: 11
+File Name: The Clash of the Juggernauts-featurette.mkv
+
+Name: Superman Doomsday Menu Screen
+Type: Extra
+Source file name: 00002.m2ts
+Duration: 0:00:10
+Size: 4.5 MB
+Segment count: 1
+Segment map: 2
+File Name: Superman Doomsday Menu Screen-backdrop.mkv
+
+Name: A Sneak Peek at Wonder Woman
+Type: Extra
+Source file name: 00004.m2ts
+Duration: 0:10:29
+Size: 371.7 MB
+Segment count: 1
+Segment map: 4
+File Name: A Sneak Peek at Wonder Woman-featurette.mkv
+
+Name: A Sneak Peek at Justice League: The New Frontier
+Type: Extra
+Source file name: 00014.m2ts
+Duration: 0:10:45
+Size: 425.3 MB
+Segment count: 1
+Segment map: 14
+File Name: A Sneak Peek at Justice League The New Frontier.mkv
+
+Name: The Last Son of Krypton Part II
+Type: Episode
+Season: 2
+Episode: 4
+Source file name: 00015.m2ts
+Duration: 0:20:57
+Size: 823.7 MB
+Segment count: 1
+Segment map: 15
+File Name: Superman The Animated Series-s02e04-Mxyzpixilated [480p].mkv
+
+Name: Brave New Metropolis
+Type: Episode
+Season: 2
+Episode: 8
+Source file name: 00016.m2ts
+Duration: 0:21:15
+Size: 835.3 MB
+Segment count: 1
+Segment map: 16
+File Name: Superman The Animated Series-s02e08-Brave New Metropolis [480p].mkv
+
+Name: Apokolips...Now! Part I
+Type: Episode
+Season: 3
+Episode: 2
+Source file name: 00017.m2ts
+Duration: 0:21:16
+Size: 838.3 MB
+Segment count: 1
+Segment map: 17
+File Name: Superman The Animated Series-s03e02-Apokolips...Now! Part I [480p].mkv
+
+Name: Apokolips...Now! Part II
+Type: Episode
+Season: 3
+Episode: 3 
+Source file name: 00018.m2ts
+Duration: 0:21:20
+Size: 839.4 MB
+Segment count: 1
+Segment map: 18
+File Name: Superman The Animated Series-s03e03-Apokolips...Now! Part II [480p].mkv
+
+Name: Batman Gotham Knight Trailer
+Type: Extra
+Source file name: 00024.m2ts
+Duration: 0:01:35
+Size: 56.9 MB
+Segment count: 1
+Segment map: 24
+File Name: Batman Gotham Knight Trailer-extra.mkv
+
+Name: Appleseed Ex Machina Trailer
+Type: Extra
+Source file name: 00025.m2ts
+Duration: 0:01:55
+Size: 69.1 MB
+Segment count: 1
+Segment map: 25
+File Name: Appleseed Ex Machina Trailer-extra.mkv

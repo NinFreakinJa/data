@@ -1,13 +1,1169 @@
 {
   "Index": 1,
-  "Format": "Blu-Ray",
   "Slug": "doomsday-bluray",
   "Name": "doomsday-bluray",
-  "ContentHash": "",
-  "Episodes": [],
-  "Extras": [],
-  "DeletedScenes": [],
-  "Trailers": [],
-  "MainMovies": [],
-  "Unknown": []
+  "Format": "Blu-Ray",
+  "Titles": [
+    {
+      "Index": 0,
+      "Comment": "Superman Doomsday_t00.mkv",
+      "SourceFile": "00015.mpls",
+      "SegmentMap": "8,19,20,21,23",
+      "Duration": "0:43:15",
+      "Size": 1785956352,
+      "DisplaySize": "1.6 GB",
+      "Item": {
+        "Title": "Requiem and Rebirth: Superman Lives!",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 1,
+      "Comment": "Superman Doomsday_t01.mkv",
+      "SourceFile": "00002.mpls",
+      "SegmentMap": "1",
+      "Duration": "0:00:30",
+      "Size": 19943424,
+      "DisplaySize": "19.0 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 2,
+      "Comment": "Superman Doomsday_t02.mkv",
+      "SourceFile": "00003.mpls",
+      "SegmentMap": "0",
+      "Duration": "1:17:41",
+      "Size": 10394308608,
+      "DisplaySize": "9.6 GB",
+      "Item": {
+        "Title": "Superman: Doomsday",
+        "Type": "MainMovie",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Surround 5.1",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 3,
+      "Comment": "Superman Doomsday_t03.mkv",
+      "SourceFile": "00009.mpls",
+      "SegmentMap": "15,16,17,18",
+      "Duration": "1:24:50",
+      "Size": 3498934272,
+      "DisplaySize": "3.2 GB",
+      "Item": {
+        "Title": "Bruce Timm\u0027s Top Picks from Superman - The Animated Series",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 4,
+      "Comment": "Superman Doomsday_t04.mkv",
+      "SourceFile": "00100.m2ts",
+      "SegmentMap": "100",
+      "Duration": "0:00:11",
+      "Size": 6844416,
+      "DisplaySize": "6.5 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 5,
+      "Comment": "Superman Doomsday_t05.mkv",
+      "SourceFile": "00003.m2ts",
+      "SegmentMap": "3",
+      "Duration": "0:00:11",
+      "Size": 11544576,
+      "DisplaySize": "11.0 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Surround 5.1",
+          "LanguageCode": "eng",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Index": 6,
+      "Comment": "Superman Doomsday_t06.mkv",
+      "SourceFile": "00009.m2ts",
+      "SegmentMap": "9",
+      "Duration": "0:05:18",
+      "Size": 220434432,
+      "DisplaySize": "210.2 MB",
+      "Item": {
+        "Title": "Behind the Voice",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 7,
+      "Comment": "Superman Doomsday_t07.mkv",
+      "SourceFile": "00010.m2ts",
+      "SegmentMap": "10",
+      "Duration": "0:29:16",
+      "Size": 1085534208,
+      "DisplaySize": "1.0 GB",
+      "Item": {
+        "Title": "When Heroes Die: The Making of Superman: Doomsday",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 8,
+      "Comment": "Superman Doomsday_t08.mkv",
+      "SourceFile": "00011.m2ts",
+      "SegmentMap": "11",
+      "Duration": "0:13:09",
+      "Size": 542674944,
+      "DisplaySize": "517.5 MB",
+      "Item": {
+        "Title": "The Clash of the Juggernauts",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 9,
+      "Comment": "Superman Doomsday_t09.mkv",
+      "SourceFile": "00022.m2ts",
+      "SegmentMap": "22",
+      "Duration": "0:00:23",
+      "Size": 15347712,
+      "DisplaySize": "14.6 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 10,
+      "Comment": "Superman Doomsday_t10.mkv",
+      "SourceFile": "00002.m2ts",
+      "SegmentMap": "2",
+      "Duration": "0:00:10",
+      "Size": 4780032,
+      "DisplaySize": "4.5 MB",
+      "Item": {
+        "Title": "Superman Doomsday Menu Screen",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 11,
+      "Comment": "Superman Doomsday_t11.mkv",
+      "SourceFile": "00004.m2ts",
+      "SegmentMap": "4",
+      "Duration": "0:10:29",
+      "Size": 389818368,
+      "DisplaySize": "371.7 MB",
+      "Item": {
+        "Title": "A Sneak Peek at Wonder Woman",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 12,
+      "Comment": "Superman Doomsday_t12.mkv",
+      "SourceFile": "00014.m2ts",
+      "SegmentMap": "14",
+      "Duration": "0:10:45",
+      "Size": 446060544,
+      "DisplaySize": "425.3 MB",
+      "Item": {
+        "Title": "A Sneak Peek at Justice League: The New Frontier",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 13,
+      "Comment": "Superman Doomsday_t13.mkv",
+      "SourceFile": "00015.m2ts",
+      "SegmentMap": "15",
+      "Duration": "0:20:57",
+      "Size": 863772672,
+      "DisplaySize": "823.7 MB",
+      "Item": {
+        "Title": "The Last Son of Krypton Part II",
+        "Type": "Episode",
+        "Chapters": [],
+        "Season": "2",
+        "Episode": "4"
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 14,
+      "Comment": "Superman Doomsday_t14.mkv",
+      "SourceFile": "00016.m2ts",
+      "SegmentMap": "16",
+      "Duration": "0:21:15",
+      "Size": 875937792,
+      "DisplaySize": "835.3 MB",
+      "Item": {
+        "Title": "Brave New Metropolis",
+        "Type": "Episode",
+        "Chapters": [],
+        "Season": "2",
+        "Episode": "8"
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 15,
+      "Comment": "Superman Doomsday_t15.mkv",
+      "SourceFile": "00017.m2ts",
+      "SegmentMap": "17",
+      "Duration": "0:21:16",
+      "Size": 879034368,
+      "DisplaySize": "838.3 MB",
+      "Item": {
+        "Title": "Apokolips...Now! Part I",
+        "Type": "Episode",
+        "Chapters": [],
+        "Season": "3",
+        "Episode": "2"
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 16,
+      "Comment": "Superman Doomsday_t16.mkv",
+      "SourceFile": "00018.m2ts",
+      "SegmentMap": "18",
+      "Duration": "0:21:20",
+      "Size": 880189440,
+      "DisplaySize": "839.4 MB",
+      "Item": {
+        "Title": "Apokolips...Now! Part II",
+        "Type": "Episode",
+        "Chapters": [],
+        "Season": "3",
+        "Episode": "3 "
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 17,
+      "Comment": "Superman Doomsday_t17.mkv",
+      "SourceFile": "00024.m2ts",
+      "SegmentMap": "24",
+      "Duration": "0:01:35",
+      "Size": 59719680,
+      "DisplaySize": "56.9 MB",
+      "Item": {
+        "Title": "Batman Gotham Knight Trailer",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "Index": 18,
+      "Comment": "Superman Doomsday_t18.mkv",
+      "SourceFile": "00025.m2ts",
+      "SegmentMap": "25",
+      "Duration": "0:01:55",
+      "Size": 72505344,
+      "DisplaySize": "69.1 MB",
+      "Item": {
+        "Title": "Appleseed Ex Machina Trailer",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "por",
+          "Language": "Portuguese"
+        }
+      ]
+    }
+  ]
 }

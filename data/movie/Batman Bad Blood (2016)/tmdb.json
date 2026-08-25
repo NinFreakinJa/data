@@ -1,0 +1,1362 @@
+{
+  "account_states": {
+    "favorite": false,
+    "id": 0,
+    "watchlist": false
+  },
+  "adult": false,
+  "alternative_titles": {
+    "id": 0,
+    "titles": []
+  },
+  "backdrop_path": "/nwfpBjtMNFwrGjW2o9HBhMEYCpM.jpg",
+  "belongs_to_collection": {
+    "backdrop_path": "/sVvEkTNx6SjwOb80iyURe5KHtcD.jpg",
+    "id": 334996,
+    "name": "Son of Batman Collection",
+    "poster_path": "/ze3Wnhbom7T37orabHMIiEGtoYF.jpg"
+  },
+  "budget": 3500000,
+  "changes": {
+    "changes": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "cast_id": 1,
+        "character": "Batman / Bruce Wayne (voice)",
+        "credit_id": "563cc73bc3a3681b590268a9",
+        "id": 183812,
+        "name": "Jason O\u0027Mara",
+        "order": 0,
+        "profile_path": "/9Cs9PD5pwUkFQPLmpp5e6wkFQoY.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 9,
+        "character": "Batwoman / Kathy Kane (voice)",
+        "credit_id": "56648de4c3a3682bef00a2f3",
+        "id": 63312,
+        "name": "Yvonne Strahovski",
+        "order": 1,
+        "profile_path": "/2IQEjn5T8urx6ikXM87QGs5MrWg.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 4,
+        "character": "Robin / Damian Wayne (voice)",
+        "credit_id": "56648d8dc3a3682be90095e7",
+        "id": 1164238,
+        "name": "Stuart Allan",
+        "order": 2,
+        "profile_path": "/xCAGTIcgC7J6YCl2bviIADY8blp.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 8,
+        "character": "Nightwing / Dick Grayson (voice)",
+        "credit_id": "56648dc9c3a3682bef00a2eb",
+        "id": 55148,
+        "name": "Sean Maher",
+        "order": 3,
+        "profile_path": "/o7splcOIVAdbHnwohJOUAvXWVlk.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 5,
+        "character": "Talia al Ghul (voice)",
+        "credit_id": "56648d979251412aca00939e",
+        "id": 54882,
+        "name": "Morena Baccarin",
+        "order": 4,
+        "profile_path": "/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 21,
+        "character": "Black Mask / Firefly (voice)",
+        "credit_id": "64ba93ef11386c010c18b329",
+        "id": 571562,
+        "name": "Steve Blum",
+        "order": 5,
+        "profile_path": "/cpO0muunoigq1WHegeOEI1AIQAo.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 2,
+        "character": "Batwing / Luke Fox (voice)",
+        "credit_id": "563cc742c3a3681b4b024eb8",
+        "id": 118374,
+        "name": "Gaius Charles",
+        "order": 6,
+        "profile_path": "/jv3yclr8GMW0krvEIF9k5F298KU.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 20,
+        "character": "Tusk (voice)",
+        "credit_id": "64ba93d506f984011b0d9576",
+        "id": 31531,
+        "name": "John DiMaggio",
+        "order": 7,
+        "profile_path": "/qcbQe71nSlULDsP1OxTqltEKFbl.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 22,
+        "character": "The Mad Hatter / Jervis Tetch (voice)",
+        "credit_id": "64ba940706f9840138bcaec0",
+        "id": 130081,
+        "name": "Robin Atkin Downes",
+        "order": 8,
+        "profile_path": "/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 7,
+        "character": "Alfred (voice)",
+        "credit_id": "56648dbb9251412aca0093a5",
+        "id": 1338541,
+        "name": "James Garrett",
+        "order": 9,
+        "profile_path": "/40toPED1mRtO3EKYsXV6ssRP3Ba.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 3,
+        "character": "Lucius Fox (voice)",
+        "credit_id": "563cc74bc3a3681b610285f8",
+        "id": 8874,
+        "name": "Ernie Hudson",
+        "order": 10,
+        "profile_path": "/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 23,
+        "character": "Reporter (voice)",
+        "credit_id": "64ba94234d23dd010697017b",
+        "id": 30882,
+        "name": "Christine Lakin",
+        "order": 11,
+        "profile_path": "/oznzRFZe7bl5JjfQQviCuZGpPjU.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 15,
+        "character": "Renee (voice)",
+        "credit_id": "56a4fb65c3a368388e0074e8",
+        "id": 81663,
+        "name": "Vanessa Marshall",
+        "order": 12,
+        "profile_path": "/yZsWfaiOxaN5MZkWIKPbxz1KKS1.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 25,
+        "character": "President (voice)",
+        "credit_id": "64ba9449ab684900e2312a4c",
+        "id": 80416,
+        "name": "Richard McGonagle",
+        "order": 13,
+        "profile_path": "/eso1WgiZiqwOb1vp2sOF6uJyJn1.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 26,
+        "character": "Hellhound / Chuckie Sol (voice)",
+        "credit_id": "64ba945d3009aa00ffbfb9f4",
+        "id": 556275,
+        "name": "Matthew Mercer",
+        "order": 14,
+        "profile_path": "/fe1S317253vfMuNuIDjhp9vtNSs.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 27,
+        "character": "Colonel Jacob Kane (voice)",
+        "credit_id": "64ba946c4d23dd01448d3688",
+        "id": 25879,
+        "name": "Geoff Pierson",
+        "order": 15,
+        "profile_path": "/vIhxKBwqV19CwHdPuycmkchYOba.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 28,
+        "character": "The Calculator / Kuttler / Killer Moth (voice)",
+        "credit_id": "64ba948aab684900c5dcf52c",
+        "id": 216973,
+        "name": "Jason Spisak",
+        "order": 16,
+        "profile_path": "/yWxJDXNcocccr1LkEuVXapVdcXS.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 16,
+        "character": "Commissioner Gordon (voice)",
+        "credit_id": "56a4fb7c925141419f002aac",
+        "id": 79497,
+        "name": "Bruce Thomas",
+        "order": 17,
+        "profile_path": "/y0ZGMc0KtUORON59SRXOtABub9S.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 29,
+        "character": "Ms. Bannister / Kori (voice)",
+        "credit_id": "64ba94ca6aa8e001504ca50d",
+        "id": 116315,
+        "name": "Kari Wahlgren",
+        "order": 18,
+        "profile_path": "/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 10,
+        "character": "The Heretic (voice)",
+        "credit_id": "56648df09251412ad3008f15",
+        "id": 1221888,
+        "name": "Travis Willingham",
+        "order": 19,
+        "profile_path": "/clvP30k6cUMf4hukRQqZD3k9z4S.jpg",
+        "gender": 2
+      }
+    ],
+    "crew": [
+      {
+        "credit_id": "563cc7319251413b130090ff",
+        "department": "Directing",
+        "id": 105643,
+        "job": "Director",
+        "name": "Jay Oliva",
+        "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "56648e1ec3a3682bef00a30d",
+        "department": "Editing",
+        "id": 1033619,
+        "job": "Editor",
+        "name": "Christopher D. Lozinski",
+        "gender": 0
+      },
+      {
+        "credit_id": "56648e2d9251412d7b008ee8",
+        "department": "Sound",
+        "id": 544355,
+        "job": "Original Music Composer",
+        "name": "Frederik Wiedmann",
+        "profile_path": "/CNkfFuNkHia02qUikqnDi4IBCM.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "570ed59bc3a368537d000c4f",
+        "department": "Production",
+        "id": 10949,
+        "job": "Executive Producer",
+        "name": "Michael Uslan",
+        "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "5ab6ae51c3a3680a240110d3",
+        "department": "Writing",
+        "id": 1220917,
+        "job": "Writer",
+        "name": "J. M. DeMatteis",
+        "profile_path": "/cYtMwZr5TXF1FCTtLM8IK4EPKQf.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb11dad50f000e4c77e8c",
+        "department": "Production",
+        "id": 10951,
+        "job": "Executive Producer",
+        "name": "Benjamin Melniker",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb165c390c501029d673e",
+        "department": "Production",
+        "id": 1641642,
+        "job": "Casting",
+        "name": "Wes Gleason",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb17ead50f000e4c77ea6",
+        "department": "Sound",
+        "id": 1641642,
+        "job": "Other",
+        "name": "Wes Gleason",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb3c7b865eb01399ccf8a",
+        "department": "Art",
+        "id": 3208995,
+        "job": "Painter",
+        "name": "Kim Bowen",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb42ec390c500c80a93e1",
+        "department": "Art",
+        "id": 90367,
+        "job": "Storyboard Artist",
+        "name": "Sam Liu",
+        "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb448e9da69010d410e4b",
+        "department": "Art",
+        "id": 3371197,
+        "job": "Storyboard Artist",
+        "name": "Shaun O\u0027Neil",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb46258efd300ace23788",
+        "department": "Art",
+        "id": 2579481,
+        "job": "Storyboard Artist",
+        "name": "Christina Sotta",
+        "gender": 1
+      },
+      {
+        "credit_id": "64bdb5d1e9da6900cb7c5562",
+        "department": "Production",
+        "id": 3371017,
+        "job": "Production Accountant",
+        "name": "Debbie Lindquist",
+        "gender": 1
+      },
+      {
+        "credit_id": "64bdb384ad50f0011e5bbb1d",
+        "department": "Visual Effects",
+        "id": 3423677,
+        "job": "Matte Painter",
+        "name": "Chun Liu",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb3f2ac6c7908db5bf4d0",
+        "department": "Art",
+        "id": 1447473,
+        "job": "Storyboard Artist",
+        "name": "Jeff Johnson",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb46aac6c7908e086a707",
+        "department": "Art",
+        "id": 3209095,
+        "job": "Storyboard Artist",
+        "name": "Carli Squitieri",
+        "gender": 1
+      },
+      {
+        "credit_id": "64bdb3df85c0a200ad60a649",
+        "department": "Art",
+        "id": 2878689,
+        "job": "Storyboard Artist",
+        "name": "Chris Copeland",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb3ea85c0a200ad60a64d",
+        "department": "Art",
+        "id": 1923007,
+        "job": "Storyboard Artist",
+        "name": "Chuck Drost",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb2e6b865eb00c5883b5a",
+        "department": "Production",
+        "id": 2169044,
+        "job": "Production Manager",
+        "name": "Matthew Mahoney",
+        "profile_path": "/zrIJDfMD755hZq6qC9yHoVy7j45.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb441e9da6900ecea967f",
+        "department": "Art",
+        "id": 4176881,
+        "job": "Storyboard Artist",
+        "name": "Justin Montgomery",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb45258efd300ff1bcc04",
+        "department": "Art",
+        "id": 1466218,
+        "job": "Storyboard Artist",
+        "name": "Chris Rutkowski",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb4b758efd300c5feef8a",
+        "department": "Production",
+        "id": 4176883,
+        "job": "Line Producer",
+        "name": "Kohei Kenmotsu",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb29f85c0a201061055cb",
+        "department": "Writing",
+        "id": 3451809,
+        "job": "Characters",
+        "name": "Tom Mandrake",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb329c390c5013c533edd",
+        "department": "Production",
+        "id": 4176874,
+        "job": "Assistant Production Manager",
+        "name": "Nathan Johnson",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb3400ed2ab011ca84a48",
+        "department": "Art",
+        "id": 3369817,
+        "job": "Prop Designer",
+        "name": "Andy Chiang",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb392ac6c7908dcbfc605",
+        "department": "Visual Effects",
+        "id": 1615582,
+        "job": "Matte Painter",
+        "name": "Wei M. Zhao",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb54feb79c200ff9d7177",
+        "department": "Sound",
+        "id": 3296705,
+        "job": "Sound Re-Recording Mixer",
+        "name": "Jeff O. Collins",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb55eac6c7908df4ce842",
+        "department": "Sound",
+        "id": 2933621,
+        "job": "Supervising Dialogue Editor",
+        "name": "Mark A. Keatts",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb5a058efd300c5feefb8",
+        "department": "Crew",
+        "id": 3369856,
+        "job": "Other",
+        "name": "Niki Sherrod",
+        "profile_path": "/bueuynve5VZoiSEqcBlZU9NIsFk.jpg",
+        "gender": 1
+      },
+      {
+        "credit_id": "64bdb2acc390c5011f712991",
+        "department": "Writing",
+        "id": 3051823,
+        "job": "Characters",
+        "name": "John Calnan",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb2cf58efd3011c3ffdd5",
+        "department": "Writing",
+        "id": 938689,
+        "job": "Characters",
+        "name": "Dennis O\u0027Neil",
+        "profile_path": "/ymnqFKFblIKkbFrjgIhaX3LQwBM.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb3abc390c500e59c3e60",
+        "department": "Art",
+        "id": 3210433,
+        "job": "Other",
+        "name": "Craig Cuqro",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb4c085c0a200ad60a687",
+        "department": "Visual Effects",
+        "id": 3409459,
+        "job": "Animation Director",
+        "name": "Seigo Kitazawa",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb5c0b865eb011ca04332",
+        "department": "Production",
+        "id": 3542373,
+        "job": "Production Accountant",
+        "name": "Yadira Davis",
+        "gender": 1
+      },
+      {
+        "credit_id": "64bdb296c390c500c80a9366",
+        "department": "Writing",
+        "id": 1715753,
+        "job": "Characters",
+        "name": "Doug Moench",
+        "profile_path": "/t3wYsCIT8H8kB4xesQZDLtIxrJZ.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb353ad50f00101a12a42",
+        "department": "Art",
+        "id": 3369818,
+        "job": "Background Designer",
+        "name": "Jay Hong",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb2a585c0a20144079355",
+        "department": "Writing",
+        "id": 173658,
+        "job": "Characters",
+        "name": "Len Wein",
+        "profile_path": "/jA38DskVXNIryKgPgc9Tc3GyaGH.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb4a6c390c5011f7129ed",
+        "department": "Visual Effects",
+        "id": 1726802,
+        "job": "Supervising Animation Director",
+        "name": "Kazuyoshi Takeuchi",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb56985c0a2010610566e",
+        "department": "Sound",
+        "id": 2933621,
+        "job": "Supervising ADR Editor",
+        "name": "Mark A. Keatts",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb57db865eb00ff4d3e3f",
+        "department": "Editing",
+        "id": 2469360,
+        "job": "Assistant Editor",
+        "name": "Gabriel Thorburn",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb5af58efd3011c3ffe79",
+        "department": "Production",
+        "id": 2862818,
+        "job": "Administration",
+        "name": "Candi Purugganan",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb105ad50f0011e5bba67",
+        "department": "Production",
+        "id": 141043,
+        "job": "Executive Producer",
+        "name": "Sam Register",
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb130ac6c7908dcbfc570",
+        "department": "Production",
+        "id": 1225820,
+        "job": "Supervising Producer",
+        "name": "James Tucker",
+        "profile_path": "/3Z3VmdGbGk9qkM32m1e3khIwwDE.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb3390ed2ab00c5e3b628",
+        "department": "Visual Effects",
+        "id": 3210423,
+        "job": "Character Designer",
+        "name": "Dusty Abell",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb45be9da6900ecea9684",
+        "department": "Art",
+        "id": 3073619,
+        "job": "Storyboard Artist",
+        "name": "William Ruzicka",
+        "profile_path": "/8Hqz7QsanC0M2oAdwPidnmZgXWQ.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb59385c0a200ad60a6ab",
+        "department": "Production",
+        "id": 3371025,
+        "job": "Administration",
+        "name": "Liz Carroll",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb371e9da69012e0e78e2",
+        "department": "Visual Effects",
+        "id": 4176875,
+        "job": "Matte Painter",
+        "name": "Bill Dunn",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb3b6c390c500e59c3e65",
+        "department": "Art",
+        "id": 3654638,
+        "job": "Other",
+        "name": "Christina Long",
+        "gender": 1
+      },
+      {
+        "credit_id": "64bdb3e458efd3011c3ffe13",
+        "department": "Art",
+        "id": 1659481,
+        "job": "Storyboard Artist",
+        "name": "Tim Divar",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb3feeb79c200e28dc411",
+        "department": "Art",
+        "id": 4176877,
+        "job": "Storyboard Artist",
+        "name": "Tanner Johnson",
+        "profile_path": "/8QgLnAjGTEfmVvnEAPIgW40loly.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb42658efd300ace2377b",
+        "department": "Art",
+        "id": 4176880,
+        "job": "Storyboard Artist",
+        "name": "Stephen Jones",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb5c8e9da6900ecea96b9",
+        "department": "Production",
+        "id": 3369853,
+        "job": "Production Accountant",
+        "name": "Luisa Guzman",
+        "gender": 1
+      },
+      {
+        "credit_id": "64bdb28fe9da6900af71433b",
+        "department": "Writing",
+        "id": 3794,
+        "job": "Characters",
+        "name": "Bob Kane",
+        "profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb35c0ed2ab00e2dae217",
+        "department": "Art",
+        "id": 3327829,
+        "job": "Background Designer",
+        "name": "Fedja Jovanovic",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb4d9eb79c201396afc46",
+        "department": "Visual Effects",
+        "id": 2160634,
+        "job": "Animation Director",
+        "name": "Yuji Watanabe",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb13bac6c7908de5fb165",
+        "department": "Production",
+        "id": 34936,
+        "job": "Co-Producer",
+        "name": "Alan Burnett",
+        "profile_path": "/3gNmuxxdQbZ6nX2F63SMQNVbmqz.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb2bb85c0a200c8986851",
+        "department": "Writing",
+        "id": 135520,
+        "job": "Characters",
+        "name": "Marv Wolfman",
+        "profile_path": "/rf9tFlKXpqsm7uHILuFgRzoBNs6.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb2c685c0a20144079369",
+        "department": "Writing",
+        "id": 1726488,
+        "job": "Characters",
+        "name": "George P\u00E9rez",
+        "profile_path": "/9FBgan1WokYEBYglMnY7bMy8q1H.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb2dcad50f00101a12a1e",
+        "department": "Production",
+        "id": 1964180,
+        "job": "Line Producer",
+        "name": "Amy McKenna",
+        "gender": 1
+      },
+      {
+        "credit_id": "64bdb535e9da69012e0e794e",
+        "department": "Crew",
+        "id": 4176886,
+        "job": "Post-Production Manager",
+        "name": "Matt Singer",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb2eee9da6900ecea9633",
+        "department": "Production",
+        "id": 3826870,
+        "job": "Production Manager",
+        "name": "Sunisa Petchpoo",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb332ac6c7908db5bf4a3",
+        "department": "Visual Effects",
+        "id": 2104085,
+        "job": "Lead Character Designer",
+        "name": "Phil Bourassa",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb4d1eb79c200e28dc43c",
+        "department": "Visual Effects",
+        "id": 3750208,
+        "job": "Animation Director",
+        "name": "Isamitsu Kashima",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb520c390c500e59c3eb2",
+        "department": "Crew",
+        "id": 1374895,
+        "job": "Other",
+        "name": "Greg Emerson",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb544e9da6900af7143ab",
+        "department": "Sound",
+        "id": 3371009,
+        "job": "Sound Re-Recording Mixer",
+        "name": "Sarah Baluch",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb5e058efd300c5feefc2",
+        "department": "Production",
+        "id": 3369852,
+        "job": "Production Accountant",
+        "name": "Athena Wingate",
+        "gender": 1
+      },
+      {
+        "credit_id": "64bdb5ebeb79c200c5da4f98",
+        "department": "Production",
+        "id": 2960337,
+        "job": "Production Manager",
+        "name": "Ed Adams",
+        "gender": 2
+      },
+      {
+        "credit_id": "64bdb5d858efd300e2f224b2",
+        "department": "Production",
+        "id": 3371021,
+        "job": "Production Accountant",
+        "name": "Maral Simonian",
+        "gender": 0
+      },
+      {
+        "credit_id": "64bdb5f4c390c5011f712a2e",
+        "department": "Production",
+        "id": 129722,
+        "job": "Production Supervisor",
+        "name": "Bobbie Page",
+        "gender": 1
+      }
+    ],
+    "id": 0
+  },
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 366924,
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/nwfpBjtMNFwrGjW2o9HBhMEYCpM.jpg",
+        "height": 1152,
+        "vote_average": 2.542,
+        "vote_count": 4,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/jLslJietfQJEgOvQHk4fRYFCnTS.jpg",
+        "height": 1080,
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/469LGh2hoOtdOg7ijON4tXaU4pa.jpg",
+        "height": 1080,
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/cjgQ0RUdAhzykPZycigoQlmaKlx.jpg",
+        "height": 1080,
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/sMoeLJcvhmdW52EJ9cqtkRGAzCX.jpg",
+        "height": 1080,
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/jmKke3cpMFPLjwJLjENO6ZViIlS.jpg",
+        "height": 1152,
+        "iso_639_1": "pt",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/tQKfmSzS6tKRwxZBYtz1nKykGuX.jpg",
+        "height": 2160,
+        "iso_639_1": "es",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/keQqgSkk6A89HfMXCSQd0kDVbjA.jpg",
+        "height": 1080,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/oJiTfq5VQnAACumn4ptoVT21QV5.jpg",
+        "height": 1080,
+        "iso_639_1": "pt",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/uJ59Jav6ii9AtwRWTuEPlFHidkc.jpg",
+        "height": 2160,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/xMDoFicHakKLNsf7v90QDWptZ8O.jpg",
+        "height": 3000,
+        "iso_639_1": "es",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/nehC7zJQsK2SKWWHgYRR851UkNi.jpg",
+        "height": 3000,
+        "iso_639_1": "fr",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/ngM7Ht2Tt5sEr8CgEPAbrk4vxSp.jpg",
+        "height": 2100,
+        "iso_639_1": "pt",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1400
+      },
+      {
+        "aspect_ratio": 0.701,
+        "file_path": "/skv1VJsFOVPclvPyVpzzzXclPxY.jpg",
+        "height": 1426,
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/dZhjiCWz6sOxze1E3Kyd9QkElxj.jpg",
+        "height": 825,
+        "iso_639_1": "zh",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 550
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/ktjbGsGm5GKlHDvvwQajXvDW2BN.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/1UmPJWfaivtNjsScJqcsbsQRGNY.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 2.542,
+        "vote_count": 4,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/r4lVThUiXLRiVrROt6RZT49BdjN.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/gZ9mjy2xwyNN9Dtm63sAZIdW78V.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/ttclXMTm78kFStuYwjQh7h3Pa3p.jpg",
+        "height": 3000,
+        "iso_639_1": "uk",
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/ktKQYWbCUCGSoY0VSd0x9OANBLf.jpg",
+        "height": 3000,
+        "iso_639_1": "pt",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/ePtDRf8X7HC8V1WOhNh6WAXj3uT.jpg",
+        "height": 2460,
+        "iso_639_1": "en",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1640
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/gdPZC7rUAk7KtYGboJoC6AGNFcE.jpg",
+        "height": 1500,
+        "iso_639_1": "uk",
+        "vote_average": 1.222,
+        "vote_count": 3,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.669,
+        "file_path": "/tGtniPVG2lMPGqpS5wi4GKUIWOv.jpg",
+        "height": 1270,
+        "iso_639_1": "en",
+        "vote_average": 1.222,
+        "vote_count": 3,
+        "width": 850
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/lBvZFi0ak6N1eaQ1VL5yO8scBWU.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/7HrmpzKMEyzBW9wBbtu6DXOfSZp.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/7RBFbakfMAFKWoO5tCWO2UPRCDl.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.651,
+        "file_path": "/uJb246149nxIEE61tqFj07onJVc.jpg",
+        "height": 771,
+        "iso_639_1": "ru",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 502
+      },
+      {
+        "aspect_ratio": 0.702,
+        "file_path": "/mX0fEJUaRWDM10uLZ6s5JDYXOqI.jpg",
+        "height": 2174,
+        "iso_639_1": "hu",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1527
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/wPc6JiLDFvkLfzRlFm4lk28o8kj.jpg",
+        "height": 3000,
+        "iso_639_1": "tr",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/6MoUCrgycIrG6AuL59YQ7IKwAt3.jpg",
+        "height": 3000,
+        "iso_639_1": "es",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/wR3zcQhI6r6M6ndH8XzTGtW7Pbq.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/hh2LtQbFkgkSypUSVw8VXqBoYwP.jpg",
+        "height": 750,
+        "iso_639_1": "pl",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/lap1BJFviBiqSp435fkaf89P8Ql.jpg",
+        "height": 816,
+        "iso_639_1": "zh",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 544
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/gCzniSYdXQQtNSeM7eUzci087Ct.jpg",
+        "height": 1500,
+        "iso_639_1": "bg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/3YBd3YphASwI5qkGIJjIcsfEZW.jpg",
+        "height": 3000,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/2T378pJW8TAw7fVXr3C8cBYRvDs.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "imdb_id": "tt4870838",
+  "keywords": {
+    "id": 0,
+    "keywords": [
+      {
+        "id": 9715,
+        "name": "superhero"
+      },
+      {
+        "id": 6513,
+        "name": "cartoon"
+      },
+      {
+        "id": 9717,
+        "name": "based on comic"
+      },
+      {
+        "id": 33637,
+        "name": "super power"
+      },
+      {
+        "id": 161919,
+        "name": "adult animation"
+      }
+    ]
+  },
+  "lists": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "original_language": "en",
+  "original_title": "Batman: Bad Blood",
+  "overview": "When Batman goes missing, it takes the entire Bat \u0022family\u0022 - including Batwoman and Batwing - to keep the peace in Gotham and unravel the mystery behind the Dark Knight\u0027s disappearance.",
+  "popularity": 3.5425,
+  "poster_path": "/ktjbGsGm5GKlHDvvwQajXvDW2BN.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "name": "Warner Bros. Animation",
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "name": "DC",
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {}
+  ],
+  "release_date": "2016-01-19T00:00:00-05:00",
+  "release_dates": {
+    "id": 0,
+    "results": []
+  },
+  "external_ids": {
+    "id": 0,
+    "imdb_id": "tt4870838"
+  },
+  "releases": {
+    "countries": [
+      {
+        "certification": "PG-13",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2016-01-19T00:00:00"
+      },
+      {
+        "certification": "PG-13",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2016-02-02T00:00:00"
+      },
+      {
+        "certification": "16",
+        "iso_3166_1": "DE",
+        "primary": false,
+        "release_date": "2016-08-04T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "GB",
+        "primary": false,
+        "release_date": "2016-03-22T00:00:00"
+      },
+      {
+        "certification": "15",
+        "iso_3166_1": "DK",
+        "primary": false,
+        "release_date": "2016-08-04T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "BR",
+        "primary": false,
+        "release_date": "2016-06-29T00:00:00"
+      },
+      {
+        "certification": "6",
+        "iso_3166_1": "NL",
+        "primary": false,
+        "release_date": "2016-03-14T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "NL",
+        "primary": false,
+        "release_date": "2016-03-21T00:00:00"
+      },
+      {
+        "certification": "U",
+        "iso_3166_1": "FR",
+        "primary": false,
+        "release_date": "2016-02-24T00:00:00"
+      },
+      {
+        "certification": "M",
+        "iso_3166_1": "AU",
+        "primary": false,
+        "release_date": "2016-02-02T00:00:00"
+      },
+      {
+        "certification": "B",
+        "iso_3166_1": "MX",
+        "primary": false,
+        "release_date": "2016-02-24T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "ES",
+        "primary": false,
+        "release_date": "2016-02-26T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "IE",
+        "primary": false,
+        "release_date": "2016-02-02T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "FR",
+        "primary": false,
+        "release_date": "2023-03-16T00:00:00"
+      },
+      {
+        "certification": "PG12",
+        "iso_3166_1": "JP",
+        "primary": false,
+        "release_date": "2016-02-24T00:00:00"
+      },
+      {
+        "certification": "",
+        "iso_3166_1": "FR",
+        "primary": false,
+        "release_date": "2018-04-21T00:00:00"
+      },
+      {
+        "certification": "PG-13",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2019-09-03T00:00:00"
+      }
+    ],
+    "id": 0
+  },
+  "revenue": 0,
+  "reviews": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "runtime": 74,
+  "similar": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "recommendations": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "spoken_languages": [
+    {}
+  ],
+  "status": "Released",
+  "tagline": "Justice runs in the family.",
+  "title": "Batman: Bad Blood",
+  "translations": {
+    "id": 0,
+    "translations": []
+  },
+  "video": false,
+  "videos": {
+    "id": 0,
+    "results": []
+  },
+  "vote_average": 7.035,
+  "vote_count": 1006
+}
