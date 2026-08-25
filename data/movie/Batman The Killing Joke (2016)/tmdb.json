@@ -1,0 +1,1625 @@
+{
+  "account_states": {
+    "favorite": false,
+    "id": 0,
+    "watchlist": false
+  },
+  "adult": false,
+  "alternative_titles": {
+    "id": 0,
+    "titles": []
+  },
+  "backdrop_path": "/2jApwp78umL4dK9uSBJAngNDiG9.jpg",
+  "budget": 3500000,
+  "changes": {
+    "changes": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "cast_id": 1,
+        "character": "Batman (voice)",
+        "credit_id": "56bde13b925141734d003689",
+        "id": 34947,
+        "name": "Kevin Conroy",
+        "order": 0,
+        "profile_path": "/zvWhAwO2l8Kb5IJTwTbKzURypg7.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "The Joker (voice)",
+        "credit_id": "56bde12c925141734d003684",
+        "id": 2,
+        "name": "Mark Hamill",
+        "order": 1,
+        "profile_path": "/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 2,
+        "character": "Barbara Gordon / Batgirl (voice)",
+        "credit_id": "57033eb6c3a36822b800028c",
+        "id": 15762,
+        "name": "Tara Strong",
+        "order": 2,
+        "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 3,
+        "character": "Commissioner Gordon (voice)",
+        "credit_id": "57033ec1c3a36822b200022f",
+        "id": 6719,
+        "name": "Ray Wise",
+        "order": 3,
+        "profile_path": "/60313U01R1j9eueDBXiIh9o55RQ.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 20,
+        "character": "Francesco (voice)",
+        "credit_id": "5793e814c3a36862cd00b962",
+        "id": 31531,
+        "name": "John DiMaggio",
+        "order": 4,
+        "profile_path": "/qcbQe71nSlULDsP1OxTqltEKFbl.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 16,
+        "character": "Detective Bullock (voice)",
+        "credit_id": "5793e78e92514156e600269f",
+        "id": 130081,
+        "name": "Robin Atkin Downes",
+        "order": 5,
+        "profile_path": "/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 17,
+        "character": "Alfred (voice)",
+        "credit_id": "5793e7adc3a36828a600dad8",
+        "id": 58511,
+        "name": "Brian George",
+        "order": 6,
+        "profile_path": "/mHjc58pfKkxtghhliPOnNz0SlcT.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 26,
+        "character": "Reese (voice)",
+        "credit_id": "5cc562d2c3a368467780e251",
+        "id": 1541380,
+        "name": "JP Karliak",
+        "order": 7,
+        "profile_path": "/7Rc3n8KmKUaztqfsIpddO1a2ggn.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 29,
+        "character": "Murray (voice)",
+        "credit_id": "64f50d1fe0ca7f010de58589",
+        "id": 1373048,
+        "name": "Andrew Kishino",
+        "order": 8,
+        "profile_path": "/f0qUMbSqsdANjSfsxOFeRyO22OB.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 30,
+        "character": "Mitch (voice)",
+        "credit_id": "64f50d495f2b8d00c43384cd",
+        "id": 19508,
+        "name": "Nolan North",
+        "order": 9,
+        "profile_path": "/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 18,
+        "character": "Paris (voice)",
+        "credit_id": "5793e7c39251410d1200ef60",
+        "id": 65726,
+        "name": "Maury Sterling",
+        "order": 10,
+        "profile_path": "/dO9rd0F67Jt9hkcLw4CXERE9q1z.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 21,
+        "character": "Carny Owner (voice)",
+        "credit_id": "5793e85ac3a36828a600db4e",
+        "id": 60279,
+        "name": "Fred Tatasciore",
+        "order": 11,
+        "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 31,
+        "character": "Patrolman (voice)",
+        "credit_id": "64f50d8697a4e6259dc488d1",
+        "id": 34934,
+        "name": "Bruce Timm",
+        "order": 12,
+        "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 32,
+        "character": "Jeannie (voice)",
+        "credit_id": "64f50daa97a4e6259a94a5b7",
+        "id": 216965,
+        "name": "Anna Vocino",
+        "order": 13,
+        "profile_path": "/bRzRpuzBUI8C4JKSTeF7edCcCl8.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 33,
+        "character": "Call Girl (voice)",
+        "credit_id": "64f50dcc5f2b8d00fef4545c",
+        "id": 116315,
+        "name": "Kari Wahlgren",
+        "order": 14,
+        "profile_path": "/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg",
+        "gender": 1
+      },
+      {
+        "cast_id": 19,
+        "character": "Maroni (voice)",
+        "credit_id": "5793e7e3c3a368631c00cbe2",
+        "id": 106774,
+        "name": "Rick D. Wasserman",
+        "order": 15,
+        "profile_path": "/gjjsSK4WMvDQhComOC02ht1Yo26.jpg",
+        "gender": 2
+      }
+    ],
+    "crew": [
+      {
+        "credit_id": "64f50e6f5f2b8d00abcae681",
+        "department": "Visual Effects",
+        "id": 2104087,
+        "job": "Character Designer",
+        "name": "Jon Suzuki",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f50ee39e458600ad7f473a",
+        "department": "Visual Effects",
+        "id": 3750208,
+        "job": "Animation Director",
+        "name": "Isamitsu Kashima",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f5102677d23b010d6d8037",
+        "department": "Editing",
+        "id": 1753452,
+        "job": "Online Editor",
+        "name": "Brian Master",
+        "gender": 0
+      },
+      {
+        "credit_id": "64f511a37d41aa00e18a6f19",
+        "department": "Production",
+        "id": 34936,
+        "job": "Co-Producer",
+        "name": "Alan Burnett",
+        "profile_path": "/3gNmuxxdQbZ6nX2F63SMQNVbmqz.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f50fcb3d43e000acfdf4fe",
+        "department": "Sound",
+        "id": 90881,
+        "job": "ADR Editor",
+        "name": "Kelly Ann Foley",
+        "gender": 1
+      },
+      {
+        "credit_id": "64f50ed38c22c0013c04311e",
+        "department": "Visual Effects",
+        "id": 1726802,
+        "job": "Animation Director",
+        "name": "Kazuyoshi Takeuchi",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f50f7d5f2b8d011b4e9414",
+        "department": "Crew",
+        "id": 4176886,
+        "job": "Post-Production Manager",
+        "name": "Matt Singer",
+        "gender": 0
+      },
+      {
+        "credit_id": "64f50fc55f2b8d00e12c3a11",
+        "department": "Sound",
+        "id": 90881,
+        "job": "Dialogue Editor",
+        "name": "Kelly Ann Foley",
+        "gender": 1
+      },
+      {
+        "credit_id": "64f50e4497a4e6259dc488f5",
+        "department": "Production",
+        "id": 2169044,
+        "job": "Production Manager",
+        "name": "Matthew Mahoney",
+        "profile_path": "/zrIJDfMD755hZq6qC9yHoVy7j45.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f510177d41aa011b892dea",
+        "department": "Editing",
+        "id": 1460644,
+        "job": "Online Editor",
+        "name": "Darren Griffiths",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f511b77d41aa00c489fb95",
+        "department": "Production",
+        "id": 1964180,
+        "job": "Line Producer",
+        "name": "Amy McKenna",
+        "gender": 1
+      },
+      {
+        "credit_id": "64f50fad5f2b8d00c4338544",
+        "department": "Sound",
+        "id": 2933621,
+        "job": "Supervising Dialogue Editor",
+        "name": "Mark A. Keatts",
+        "gender": 0
+      },
+      {
+        "credit_id": "64f50ea89e458600e38ba468",
+        "department": "Production",
+        "id": 4176883,
+        "job": "Line Producer",
+        "name": "Kohei Kenmotsu",
+        "gender": 0
+      },
+      {
+        "credit_id": "64f50ff397a4e625996cbeed",
+        "department": "Sound",
+        "id": 3209152,
+        "job": "Dialogue Editor",
+        "name": "Michael Garcia",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f5108af29d6600c66a3735",
+        "department": "Production",
+        "id": 2960337,
+        "job": "Production Manager",
+        "name": "Ed Adams",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f50f6877d23b00aec09e45",
+        "department": "Production",
+        "id": 1374895,
+        "job": "Other",
+        "name": "Greg Emerson",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f510493d43e000fe27eea2",
+        "department": "Production",
+        "id": 3371025,
+        "job": "Administration",
+        "name": "Liz Carroll",
+        "gender": 0
+      },
+      {
+        "credit_id": "64f5100497a4e6259bd4558c",
+        "department": "Sound",
+        "id": 3209152,
+        "job": "ADR Editor",
+        "name": "Michael Garcia",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f5118777d23b00aec09e92",
+        "department": "Production",
+        "id": 10949,
+        "job": "Executive Producer",
+        "name": "Michael Uslan",
+        "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f511d397a4e6259bd455da",
+        "department": "Sound",
+        "id": 1521139,
+        "job": "Original Music Composer",
+        "name": "Michael McCuistion",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f50ebd8c22c0011d42d2e0",
+        "department": "Visual Effects",
+        "id": 3409459,
+        "job": "Animation Director",
+        "name": "Seigo Kitazawa",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f50fdc7d41aa00c489fb39",
+        "department": "Sound",
+        "id": 1392127,
+        "job": "Dialogue Editor",
+        "name": "Patrick J. Foley",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f50fe38c22c000c6482ba4",
+        "department": "Sound",
+        "id": 1392127,
+        "job": "Foley Editor",
+        "name": "Patrick J. Foley",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f5106077d23b00ec05f4a1",
+        "department": "Production",
+        "id": 3690094,
+        "job": "Administration",
+        "name": "Daphne Fei",
+        "gender": 0
+      },
+      {
+        "credit_id": "64f5107b5f2b8d00c433858b",
+        "department": "Production",
+        "id": 129722,
+        "job": "Production Supervisor",
+        "name": "Bobbie Page",
+        "gender": 1
+      },
+      {
+        "credit_id": "64f511543d43e000e1dd610b",
+        "department": "Production",
+        "id": 34934,
+        "job": "Executive Producer",
+        "name": "Bruce Timm",
+        "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f5110c77d23b010d6d8061",
+        "department": "Writing",
+        "id": 113915,
+        "job": "Writer",
+        "name": "Brian Azzarello",
+        "profile_path": "/cc0IKTeY87VrICf1MaIOzpEXQF6.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f511748c22c000e3ee808f",
+        "department": "Production",
+        "id": 10951,
+        "job": "Executive Producer",
+        "name": "Benjamin Melniker",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f5113f7d41aa00c489fb7b",
+        "department": "Production",
+        "id": 141043,
+        "job": "Executive Producer",
+        "name": "Sam Register",
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f511e7f29d66010008a952",
+        "department": "Sound",
+        "id": 497701,
+        "job": "Original Music Composer",
+        "name": "Kristopher Carter",
+        "gender": 2
+      },
+      {
+        "credit_id": "64f511fc9e4586011de6c0de",
+        "department": "Sound",
+        "id": 1376311,
+        "job": "Original Music Composer",
+        "name": "Lolita Ritmanis",
+        "gender": 1
+      },
+      {
+        "credit_id": "653cec225907de011bc492b1",
+        "department": "Visual Effects",
+        "id": 4158736,
+        "job": "Compositing Lead",
+        "name": "Shinji Saito",
+        "gender": 2
+      },
+      {
+        "credit_id": "636526fe90201200811de0b6",
+        "department": "Visual Effects",
+        "id": 3277426,
+        "job": "Key Animation",
+        "name": "Yuji Nakao",
+        "gender": 2
+      },
+      {
+        "credit_id": "5704429d9251415bb9000d94",
+        "department": "Directing",
+        "id": 90367,
+        "job": "Director",
+        "name": "Sam Liu",
+        "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "576fca67925141767b000fe9",
+        "department": "Writing",
+        "id": 198034,
+        "job": "Characters",
+        "name": "Bill Finger",
+        "profile_path": "/aU2Wv9QL9qNG0UQosl1MKpp1icV.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "576fcb2c92514179360063da",
+        "department": "Sound",
+        "id": 1172888,
+        "job": "Sound Designer",
+        "name": "Robert Hargreaves",
+        "gender": 0
+      },
+      {
+        "credit_id": "576fca47c3a36809d6005be7",
+        "department": "Writing",
+        "id": 3794,
+        "job": "Characters",
+        "name": "Bob Kane",
+        "profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "576fcaf3925141765700100f",
+        "department": "Editing",
+        "id": 1033619,
+        "job": "Editor",
+        "name": "Christopher D. Lozinski",
+        "gender": 0
+      },
+      {
+        "credit_id": "576fcb04c3a3680a79005d1a",
+        "department": "Production",
+        "id": 1641642,
+        "job": "Casting",
+        "name": "Wes Gleason",
+        "gender": 2
+      },
+      {
+        "credit_id": "5793ea5ec3a368457f000642",
+        "department": "Crew",
+        "id": 1655167,
+        "job": "Graphic Novel Illustrator",
+        "name": "Brian Bolland",
+        "profile_path": "/4XNOORVGg7EBGzrxjFVmy4EwA7m.jpg",
+        "gender": 0
+      },
+      {
+        "credit_id": "669cb9f22db430373309bbd2",
+        "department": "Sound",
+        "id": 2933621,
+        "job": "Supervising ADR Editor",
+        "name": "Mark A. Keatts",
+        "gender": 0
+      },
+      {
+        "credit_id": "6a1b1e9f56f98597d619e84f",
+        "department": "Writing",
+        "id": 11449,
+        "job": "Original Story",
+        "name": "Alan Moore",
+        "profile_path": "/dS0Vlap8GBkwTvDU4BRm1Qu50YV.jpg",
+        "gender": 2
+      }
+    ],
+    "id": 0
+  },
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/batman-killing-joke",
+  "id": 382322,
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/wNyhtxSazhYVSG1So8zgGTqVFVo.jpg",
+        "height": 1080,
+        "iso_639_1": "en",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/2jApwp78umL4dK9uSBJAngNDiG9.jpg",
+        "height": 2160,
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/2toE0K6Zgz5kLqWLo4m5bP4YQIG.jpg",
+        "height": 1080,
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/jxkyjUiYXbHp7Sjl9PDJaAQwRS5.jpg",
+        "height": 1080,
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/ofC1u2mYUWdZI3RxLW4dBvh9Q39.jpg",
+        "height": 1440,
+        "vote_average": 1.434,
+        "vote_count": 6,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/qPoKRGjCnF0a5monjqgrjgKaXmX.jpg",
+        "height": 1080,
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/ucXcfON9EStYN768UWrSobjxWjK.jpg",
+        "height": 1080,
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/bmKmIaoPBkxerATJGkAXgtw3g35.jpg",
+        "height": 2160,
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/apG1QQ3lqi5KvqaPdZBiw89veME.jpg",
+        "height": 2160,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/yVXtQ194NdSyz4VtSU4gbJvbKk9.jpg",
+        "height": 2160,
+        "iso_639_1": "es",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/aGYgrHnJrymzByHm8L99Js8vuQj.jpg",
+        "height": 2160,
+        "iso_639_1": "bg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/9q7ZSy8RZ4kEBj0fSI60Tm8UM5m.jpg",
+        "height": 2160,
+        "iso_639_1": "zh",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/fRM9eu5s7JXWeNdrwvAfdFT4VVF.jpg",
+        "height": 2160,
+        "iso_639_1": "zh",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/iAJDWJ9Mh0MhBiOBSlor8vQvabG.jpg",
+        "height": 2160,
+        "iso_639_1": "zh",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/pVi4ujd0dLQQn0pK3U8tDNHHZAf.jpg",
+        "height": 2160,
+        "iso_639_1": "zh",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/e7Wcd14itKPsLmV9hhBef6rYAeb.jpg",
+        "height": 2160,
+        "iso_639_1": "cs",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/xus8vkbqzCvO3HvXNQAqoMy7YAm.jpg",
+        "height": 2160,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/b8Brt6aZQyzeafheESm1ssfVFOg.jpg",
+        "height": 2160,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/rbgnUs1yuJIxFjaoBYD0LNJKUvP.jpg",
+        "height": 2160,
+        "iso_639_1": "es",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/6sHVN8aW2zp6hkvYxE3phsfo3T1.jpg",
+        "height": 2160,
+        "iso_639_1": "es",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/3QMgeQCv20dMC1w4k2nHga4CqHg.jpg",
+        "height": 2160,
+        "iso_639_1": "es",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/dNu5KMjmYMYRACXAV8bHmGxotvG.jpg",
+        "height": 2160,
+        "iso_639_1": "es",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/1FH4fzmShFxRk8opOYhPnGfvfT1.jpg",
+        "height": 2160,
+        "iso_639_1": "es",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/521cljIGAySN8of6M8cmAxchEJh.jpg",
+        "height": 2160,
+        "iso_639_1": "hr",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/4j0GkniaI0VFNRZLB7QpOiRFIKq.jpg",
+        "height": 2160,
+        "iso_639_1": "hu",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/6vKJrwHWF3lE8Va4JeGZmNc0iqx.jpg",
+        "height": 2160,
+        "iso_639_1": "hu",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/fu7AClPZE2fNq01uCQyloRrUGIn.jpg",
+        "height": 2160,
+        "iso_639_1": "hu",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/3DAili6j71lYLFGP87Iat69hrjF.jpg",
+        "height": 2160,
+        "iso_639_1": "ko",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/m8myyAGh6N66kZdXAgGOHIBhiEP.jpg",
+        "height": 2160,
+        "iso_639_1": "ko",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/a1xPRlZZYKxUKthQd140mgckEig.jpg",
+        "height": 1080,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/jJCAut9q5pqlxnWQMdDdHti5Fzj.jpg",
+        "height": 1076,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1913
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/vFBXaio9X0GJCql9KAt925V32Dz.jpg",
+        "height": 1076,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1913
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/6zN3MyuKPeE2tuzH00EqNL3Lx0h.jpg",
+        "height": 2160,
+        "iso_639_1": "pl",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/gSWnPER7iv29pGuziAxW5iMX8iM.jpg",
+        "height": 2160,
+        "iso_639_1": "pl",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/myIwc6ssMrzXkb6oW6oaMbAjMDI.jpg",
+        "height": 2160,
+        "iso_639_1": "pl",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/l0xq986utsmoh2R7AZPdxdft9Kk.jpg",
+        "height": 2160,
+        "iso_639_1": "pt",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/lOqY9VFg4cg1g0mmoOMdrpyNhPo.jpg",
+        "height": 2160,
+        "iso_639_1": "pt",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/8TxFQ4g2bvniFq9TcGwcu4JO4CK.jpg",
+        "height": 2160,
+        "iso_639_1": "pt",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/m8RSpj5wJHdco7WVmg22BgjIKgL.jpg",
+        "height": 2160,
+        "iso_639_1": "th",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/fIT0w8ZDKHKRwDolFIsbgXYX0p9.jpg",
+        "height": 2160,
+        "iso_639_1": "ro",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/aNBIsAsv2bVUQiqG5tLOA9oU5oQ.jpg",
+        "height": 2160,
+        "iso_639_1": "th",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/tynbe3MipfQAkaecj9BcNQAZ62S.jpg",
+        "height": 2160,
+        "iso_639_1": "tr",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "file_path": "/2Z42OmNj1Udxam6szDxhBFEDhK8.jpg",
+        "height": 2160,
+        "iso_639_1": "tr",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.777,
+        "file_path": "/A4VKgWoKuLPTfWFTdVL1KsDgar1.jpg",
+        "height": 1519,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2700
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/8otrxsMxmKcqH6aikxex0icDMJm.jpg",
+        "height": 1500,
+        "iso_639_1": "ru",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/vOnVSFCTWE8eUOkHdl3JTNtfPQJ.jpg",
+        "height": 3000,
+        "iso_639_1": "uk",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/77octmh4zJNZWvmlJVU9mE5lQPj.jpg",
+        "height": 3000,
+        "iso_639_1": "cs",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/lrQ3LeNIN0nmviZ692seNBUl1Pq.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/yYHo3b4lh20Ikam7Ha2M8Gor5iz.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/ibgiQ1a1q4UBEjOcqZzsRPhRK0g.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 3.334,
+        "vote_count": 3,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/ouRndgsflwbSs54yWIQYwPDqIzl.jpg",
+        "height": 3000,
+        "iso_639_1": "es",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/zvmlvfvwen0lAn0UMapEWrLj05U.jpg",
+        "height": 3000,
+        "iso_639_1": "es",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/qh1w4GAL3bXA9AG8vTsDSWrn1iw.jpg",
+        "height": 3000,
+        "iso_639_1": "hu",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/3Lu05bF2U2lb1tXFwho87iGsxU9.jpg",
+        "height": 3000,
+        "iso_639_1": "pl",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/x5hsAHiwLQrM7jlSZzR7AdWZquk.jpg",
+        "height": 3000,
+        "iso_639_1": "pt",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/kpy9gknNjxQOwXR1iBPvu169Emc.jpg",
+        "height": 3000,
+        "iso_639_1": "hu",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/kKLjLhogyJR9hzbJP2eiqgCkvL3.jpg",
+        "height": 3000,
+        "iso_639_1": "pl",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/14vtmLtNiCZ67IAAqCBqNVTOczI.jpg",
+        "height": 3000,
+        "iso_639_1": "pt",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/ybgkjMENf4QjBt3hkTemv4FKdg1.jpg",
+        "height": 3000,
+        "iso_639_1": "th",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/uzMRrvRDsIZRCrdcFvSWUQ0bJuA.jpg",
+        "height": 3000,
+        "iso_639_1": "tr",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/myms1QYchNWS8iTaLYbZdPwKBmX.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/iCYoVX87twLmX3NYrOAdt8IsEJR.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/wpfj8OdvHFTChA2WNHiEhBv24sk.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 1.75,
+        "vote_count": 4,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/vFb1RnbzvB4DSndocHGxXp7enDU.jpg",
+        "height": 3000,
+        "iso_639_1": "es",
+        "vote_average": 1.75,
+        "vote_count": 4,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/nxncAAL1FUKtQWs4uhs5jf1MVut.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 1.75,
+        "vote_count": 4,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/jae2uUOw0th8AOvJgAAXIOlfPMI.jpg",
+        "height": 3000,
+        "iso_639_1": "es",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/wmW5qeOFj2rdkvOH1NvjATSm1E1.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/hQRx1PzrzHWAOcEAc8WK9KRHrQv.jpg",
+        "height": 900,
+        "iso_639_1": "uk",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 600
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/zWu8XqIFiegidW7yNFUXX5oGtei.jpg",
+        "height": 950,
+        "iso_639_1": "uk",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 634
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/sPIPh1Q5TsmIDu2MVnZSF3T6siY.jpg",
+        "height": 3000,
+        "iso_639_1": "hu",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/coBGOvmAfSVC5nnmsSm6RO4YMXx.jpg",
+        "height": 3000,
+        "iso_639_1": "pt",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/nBdmbAEWGnviD18ZX1KdpVfshp9.jpg",
+        "height": 3000,
+        "iso_639_1": "pl",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/fBLmJARsC0sbZie9gYELY9QPJ2i.jpg",
+        "height": 3000,
+        "iso_639_1": "tr",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/yHayEUf3LmR5SLgPhLhIji70wbM.jpg",
+        "height": 3000,
+        "iso_639_1": "th",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.674,
+        "file_path": "/7syHyUu7o4x6slylwqZnPQBMhpk.jpg",
+        "height": 1517,
+        "iso_639_1": "cs",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1022
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/cayEOqXjOKhgosipv9Jvxech5I.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/tFWb8rrDZ2gG5IDLPgzlObOEOTZ.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/j5WITauj7o4f1puuSA6XIPsMTsw.jpg",
+        "height": 3000,
+        "iso_639_1": "bg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/yqhRwZmPLqKb2c9y4wxgPk51b4u.jpg",
+        "height": 2048,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1365
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/mytdGYokHwTYa7FqQEJoQMEGDb5.jpg",
+        "height": 3000,
+        "iso_639_1": "hr",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/94ZqGLNdCkrC43Wa3atpSiuZifj.jpg",
+        "height": 3000,
+        "iso_639_1": "ro",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/n12Az6YIEiqatHv1UGqJ7yioBgs.jpg",
+        "height": 3000,
+        "iso_639_1": "zh",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/2MVNQEEtMnIOSeLN5BQWbTi5ofH.jpg",
+        "height": 3000,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/a2kL4fIpF4AJSS3859Z7a64Ae2r.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/qaRpcEpCaFcRMdJ6SG26dosHe3g.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/7fQlfTBTjvXVUXO1ewcZjKaqcHn.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/dUqS1czZEG8BApt3a7WahYKHPHn.jpg",
+        "height": 3000,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/hm5zJk2nySsQauQ2bQC6V8U7aQz.jpg",
+        "height": 3000,
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/2Li50US642Zl2KmK8mjZsbyDlMm.jpg",
+        "height": 2048,
+        "iso_639_1": "zh",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1365
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/vDaaR2LltJMs6kvIVr0l4e4g0bz.jpg",
+        "height": 1500,
+        "iso_639_1": "en",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "imdb_id": "tt4853102",
+  "keywords": {
+    "id": 0,
+    "keywords": [
+      {
+        "id": 6259,
+        "name": "psychopath"
+      },
+      {
+        "id": 9715,
+        "name": "superhero"
+      },
+      {
+        "id": 6513,
+        "name": "cartoon"
+      },
+      {
+        "id": 3473,
+        "name": "carnival"
+      },
+      {
+        "id": 11323,
+        "name": "descent into madness"
+      },
+      {
+        "id": 12565,
+        "name": "psychological thriller"
+      },
+      {
+        "id": 13006,
+        "name": "torture"
+      },
+      {
+        "id": 14624,
+        "name": "cruelty"
+      },
+      {
+        "id": 15108,
+        "name": "justice"
+      },
+      {
+        "id": 18712,
+        "name": "based on graphic novel"
+      },
+      {
+        "id": 33637,
+        "name": "super power"
+      },
+      {
+        "id": 41410,
+        "name": "madness"
+      },
+      {
+        "id": 161919,
+        "name": "adult animation"
+      },
+      {
+        "id": 179431,
+        "name": "duringcreditsstinger"
+      },
+      {
+        "id": 202371,
+        "name": "aggressive"
+      },
+      {
+        "id": 325777,
+        "name": "bewildered"
+      },
+      {
+        "id": 325822,
+        "name": "gloomy"
+      }
+    ]
+  },
+  "lists": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "original_language": "en",
+  "original_title": "Batman: The Killing Joke",
+  "overview": "As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness.",
+  "popularity": 6.5495,
+  "poster_path": "/lrQ3LeNIN0nmviZ692seNBUl1Pq.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "name": "Warner Bros. Animation",
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "name": "DC",
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {}
+  ],
+  "release_date": "2016-07-24T00:00:00-04:00",
+  "release_dates": {
+    "id": 0,
+    "results": []
+  },
+  "external_ids": {
+    "id": 0,
+    "imdb_id": "tt4853102"
+  },
+  "releases": {
+    "countries": [
+      {
+        "certification": "R",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2016-07-26T00:00:00"
+      },
+      {
+        "certification": "15",
+        "iso_3166_1": "GB",
+        "primary": false,
+        "release_date": "2016-08-08T00:00:00"
+      },
+      {
+        "certification": "MA15\u002B",
+        "iso_3166_1": "AU",
+        "primary": false,
+        "release_date": "2016-07-24T00:00:00"
+      },
+      {
+        "certification": "",
+        "iso_3166_1": "IT",
+        "primary": false,
+        "release_date": "2016-07-26T00:00:00"
+      },
+      {
+        "certification": "14",
+        "iso_3166_1": "BR",
+        "primary": false,
+        "release_date": "2016-07-25T00:00:00"
+      },
+      {
+        "certification": "16",
+        "iso_3166_1": "DE",
+        "primary": false,
+        "release_date": "2016-08-04T00:00:00"
+      },
+      {
+        "certification": "16",
+        "iso_3166_1": "HU",
+        "primary": false,
+        "release_date": "2016-08-23T00:00:00"
+      },
+      {
+        "certification": "",
+        "iso_3166_1": "ES",
+        "primary": false,
+        "release_date": "2016-08-10T00:00:00"
+      },
+      {
+        "certification": "6",
+        "iso_3166_1": "NL",
+        "primary": false,
+        "release_date": "2016-08-03T00:00:00"
+      },
+      {
+        "certification": "R",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2016-07-22T00:00:00"
+      },
+      {
+        "certification": "B-15",
+        "iso_3166_1": "MX",
+        "primary": false,
+        "release_date": "2016-07-26T00:00:00"
+      },
+      {
+        "certification": "10",
+        "iso_3166_1": "FR",
+        "primary": false,
+        "release_date": "2016-08-03T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "ES",
+        "primary": false,
+        "release_date": "2016-10-21T00:00:00"
+      },
+      {
+        "certification": "12",
+        "iso_3166_1": "IE",
+        "primary": false,
+        "release_date": "2016-08-08T00:00:00"
+      },
+      {
+        "certification": "R18\u002B",
+        "iso_3166_1": "JP",
+        "primary": false,
+        "release_date": "2016-08-10T00:00:00"
+      },
+      {
+        "certification": "R",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2016-07-25T00:00:00"
+      },
+      {
+        "certification": "",
+        "iso_3166_1": "PL",
+        "primary": false,
+        "release_date": "2016-08-19T00:00:00"
+      },
+      {
+        "certification": "",
+        "iso_3166_1": "PL",
+        "primary": false,
+        "release_date": "2016-12-02T00:00:00"
+      },
+      {
+        "certification": "",
+        "iso_3166_1": "US",
+        "primary": false,
+        "release_date": "2016-08-02T00:00:00"
+      }
+    ],
+    "id": 0
+  },
+  "revenue": 3775000,
+  "reviews": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "runtime": 77,
+  "similar": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "recommendations": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "spoken_languages": [
+    {}
+  ],
+  "status": "Released",
+  "tagline": "The madness begins.",
+  "title": "Batman: The Killing Joke",
+  "translations": {
+    "id": 0,
+    "translations": []
+  },
+  "video": false,
+  "videos": {
+    "id": 0,
+    "results": []
+  },
+  "vote_average": 6.607,
+  "vote_count": 1960
+}

@@ -1,13 +1,1611 @@
 {
   "Index": 1,
-  "Format": "Blu-Ray",
   "Slug": "gotham-knight-bluray",
   "Name": "gotham-knight-bluray",
-  "ContentHash": "",
-  "Episodes": [],
-  "Extras": [],
-  "DeletedScenes": [],
-  "Trailers": [],
-  "MainMovies": [],
-  "Unknown": []
+  "Format": "Blu-Ray",
+  "Titles": [
+    {
+      "Index": 0,
+      "Comment": "title_t00.mkv",
+      "SourceFile": "00003.mpls",
+      "SegmentMap": "2",
+      "Duration": "0:05:30",
+      "Size": 177592320,
+      "DisplaySize": "169.3 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 1,
+      "Comment": "title_t01.mkv",
+      "SourceFile": "00004.mpls",
+      "SegmentMap": "4",
+      "Duration": "1:15:59",
+      "Size": 13541320704,
+      "DisplaySize": "12.6 GB",
+      "Item": {
+        "Title": "Batman: Gotham Knight",
+        "Type": "MainMovie",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Surround 5.1",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 4,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        }
+      ]
+    },
+    {
+      "Index": 2,
+      "Comment": "title_t02.mkv",
+      "SourceFile": "00014.mpls",
+      "SegmentMap": "4",
+      "Duration": "1:15:59",
+      "Size": 13541320704,
+      "DisplaySize": "12.6 GB",
+      "Item": {
+        "Title": "Standard",
+        "Type": "MainMovie",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Surround 5.1",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Surround 5.1",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 11,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        }
+      ]
+    },
+    {
+      "Index": 3,
+      "Comment": "title_t03.mkv",
+      "SourceFile": "00006.mpls",
+      "SegmentMap": "10",
+      "Duration": "0:38:25",
+      "Size": 1532282880,
+      "DisplaySize": "1.4 GB",
+      "Item": {
+        "Title": "Japanese",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        }
+      ]
+    },
+    {
+      "Index": 4,
+      "Comment": "title_t04.mkv",
+      "SourceFile": "00007.mpls",
+      "SegmentMap": "11,12,13,14",
+      "Duration": "1:26:33",
+      "Size": 3738728448,
+      "DisplaySize": "3.4 GB",
+      "Item": {
+        "Title": "Standard Subtitles",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        }
+      ]
+    },
+    {
+      "Index": 5,
+      "Comment": "title_t05.mkv",
+      "SourceFile": "00010.mpls",
+      "SegmentMap": "13",
+      "Duration": "0:21:34",
+      "Size": 852240384,
+      "DisplaySize": "812.7 MB",
+      "Item": {
+        "Title": "Standard Subtitles",
+        "Type": "Episode",
+        "Chapters": [],
+        "Season": "1",
+        "Episode": "12"
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        }
+      ]
+    },
+    {
+      "Index": 6,
+      "Comment": "title_t06.mkv",
+      "SourceFile": "00017.mpls",
+      "SegmentMap": "10",
+      "Duration": "0:38:25",
+      "Size": 1532282880,
+      "DisplaySize": "1.4 GB",
+      "Item": {
+        "Title": "Standard Subtitles",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 11,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        }
+      ]
+    },
+    {
+      "Index": 7,
+      "Comment": "title_t07.mkv",
+      "SourceFile": "00018.mpls",
+      "SegmentMap": "11,12,13,14",
+      "Duration": "1:26:33",
+      "Size": 3738728448,
+      "DisplaySize": "3.4 GB",
+      "Item": {
+        "Title": "Japanese Subtitles",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 11,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        }
+      ]
+    },
+    {
+      "Index": 8,
+      "Comment": "title_t08.mkv",
+      "SourceFile": "00021.mpls",
+      "SegmentMap": "13",
+      "Duration": "0:21:34",
+      "Size": 852240384,
+      "DisplaySize": "812.7 MB",
+      "Item": {
+        "Title": "Japanese Subtitles",
+        "Type": "Episode",
+        "Chapters": [],
+        "Season": "1",
+        "Episode": "12"
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 11,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        }
+      ]
+    },
+    {
+      "Index": 9,
+      "Comment": "title_t09.mkv",
+      "SourceFile": "00000.m2ts",
+      "SegmentMap": "0",
+      "Duration": "0:00:11",
+      "Size": 6844416,
+      "DisplaySize": "6.5 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 10,
+      "Comment": "title_t10.mkv",
+      "SourceFile": "00003.m2ts",
+      "SegmentMap": "3",
+      "Duration": "0:00:11",
+      "Size": 11544576,
+      "DisplaySize": "11.0 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Surround 5.1",
+          "LanguageCode": "eng",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Index": 11,
+      "Comment": "title_t11.mkv",
+      "SourceFile": "00008.m2ts",
+      "SegmentMap": "8",
+      "Duration": "0:35:47",
+      "Size": 1431238656,
+      "DisplaySize": "1.3 GB",
+      "Item": {
+        "Title": "Japanese Subtitles",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 11,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 12,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 13,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 14,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 15,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 16,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        }
+      ]
+    },
+    {
+      "Index": 12,
+      "Comment": "title_t12.mkv",
+      "SourceFile": "00009.m2ts",
+      "SegmentMap": "9",
+      "Duration": "0:10:29",
+      "Size": 417957888,
+      "DisplaySize": "398.5 MB",
+      "Item": {
+        "Title": "Both",
+        "Type": "Extra",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 11,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 12,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 13,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 14,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 15,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 16,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        }
+      ]
+    },
+    {
+      "Index": 13,
+      "Comment": "title_t13.mkv",
+      "SourceFile": "00011.m2ts",
+      "SegmentMap": "11",
+      "Duration": "0:20:17",
+      "Size": 800182272,
+      "DisplaySize": "763.1 MB",
+      "Item": {
+        "Title": "Both",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "1",
+        "Episode": "19"
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 11,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 12,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 13,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 14,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 15,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 16,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        }
+      ]
+    },
+    {
+      "Index": 14,
+      "Comment": "title_t14.mkv",
+      "SourceFile": "00012.m2ts",
+      "SegmentMap": "12",
+      "Duration": "0:22:25",
+      "Size": 886179840,
+      "DisplaySize": "845.1 MB",
+      "Item": {
+        "Title": "Both",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "1",
+        "Episode": "14"
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 11,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 12,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 13,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 14,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 15,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 16,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        }
+      ]
+    },
+    {
+      "Index": 15,
+      "Comment": "title_t15.mkv",
+      "SourceFile": "00014.m2ts",
+      "SegmentMap": "14",
+      "Duration": "0:22:16",
+      "Size": 1200125952,
+      "DisplaySize": "1.1 GB",
+      "Item": {
+        "Title": "Both",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "2",
+        "Episode": "21"
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "720x480",
+          "AspectRatio": "4:3"
+        },
+        {
+          "Index": 1,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "Dolby Digital",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 7,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 8,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 9,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 10,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "deu",
+          "Language": "German"
+        },
+        {
+          "Index": 11,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 12,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 13,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 14,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 15,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        },
+        {
+          "Index": 16,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "jpn",
+          "Language": "Japanese"
+        }
+      ]
+    },
+    {
+      "Index": 16,
+      "Comment": "title_t16.mkv",
+      "SourceFile": "00021.m2ts",
+      "SegmentMap": "21",
+      "Duration": "0:00:17",
+      "Size": 8767488,
+      "DisplaySize": "8.3 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 17,
+      "Comment": "title_t17.mkv",
+      "SourceFile": "00022.m2ts",
+      "SegmentMap": "22",
+      "Duration": "0:00:23",
+      "Size": 15347712,
+      "DisplaySize": "14.6 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "VC-1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    }
+  ]
 }
