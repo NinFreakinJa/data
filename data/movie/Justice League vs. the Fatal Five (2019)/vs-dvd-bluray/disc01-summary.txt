@@ -1,95 +1,49 @@
 Name: Justice League vs. the Fatal Five
 Type: MainMovie
 Year: 2019
-Comment: B1
-Source title ID: 01
-Duration: 1:17:21
-Chapters count: 9
-Size: 3.7 GB
-Segment count: 3
-Segment map: 1-5,6-9,10
+OG File Name: B1_t00.mkv
 File name: Justice League vs. the Fatal Five (2019) [480p].mkv
 
 Name: A Sneak Peek at Batman: Hush
 Type: Extra
 Year: 2019
-Comment: C1
-Source title ID: 03
-Duration: 0:09:18
-Chapters count: 2
-Size: 491.6 MB
-Segment count: 2
-Segment map: 1,2
+OG File Name: C1_t01.mkv
 File name: A Sneak Peek at Batman Hush-featurette.mkv
+
+I don't know why those 2 have different names but they do. My guess is they were on a different release and they maybe reedited them or something to include more clips of the finished movie but i dunno
 
 Name: Sneak Peek Revisited: A Preview of Justice League Dark
 Type: Extra
 Year: 2019
-Comment: C2
-Source title ID: 04
-Duration: 0:08:14
-Chapters count: 2
-Size: 418.8 MB
-Segment count: 2
-Segment map: 1,2
+OG File Name: C2_t02.mkv
 File name: Sneak Peek Revisited- A Preview of Justice League Dark-featurette.mkv
 
 Name: Sneak Peek Revisited: A Preview of Justice League vs. Teen Titans
 Type: Extra
 Year: 2019
-Comment: C3
-Source title ID: 05
-Duration: 0:11:31
-Chapters count: 2
-Size: 583.9 MB
-Segment count: 2
-Segment map: 1,2
+OG File Name: C2_t03.mkv
 File name: Sneak Peek Revisited- A Preview of Justice League vs. Teen Titans-featurette.mkv
 
 Name: Trailers for Shazam & The Death of Superman
 Type: Extra
 Year: 2019
-Comment: C4
-Source title ID: 07
-Duration: 0:04:09
-Chapters count: 3
-Size: 119.5 MB
-Segment count: 2
-Segment map: 1-2,3-4
+OG File Name: C4_t05.mkv
 File name: Trailers for Shazam & The Death of Superman-extra.mkv
 
 Name: Constantine City of Demons The Movie Trailer
 Type: Extra
 Year: 2019
-Comment: C4
-Source title ID: 08
-Duration: 0:02:03
-Chapters count: 1
-Size: 59.8 MB
-Segment count: 2
-Segment map: 2,3
+OG File Name: C4_t06.mkv
 File name: Constantine City of Demons The Movie Trailer-extra.mkv
 
 Name: Aquaman - Own it Now Trailer
 Type: Extra
 Year: 2019
-Comment: A1
-Source title ID: 09
-Duration: 0:02:33
-Chapters count: 2
-Size: 72.6 MB
-Segment count: 1
-Segment map: 1-2
+OG File Name: A1_t07.mkv
 File name: Aquaman - Own it Now Trailer-extra.mkv
 
 Name: Reign of The Supermen Trailer
 Type: Extra
 Year: 2019
-Comment: A1
-Source title ID: 10
-Duration: 0:01:54
-Chapters count: 1
-Size: 54.3 MB
-Segment count: 2
-Segment map: 2,3
+OG File Name: A1_t08.mkv
 File name: Reign of The Supermen Trailer-extra.mkv
