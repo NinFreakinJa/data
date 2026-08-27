@@ -1,0 +1,143 @@
+Name: Justice League The New Frontier Menu
+Type: Extra
+Source file name: 00120.mpls
+Duration: 0:00:02
+Chapters count: 2
+Size: 1.1 MB
+Segment count: 1
+Segment map: 152
+File name: Justice League The New Frontier Menu-backdrop.mkv
+
+Name: Justice League: The New Frontier
+Type: MainMovie
+Year: 2008
+Source file name: 00800.mpls
+Duration: 1:14:55
+Chapters count: 8
+Size: 13.5 GB
+Segment count: 1
+Segment map: 104
+File name: Justice League The New Frontier (2008) [1080p].mkv
+
+Name: Justice League: The New Frontier
+Type: MainMovie
+Year: 2008
+Source file name: 00801.mpls
+Duration: 1:14:55
+Chapters count: 8
+Size: 13.5 GB
+Segment count: 1
+Segment map: 104
+File name: Justice League The New Frontier (2008) [1080p].mkv
+
+Name: Super Heroes United: The Complete Justice League History
+Type: Extra
+Source file name: 00202.mpls
+Duration: 0:41:07
+Chapters count: 4
+Size: 2.3 GB
+Segment count: 1
+Segment map: 163
+File name: Super Heroes United; The Complete Justice League History-featurette.mkv
+
+Name: The Legion of Doom: The Pathology of the Super Villain
+Type: Extra
+Source file name: 00203.mpls
+Duration: 0:34:00
+Chapters count: 3
+Size: 1.9 GB
+Segment count: 1
+Segment map: 164
+File name: The Legion of Doom; The Pathology of the Super Villain-featurette.mkv
+
+Name: Super Heroes United: The Complete Justice League History
+Type: Extra
+Source file name: 00402.mpls
+Duration: 0:41:07
+Chapters count: 4
+Size: 2.3 GB
+Segment count: 1
+Segment map: 163
+File name: Super Heroes United; The Complete Justice League History-featurette.mkv
+
+Name: The Legion of Doom: The Pathology of the Super Villain
+Type: Extra
+Source file name: 00403.mpls
+Duration: 0:34:00
+Chapters count: 3
+Size: 1.9 GB
+Segment count: 1
+Segment map: 164
+File name: The Legion of Doom; The Pathology of the Super Villain-featurette.mkv
+
+Name: Wonder Woman Commemorative Edition Trailer
+Type: Extra
+Source file name: 00130.m2ts
+Duration: 0:00:59
+Size: 90.2 MB
+Segment count: 1
+Segment map: 130
+File name: Wonder Woman Commemorative Edition Trailer-extra.mkv
+
+Name: Batman and Harley Quinn Trailer
+Type: Extra
+Source file name: 00131.m2ts
+Duration: 0:02:03
+Size: 192.3 MB
+Segment count: 1
+Segment map: 131
+File name: Batman and Harley Quinn Trailer-extra.mkv
+
+Name: Retro Action Cool: The Story of Darwyn Cooke
+Type: Extra
+Source file name: 00105.m2ts
+Duration: 0:20:38
+Size: 2.4 GB
+Segment count: 1
+Segment map: 105
+File name: Retro Action Cool; The Story of Darwyn Cooke-featurette.mkv
+
+Name: Comic Book Commentary: Homage to The New Frontier
+Type: Extra
+Source file name: 00108.m2ts
+Duration: 0:10:16
+Size: 581.2 MB
+Segment count: 1
+Segment map: 108
+File name: Comic Book Commentary; Homage to The New Frontier-featurette.mkv
+
+Name: Injustice 2 Trailer
+Type: Extra
+Source file name: 00109.m2ts
+Duration: 0:02:22
+Size: 221.7 MB
+Segment count: 1
+Segment map: 109
+File name: Injustice 2 Trailer-extra.mkv
+
+Name: Wonder Woman (2017) Trailer
+Type: Extra
+Source file name: 00110.m2ts
+Duration: 0:02:34
+Size: 244.5 MB
+Segment count: 1
+Segment map: 110
+File name: Wonder Woman (2017) Trailer-extra.mkv
+
+Name: Justice League (2017) Trailer
+Type: Extra
+Source file name: 00111.m2ts
+Duration: 0:04:03
+Size: 372.8 MB
+Segment count: 1
+Segment map: 111
+File name: Justice League (2017) Trailer-extra.mkv
+
+Name: A Sneak Peek at Gotham by Gaslight
+Type: Extra
+Source file name: 00112.m2ts
+Duration: 0:08:30
+Size: 831.7 MB
+Segment count: 1
+Segment map: 112
+File name: A Sneak Peek at Gotham by Gaslight-featurette.mkv

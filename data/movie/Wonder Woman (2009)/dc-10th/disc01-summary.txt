@@ -1,4 +1,92 @@
+Name: Wonder Woman Commemorative Edition Menu
+Type: Extra
+Source file name: 00120.mpls
+Duration: 0:00:03
+Chapters count: 3
+Size: 2.0 MB
+Segment count: 1
+Segment map: 19
+File name: Wonder Woman Commemorative Edition Menu-backdrop.mkv
+
 Name: Wonder Woman
 Type: MainMovie
-Year: 2009
+Source file name: 00100.mpls
+Duration: 1:13:39
+Chapters count: 11
+Size: 12.3 GB
+Segment count: 1
+Segment map: 42
 File name: Wonder Woman (2009) [1080p].mkv
+
+Name: Wonder Woman
+Type: MainMovie
+Source file name: 00101.mpls
+Duration: 1:13:39
+Chapters count: 11
+Size: 12.3 GB
+Segment count: 1
+Segment map: 42
+File name: Wonder Woman (2009) [1080p].mkv
+
+Name: Teen Titans The Judas Contract Trailer
+Type: Extra
+Source file name: 00010.m2ts
+Duration: 0:01:56
+Size: 181.1 MB
+Segment count: 1
+Segment map: 10
+File name: Teen Titans The Judas Contract Trailer-extra.mkv
+
+Name: Wonder Woman (2017) Trailer
+Type: Extra
+Source file name: 00034.m2ts
+Duration: 0:02:34
+Size: 336.1 MB
+Segment count: 1
+Segment map: 34
+File name: Wonder Woman (2017) Trailer-extra.mkv
+
+Name: What Makes a Wonder Woman
+Type: Extra
+Source file name: 00088.m2ts
+Duration: 0:10:06
+Size: 1.0 GB
+Segment count: 1
+Segment map: 88
+File name: What Makes a Wonder Woman-featurette.mkv
+
+Name: Wonder Woman: A Subversive Dream
+Type: Extra
+Source file name: 00089.m2ts
+Duration: 0:25:36
+Size: 2.6 GB
+Segment count: 1
+Segment map: 89
+File name: Wonder Woman- A Subversive Dream-featurette.mkv
+
+Name: Wonder Woman: Daughter of Myth
+Type: Extra
+Source file name: 00090.m2ts
+Duration: 0:25:40
+Size: 2.6 GB
+Segment count: 1
+Segment map: 90
+File name: Wonder Woman- Daughter of Myth-featurette.mkv
+
+Name: DC Super Hero Girls: Hero of the Year Trailer
+Type: Extra
+Source file name: 00092.m2ts
+Duration: 0:01:33
+Size: 156.2 MB
+Segment count: 1
+Segment map: 92
+File name: DC Super Hero Girls Hero of the Year Trailer-extra.mkv
+
+Name: A Sneak Peek at Batman and Harley Quinn
+Type: Extra
+Source file name: 00097.m2ts
+Duration: 0:09:08
+Size: 953.9 MB
+Segment count: 1
+Segment map: 97
+File name: A Sneak Peek at Batman and Harley Quinn-featurette.mkv
