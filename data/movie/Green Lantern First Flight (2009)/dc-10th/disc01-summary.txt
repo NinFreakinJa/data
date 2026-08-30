@@ -1,4 +1,166 @@
 Name: Green Lantern: First Flight
 Type: MainMovie
 Year: 2009
+Source file name: 00001.mpls
+Duration: 1:17:35
+Chapters count: 9
+Size: 11.4 GB
+Segment count: 1
+Segment map: 1
 File name: Green Lantern First Flight (2009) [1080p].mkv
+
+Name: A Sneak Peek at Wonder Woman
+Type: Extra
+Source file name: 00004.m2ts
+Duration: 0:10:26
+Size: 298.2 MB
+Segment count: 1
+Segment map: 4
+File Name: A Sneak Peek at Wonder Woman-featurette.mkv
+
+Name: Sinestro 
+Type: Extra
+Source file name: 00020.m2ts
+Duration: 0:04:01
+Size: 107.8 MB
+Segment count: 1
+Segment map: 20
+File Name: Sinestro-featurette.mkv
+
+Name: Green Lantern: Behind the Story with Geoff Johns
+Type: Extra
+Source file name: 00017.m2ts
+Duration: 0:08:41
+Size: 283.7 MB
+Segment count: 1
+Segment map: 17
+File Name: Green Lantern; Behind the Story with Geoff Johns-featurette.mkv
+
+Name: Blackest Night: The DC Comics Event
+Type: Extra
+Source file name: 00019.m2ts
+Duration: 0:08:52
+Size: 284.1 MB
+Segment count: 1
+Segment map: 19
+File Name: Blackest Night; The DC Comics Event-featurette.mkv
+
+Name: The Once and Future Thing Part Two: Time, Warped
+Type: Episode
+Season: 1
+Episode: 13
+Source file name: 00009.m2ts
+Duration: 0:23:01
+Size: 424.4 MB
+Segment count: 1
+Segment map: 9
+File Name: Justice League Unlimited-s01e13-The Once and Future Thing Part Two; Time, Warped [480p].mkv
+
+Name: Green Lantern First Flight Menu
+Type: Extra
+Source file name: 00000.m2ts
+Duration: 0:00:01
+Size: 0.5 MB
+Segment count: 1
+Segment map: 0
+File Name: Green Lantern First Flight Menu-backdrop.mkv
+
+Name: I Am the Ring
+Type: Extra
+Source file name: 00015.m2ts
+Duration: 0:22:31
+Size: 664.7 MB
+Segment count: 1
+Segment map: 15
+File Name: I Am the Ring-featurette.mkv
+
+Name: The Green Loontern
+Type: Episode
+Season: 1
+Episode: 9
+Source file name: 00014.m2ts
+Duration: 0:22:22
+Size: 497.2 MB
+Segment count: 1
+Segment map: 14
+File Name: Duck Dodgers-s01e09-The Green Loontern.mkv
+
+Name: A Sneak Peek at Batman Gotham Knight
+Type: Extra
+Source file name: 00022.m2ts
+Duration: 0:10:11
+Size: 398.2 MB
+Segment count: 1
+Segment map: 22
+File Name: A Sneak Peek at Batman Gotham Knight-featurette.mkv
+
+Name: The Guardians of the Universe
+Type: Extra
+Source file name: 00021.m2ts
+Duration: 0:03:40
+Size: 106.8 MB
+Segment count: 1
+Segment map: 21
+File Name: The Guardians of the Universe-featurette.mkv
+
+Name: Hearts and Minds Part II
+Type: Episode
+Season: 1
+Episode: 10
+Source file name: 00013.m2ts
+Duration: 0:23:19
+Size: 435.1 MB
+Segment count: 1
+Segment map: 13
+File Name: Justice League-s02e10-Hearts and Minds Part II [480p].mkv
+
+Name: Hearts and Minds Part I
+Type: Episode
+Season: 1
+Episode: 8
+Source file name: 00011.m2ts
+Duration: 0:22:50
+Size: 429.2 MB
+Segment count: 1
+Segment map: 11
+File Name: Justice League-s02e09-Hearts and Minds Part I [480p].mkv
+
+Name: The Return
+Type: Episode
+Season: 1
+Episode: 8
+Source file name: 00010.m2ts
+Duration: 0:23:05
+Size: 409.8 MB
+Segment count: 1
+Segment map: 10
+File Name: Justice League Unlimited-s01e08-The Return [480p].mkv
+
+Name: The Once and Future Thing Part One: Weird Western Tales
+Type: Episode
+Season: 1
+Episode: 12
+Source file name: 00008.m2ts
+Duration: 0:23:01
+Size: 423.6 MB
+Segment count: 1
+Segment map: 8
+File Name: Justice League Unlimited-s01e12-The Once and Future Thing Part One; Weird Western Tales [480p].mkv
+
+Name: A First Look at Superman/Batman: Public Enemies
+Type: Extra
+Source file name: 00023.m2ts
+Duration: 0:07:49
+Size: 211.7 MB
+Segment count: 1
+Segment map: 23
+File Name: A First Look at SupermanBatman Public Enemies-featurette.mkv
+
+Name: A Sneak Peek at Justice League: The New Frontier
+Type: Extra
+Source file name: 00007.m2ts
+Duration: 0:10:45
+Size: 307.8 MB
+Segment count: 1
+Segment map: 7
+File Name: A Sneak Peek at Justice League The New Frontier-featurette.mkv
