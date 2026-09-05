@@ -1,0 +1,4 @@
+Name: Batman Forever
+Type: MainMovie
+Year: 1995
+File name: Batman Forever (1995) [720p].mkv
