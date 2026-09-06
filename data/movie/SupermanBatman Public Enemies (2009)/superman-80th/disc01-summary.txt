@@ -1,4 +1,195 @@
+Name: Flashpoint
+Type: Episode
+Season: 2
+Episode: 10
+Source file name: 00015.mpls
+Duration: 0:23:02
+Chapters count: 2
+Size: 633.5 MB
+Segment count: 1
+Segment map: 19
+File name: Justice League Unlimited-s02e10-Flashpoint [480p].mkv
+
+Name: Panic in the Sky
+Type: Episode
+Season: 2
+Episode: 11
+Source file name: 00016.mpls
+Duration: 0:23:04
+Chapters count: 2
+Size: 559.5 MB
+Segment count: 1
+Segment map: 20
+File name: Justice League Unlimited-s02e11-Panic in the Sky [480p].mkv
+
 Name: Superman/Batman: Public Enemies
 Type: MainMovie
 Year: 2009
+Source file name: 00003.mpls
+Duration: 1:07:02
+Chapters count: 7
+Size: 10.3 GB
+Segment count: 1
+Segment map: 7
 File name: SupermanBatman Public Enemies (2009) [1080p].mkv
+
+Name: A Test of Minds: The Psychology of Superman and Batman
+Type: Extra
+Source file name: 00008.m2ts
+Duration: 0:19:01
+Size: 614.1 MB
+Segment count: 1
+Segment map: 8
+File name: A Test of Minds; The Psychology of Superman and Batman-featurette.mkv
+
+Name: Dinner with DCU and Special Guest Kevin Conroy
+Type: Extra
+Source file name: 00009.m2ts
+Duration: 0:55:59
+Size: 1.7 GB
+Segment count: 1
+Segment map: 9
+File name: Dinner with DCU and Special Guest Kevin Conroy-featurette.mkv
+
+Name: A First Look at Justice League: A Crisis on Two Earths
+Type: Extra
+Source file name: 00010.m2ts
+Duration: 0:11:12
+Size: 366.8 MB
+Segment count: 1
+Segment map: 10
+File name: A First Look at Justice League A Crisis on Two Earths-featurette.mkv
+
+Name: Blackest Night The DC Comics Event
+Type: Extra
+Source file name: 00011.m2ts
+Duration: 0:08:52
+Size: 284.1 MB
+Segment count: 1
+Segment map: 11
+File name: Blackest Night The DC Comics Event-featurette.mkv
+
+Name: Wonder Woman: The Amazon Princess
+Type: Extra
+Source file name: 00012.m2ts
+Duration: 0:10:26
+Size: 298.3 MB
+Segment count: 1
+Segment map: 12
+File name: Wonder Woman The Amazon Princess-featurette.mkv
+
+Name: Batman Gotham Knight An Anime Evolution
+Type: Extra
+Source file name: 00013.m2ts
+Duration: 0:10:09
+Size: 328.4 MB
+Segment count: 1
+Segment map: 13
+File name: Batman Gotham Knight An Anime Evolution-featurette.mkv
+
+Name: From Graphic Novel to Original Animated Movie: Justice League The New Frontier
+Type: Extra
+Source file name: 00014.m2ts
+Duration: 0:10:45
+Size: 307.8 MB
+Segment count: 1
+Segment map: 14
+File name: From Graphic Novel to Original Animated Movie; Justice League The New Frontier-featurette.mkv
+
+Name: Green Lantern; A First Look
+Type: Extra
+Source file name: 00016.m2ts
+Duration: 0:10:12
+Size: 330.7 MB
+Segment count: 1
+Segment map: 16
+File name: Green Lantern; A First Look-featurette.mkv
+
+Name: Question Authority
+Type: Episode
+Season: 2
+Episode: 9
+Source file name: 00018.m2ts
+Duration: 0:22:51
+Size: 585.8 MB
+Segment count: 1
+Segment map: 18
+File name: Justice League Unlimited-s02e09-Question Authority [480p].mkv
+
+Name: Divided We Fall
+Type: Episode
+Season: 2
+Episode: 12
+Source file name: 00021.m2ts
+Duration: 0:23:08
+Size: 744.6 MB
+Segment count: 1
+Segment map: 21
+File name: Justice League Unlimited-s02e12-Divided We Fall [480p].mkv
+
+Name: The Demon Reborn
+Type: Episode
+Season: 3
+Episode: 16
+Source file name: 00022.m2ts
+Duration: 0:20:55
+Size: 673.8 MB
+Segment count: 1
+Segment map: 22
+File name: Superman The Animated Series-s03e16-The Demon Reborn [480p].mkv
+
+Name: Knight Time
+Type: Episode
+Season: 3
+Episode: 7
+Source file name: 00023.m2ts
+Duration: 0:21:17
+Size: 686.1 MB
+Segment count: 1
+Segment map: 23
+File name: Superman The Animated Series-s03e07-Knight Time [480p].mkv
+
+Name: Batman Gotham Knight Trailer
+Type: Extra
+Source file name: 00026.m2ts
+Duration: 0:01:36
+Size: 145.0 MB
+Segment count: 1
+Segment map: 26
+File name: Batman Gotham Knight Trailer-extra.mkv
+
+Name: Halo Legends Trailer
+Type: Extra
+Source file name: 00027.m2ts
+Duration: 0:02:10
+Size: 154.4 MB
+Segment count: 1
+Segment map: 27
+File name: Halo Legends Trailer-extra.mkv
+
+Name: Green Lantern First Flight Trailer
+Type: Extra
+Source file name: 00028.m2ts
+Duration: 0:01:08
+Size: 94.4 MB
+Segment count: 1
+Segment map: 28
+File name: Green Lantern First Flight Trailer-extra.mkv
+
+Name: Warner Blu-Ray High Definition Trailer
+Type: Extra
+Source file name: 00029.m2ts
+Duration: 0:01:43
+Size: 170.1 MB
+Segment count: 1
+Segment map: 29
+File name: Warner Blu-Ray High Definition Trailer-extra.mkv
+
+Name: Superman Doomsday Trailer
+Type: Extra
+Source file name: 00031.m2ts
+Duration: 0:00:57
+Size: 29.6 MB
+Segment count: 1
+Segment map: 31
+File name: Superman Doomsday Trailer-extra.mkv
