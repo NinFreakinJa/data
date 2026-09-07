@@ -1,0 +1,389 @@
+{
+  "account_states": {
+    "favorite": false,
+    "id": 0,
+    "watchlist": false
+  },
+  "alternative_titles": {
+    "id": 0,
+    "results": []
+  },
+  "backdrop_path": "/h6qWlFERbEgvppyAsiPWqcYG0LR.jpg",
+  "changes": {
+    "changes": []
+  },
+  "content_ratings": {
+    "id": 0,
+    "results": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "created_by": [
+    {
+      "id": 160129,
+      "credit_id": "658e258fea37e04fe9748326",
+      "name": "Frank Lupo",
+      "gender": 2
+    },
+    {
+      "id": 110019,
+      "credit_id": "658e2598d400f3516717321a",
+      "name": "Stephen J. Cannell",
+      "gender": 2,
+      "profile_path": "/n3WFoVFMYkzzR5K4IFHHxIspvFd.jpg"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "cast_id": 0,
+        "character": "John \u0027Hannibal\u0027 Smith",
+        "credit_id": "54022b86c3a3684372003839",
+        "id": 1933,
+        "name": "George Peppard",
+        "order": 0,
+        "profile_path": "/td2SN1HGqgGsWLi4YhReMYvH2ik.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "Templeton \u0027Faceman\u0027 Peck",
+        "credit_id": "54022ef0c3a368068c003885",
+        "id": 58264,
+        "name": "Dirk Benedict",
+        "order": 1,
+        "profile_path": "/lQG0YpiHdhQgs5DKS0185JA60mr.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "B.A. Baracus",
+        "credit_id": "52570b3d760ee3776a065f2d",
+        "id": 16619,
+        "name": "Mr. T",
+        "order": 2,
+        "profile_path": "/pJbHlEsrhyW8dptDwBdXpoY9EmQ.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "\u0027Howling Mad\u0027 Murdock",
+        "credit_id": "54022bfdc3a3684360003a6a",
+        "id": 28248,
+        "name": "Dwight Schultz",
+        "order": 3,
+        "profile_path": "/kVXkC94gNdSWRvDAs0DqBCduJ4S.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "Frankie Santana",
+        "credit_id": "5fcab1f8383df2003f59b229",
+        "id": 88031,
+        "name": "Eddie Velez",
+        "order": 5,
+        "profile_path": "/mnITDWkqvMWFdjtaXItRFKP0rv8.jpg",
+        "gender": 2
+      },
+      {
+        "cast_id": 0,
+        "character": "General Hunt Stockwell",
+        "credit_id": "5fcab213dcf875003f4168d4",
+        "id": 14060,
+        "name": "Robert Vaughn",
+        "order": 6,
+        "profile_path": "/mYaQ9Qv2oC014lwMaXb76A5UL1n.jpg",
+        "gender": 2
+      }
+    ],
+    "crew": [
+      {
+        "credit_id": "52570b43760ee3776a0662c3",
+        "department": "Production",
+        "id": 110019,
+        "job": "Producer",
+        "name": "Stephen J. Cannell",
+        "profile_path": "/n3WFoVFMYkzzR5K4IFHHxIspvFd.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "52570b43760ee3776a0662f1",
+        "department": "Production",
+        "id": 8331,
+        "job": "Producer",
+        "name": "John Ashley",
+        "profile_path": "/9qR47x9ky5eRJg7VV9St0wltTNw.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "52570b43760ee3776a06631f",
+        "department": "Production",
+        "id": 160129,
+        "job": "Producer",
+        "name": "Frank Lupo",
+        "gender": 2
+      },
+      {
+        "credit_id": "52570b43760ee3776a06634d",
+        "department": "Production",
+        "id": 12523,
+        "job": "Producer",
+        "name": "Rob Bowman",
+        "profile_path": "/k6a9XQHJBYi8hqRnwj65yBp0Xdj.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "5b8d66050e0a261d7304cf4e",
+        "department": "Crew",
+        "id": 63709,
+        "job": "Stunt Coordinator",
+        "name": "Craig R. Baxley",
+        "profile_path": "/rP8bHx8ZKlAdjq81lrziaIwOHXe.jpg",
+        "gender": 2
+      },
+      {
+        "credit_id": "5b8d6628925141518e04244c",
+        "department": "Camera",
+        "id": 2120979,
+        "job": "Key Grip",
+        "name": "Verlin Mathews",
+        "gender": 0
+      },
+      {
+        "credit_id": "5b8d66829251415183047858",
+        "department": "Sound",
+        "id": 1027810,
+        "job": "Music Supervisor",
+        "name": "John Caper Jr.",
+        "gender": 0
+      }
+    ],
+    "id": 0
+  },
+  "episode_run_time": [
+    45
+  ],
+  "external_ids": {
+    "imdb_id": "tt0084967",
+    "tvdb_id": "77904",
+    "freebase_id": "/en/the_a-team",
+    "freebase_mid": "/m/07d3d",
+    "id": 0,
+    "tvrage_id": "5516"
+  },
+  "first_air_date": "1983-01-23T00:00:00-05:00",
+  "genre_ids": [],
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action \u0026 Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1516,
+  "images": {
+    "backdrops": [],
+    "posters": []
+  },
+  "in_production": false,
+  "keywords": {
+    "id": 0,
+    "results": [
+      {
+        "id": 853,
+        "name": "crime fighter"
+      },
+      {
+        "id": 3800,
+        "name": "airplane"
+      },
+      {
+        "id": 15124,
+        "name": "framed"
+      },
+      {
+        "id": 15218,
+        "name": "special forces"
+      },
+      {
+        "id": 162380,
+        "name": "ex soldier"
+      },
+      {
+        "id": 169271,
+        "name": "escaped prisoner"
+      },
+      {
+        "id": 256330,
+        "name": "mischievous"
+      },
+      {
+        "id": 325815,
+        "name": "farcical"
+      }
+    ]
+  },
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1987-03-08T00:00:00-05:00",
+  "last_episode_to_air": {
+    "air_date": "1987-03-08T00:00:00-05:00",
+    "name": "Without Reservations",
+    "overview": "Frankie and Face visit Murdock at his job in a restaurant, and all three become hostages of mobsters out to kill a patron, the US Attorney General.",
+    "production_code": "",
+    "show_id": 1516,
+    "still_path": "/c2nYyJTk3s81vIt5I4vpz39GGIj.jpg",
+    "vote_average": 7.889,
+    "vote_count": 9,
+    "id": 74690,
+    "season_number": 5,
+    "episode_number": 13
+  },
+  "name": "The A-Team",
+  "networks": [
+    {
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "id": 6,
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 94,
+  "number_of_seasons": 5,
+  "original_language": "en",
+  "original_name": "The A-Team",
+  "origin_country": [
+    "US"
+  ],
+  "overview": "A fictional group of ex-United States Army Special Forces personnel work as soldiers of fortune while on the run from the Army after being branded as war criminals for a \u0022crime they didn\u0027t commit.\u0022",
+  "popularity": 54.4833,
+  "poster_path": "/p2qWJJ7Wyaq2xvgIHuBw4zVNBij.jpg",
+  "production_companies": [
+    {
+      "id": 5585,
+      "name": "Stephen J. Cannell Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "name": "Universal Television",
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "origin_country": "US"
+    },
+    {
+      "id": 104278,
+      "name": "Universal Television Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-01-01T00:00:00-05:00",
+      "episode_count": 4,
+      "id": 4131,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/abuSALA1vZgPnm8ekteY8qA5Moy.jpg",
+      "season_number": 0
+    },
+    {
+      "air_date": "1983-01-23T00:00:00-05:00",
+      "episode_count": 13,
+      "id": 4130,
+      "name": "Season 1",
+      "overview": "Sent to prison by a military court for a crime they didn\u0027t commit, these four commandos escaped from a maximum-security stockade and now survive in the Los Angeles underground as soldiers of fortune. So, if you have a problem and there\u0027s no one else who can help, and if you think you can find them, maybe you can hire The A-Team.",
+      "poster_path": "/xkXAMuH4HSs0EG9EJSglmgh3zGm.jpg",
+      "season_number": 1
+    },
+    {
+      "air_date": "1983-09-20T00:00:00-04:00",
+      "episode_count": 22,
+      "id": 4128,
+      "name": "Season 2",
+      "overview": "Pile into that famous black van for another season of adrenaline-pumping adventure with Hannibal, Face, Murdock and B.A. as they fight for justice against dangerous criminals, while staying one step ahead of their archenemy, Colonel Decker.",
+      "poster_path": "/c6SzPhZKwn8ghC8IAfGX3xKBiB9.jpg",
+      "season_number": 2
+    },
+    {
+      "air_date": "1984-09-18T00:00:00-04:00",
+      "episode_count": 24,
+      "id": 4129,
+      "name": "Season 3",
+      "overview": "In the most popular season ever, Hannibal, Face, Murdock and B.A. face off against new criminals with the most outrageous schemes yet - from toxic-waste dumping to wild-game poaching to restaurant sabotage.",
+      "poster_path": "/lIHJ3N8Hu7GIVJkITbgIUntMgmE.jpg",
+      "season_number": 3
+    },
+    {
+      "air_date": "1985-09-24T00:00:00-04:00",
+      "episode_count": 22,
+      "id": 4127,
+      "name": "Season 4",
+      "overview": "Team up again with B.A., Hannibal, Murdock and Face as they take on hardhearted kidnappers, corrupt millionaires, ruthless drug dealers, and even a Mob kingpin.",
+      "poster_path": "/xlBvy1LS1Ka06fPmbdSVZHG7nM3.jpg",
+      "season_number": 4
+    },
+    {
+      "air_date": "1986-09-26T00:00:00-04:00",
+      "episode_count": 13,
+      "id": 4126,
+      "name": "Season 5",
+      "overview": "B.A., Hannibal, Murdock and Face confront their greatest challenges yet when the mysterious General Stockwell joins them to battle bad guys that include hitmen, hijackers, and mercenary monks.",
+      "poster_path": "/ak8ZvkrjNsYgX42uxouze00Up2M.jpg",
+      "season_number": 5
+    }
+  ],
+  "reviews": {
+    "page": 0,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  },
+  "similar": {
+    "id": 0,
+    "results": []
+  },
+  "recommendations": {
+    "id": 0,
+    "results": []
+  },
+  "status": "Ended",
+  "translations": {
+    "id": 0,
+    "translations": []
+  },
+  "type": "Scripted",
+  "videos": {
+    "id": 0,
+    "results": []
+  },
+  "vote_average": 7.504,
+  "vote_count": 1115
+}
