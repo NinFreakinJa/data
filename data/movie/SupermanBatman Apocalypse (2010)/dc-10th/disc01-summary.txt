@@ -1,4 +1,156 @@
-Name: Superman/Batman: Apocalypse
-Type: MainMovie
-Year: 2010
+Name: Superman/Batman Apocalypse Menu Screen
+Source file name: 00120.mpls
+Duration: 0:00:00
+Chapters count: 3
+Size: 1.2 MB
+Segment count: 3
+Segment map: 0,19,16
+File name: SupermanBatman Apocalypse Menu Screen-backdrop.mkv
+
+Name: Green Arrow
+Source file name: 00201.mpls
+Duration: 0:11:14
+Chapters count: 2
+Size: 1.1 GB
+Segment count: 1
+Segment map: 11
+File name: Green Arrow (2010) [1080p].mkv
+
+Name: A First Look at: Superman/Batman Public Enemies
+Source file name: 00215.mpls
+Duration: 0:07:47
+Chapters count: 2
+Size: 298.2 MB
+Segment count: 1
+Segment map: 37
+File name: A First Look at SupermanBatman Public Enemies-featurette.mkv
+
+Name: The Fourth World: The New Gods
+Source file name: 00207.mpls
+Duration: 0:22:12
+Chapters count: 2
+Size: 2.0 GB
+Segment count: 1
+Segment map: 17
+File name: The Fourth World; The New Gods-featurette.mkv
+
+Name: Superman/Batman Apocalypse
+Source file name: 00100.mpls
+Duration: 1:18:09
+Chapters count: 9
+Size: 16.7 GB
+Segment count: 1
+Segment map: 1
 File name: SupermanBatman Apocalypse (2010) [1080p].mkv
+
+Name: DC's Jonah Hex Motion Comic Trailer
+Source file name: 00009.m2ts
+Duration: 0:01:12
+Size: 39.0 MB
+Segment count: 1
+Segment map: 9
+File name: DC's Jonah Hex Motion Comic Trailer-extra.mkv
+
+Name: Lost Boys: The Thirst Trailer
+Source file name: 00007.m2ts
+Duration: 0:01:25
+Size: 125.4 MB
+Segment count: 1
+Segment map: 7
+File name: Lost Boys The Thirst Trailer-extra.mkv
+
+Name: Batman: Under the Red Hood Trailer
+Source file name: 00005.m2ts
+Duration: 0:01:13
+Size: 44.1 MB
+Segment count: 1
+Segment map: 5
+File name: Batman Under the Red Hood Trailer-extra.mkv
+
+Name: Supergirl: The Last Daughter of Krypton
+Source file name: 00010.m2ts
+Duration: 0:17:49
+Size: 677.8 MB
+Segment count: 1
+Segment map: 10
+File name: Supergirl The Last Daughter of Krypton-featurette.mkv
+
+Name: Little Girl Lost Part II
+Source file name: 00029.m2ts
+Duration: 0:21:30
+Size: 809.8 MB
+Segment count: 1
+Segment map: 29
+File name: Superman The Animated Series-s03e05-Little Girl Lost Part II [480p].mkv
+
+Name: Lego Universe Trailer
+Source file name: 00038.m2ts
+Duration: 0:02:00
+Size: 75.2 MB
+Segment count: 1
+Segment map: 38
+File name: Lego Universe Trailer-extra.mkv
+
+Name: A First Look at Justice League Crisis on Two Earths
+Source file name: 00036.m2ts
+Duration: 0:11:11
+Size: 426.8 MB
+Segment count: 1
+Segment map: 36
+File name: A First Look at Justice League Crisis on Two Earths-featurette.mkv
+
+Name: A First Look at Batman: Under the Red Hood
+Source file name: 00035.m2ts
+Duration: 0:13:46
+Size: 519.5 MB
+Segment count: 1
+Segment map: 35
+File name: A First Look at Batman Under the Red Hood-featurette.mkv
+
+Name: A Sneak Peek at All-Star Superman
+Source file name: 00034.m2ts
+Duration: 0:10:47
+Size: 983.7 MB
+Segment count: 1
+Segment map: 34
+File name: A Sneak Peek at All-Star Superman-featurette.mkv
+
+Name: The New Gods: Orion
+Source file name: 00033.m2ts
+Duration: 0:04:37
+Size: 410.2 MB
+Segment count: 1
+Segment map: 33
+File name: The New Gods; Orion-featurette.mkv
+
+Name: The New Gods: Mister Miracle
+Source file name: 00032.m2ts
+Duration: 0:04:57
+Size: 450.7 MB
+Segment count: 1
+Segment map: 32
+File name: The New Gods; Mister Miracle-featurette.mkv
+
+Name: Apokolips...Now! Part II
+Source file name: 00031.m2ts
+Duration: 0:21:19
+Size: 809.8 MB
+Segment count: 1
+Segment map: 31
+File name: Superman The Animated Series-s03e03-Apokolips...Now! Part II [480p].mkv
+
+Name: Apokolips...Now! Part I
+Source file name: 00030.m2ts
+Duration: 0:21:16
+Size: 801.8 MB
+Segment count: 1
+Segment map: 30
+File name: Superman The Animated Series-s03e02-Apokolips...Now! Part I [480p].mkv
+
+Name: Little Girl Lost Part I
+Source file name: 00028.m2ts
+Duration: 0:21:16
+Size: 800.8 MB
+Segment count: 1
+Segment map: 28
+File name: Superman The Animated Series-s03e04-Little Girl Lost Part I [480p].mkv

@@ -1,4 +1,80 @@
+Name: Virtual Comic Book Excerpt; Green Lantern (2005) #1 (Spanish)
+OG File Name: Green Lantern- Emerald Knights_t00.mkv
+File Name: Virtual Comic Book Excerpt; Green Lantern (2005) #1 (Spanish)-extra.mkv
+
+Name: Virtual Comic Book Excerpt; Green Lantern (2005) #1 (German)
+OG File Name: Green Lantern- Emerald Knights_t01.mkv
+File Name: Virtual Comic Book Excerpt; Green Lantern (2005) #1 (German)-extra.mkv
+
+Name: Virtual Comic Book Excerpt; Green Lantern (2005) #1 (English)
+OG File Name: Green Lantern- Emerald Knights_t02.mkv
+File Name: Virtual Comic Book Excerpt; Green Lantern (2005) #1 (English)-extra.mkv
+
 Name: Green Lantern: Emerald Knights
-Type: MainMovie
-Year: 2011
-File name: Green Lantern Emerald Knights (2011) [1080p].mkv
+OG File Name: Green Lantern- Emerald Knights_t03.mkv
+File Name: Green Lantern Emerald Knights (2011) [1080p].mkv
+Has commentary by Geoff Johns and Dan DiDio (idk how you wanna do these)
+
+Name: Green Lantern Emerald Knights Menu Screen
+OG File Name: Green Lantern- Emerald Knights_t07.mkv
+File Name: Green Lantern Emerald Knights Menu Screen-backdrop.mkv
+
+Name: Virtual Comic Book Excerpt; Green Lantern (2005) #1 (Italian)
+OG File Name: Green Lantern- Emerald Knights_t08.mkv
+File Name: Virtual Comic Book Excerpt; Green Lantern (2005) #1 (Italian)-extra.mkv
+
+Name: Virtual Comic Book Excerpt; Green Lantern (2005) #1 (French)
+OG File Name: Green Lantern- Emerald Knights_t09.mkv
+File Name: Virtual Comic Book Excerpt; Green Lantern (2005) #1 (French)-extra.mkv
+
+Name: Why Green Lantern Matters: The Talent of Geoff Johns
+OG File Name: Green Lantern- Emerald Knights_t10.mkv
+File Name: Why Green Lantern Matters; The Talent of Geoff Johns-featurette.mkv
+
+Name: Only the Bravest: Tales of the Green Lantern Corps
+OG File Name: Green Lantern- Emerald Knights_t11.mkv
+File Name: Only the Bravest; Tales of the Green Lantern Corps-featurette.mkv
+
+Name: MATTEL mattycollector.com Advertisement
+OG File Name: Green Lantern- Emerald Knights_t12.mkv
+File Name: MATTEL mattycollector.com Advertisement-extra.mkv
+
+Name: Revenge of the Reach!
+OG File Name: Green Lantern- Emerald Knights_t13.mkv
+File Name: Batman The Brave and the Bold-s02e03-Revenge of the Reach! [1080p].mkv
+
+Name: Get Digital DC Comics Now Advertisement
+OG File Name: Green Lantern- Emerald Knights_t20.mkv
+File Name: Get Digital DC Comics Now Advertisement-extra.mkv
+
+Name: Beautiful...But Deadly
+OG File Name: Green Lantern- Emerald Knights_t21.mkv
+File Name: Beautiful...But Deadly-featurette.mkv
+
+Name: From Comic Book To Screen: Abin Sur
+OG File Name: Green Lantern- Emerald Knights_t22.mkv
+File Name: From Comic Book To Screen; Abin Sur-featurette.mkv
+
+Name: Excerpt from "The Siege of Starro! Part 1" from Batman: The Brave and the Bold
+OG File Name: Green Lantern- Emerald Knights_t45.mkv
+File Name: Excerpt from 'The Siege of Starro! Part 1' from Batman The Brave and the Bold-extra.mkv
+
+Name: A Sneak Peek at All-Star Superman
+OG File Name: Green Lantern- Emerald Knights_t46.mkv
+File Name: A Sneak Peek at All-Star Superman-featurette.mkv
+
+Name: A Sneak Peek at Batman: Year One
+OG File Name: Green Lantern- Emerald Knights_t47.mkv
+File Name: A Sneak Peek at Batman Year One-featurette.mkv
+
+Name: All-Star Superman Trailer
+OG File Name: Green Lantern- Emerald Knights_t48.mkv
+File Name: All-Star Superman Trailer-extra.mkv
+
+Name: Green Lantern (2011) Trailer
+OG File Name: Green Lantern- Emerald Knights_t49.mkv
+File Name: Green Lantern (2011) Trailer-extra.mkv
+
+Name: Harry Potter and The Deathly Hallows Part 1 on Blu-Ray
+OG File Name: Green Lantern- Emerald Knights_t51.mkv
+File Name: Harry Potter and The Deathly Hallows Part 1 on Blu-Ray-extra.mkv

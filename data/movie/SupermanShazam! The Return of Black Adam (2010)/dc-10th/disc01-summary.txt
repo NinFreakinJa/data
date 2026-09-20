@@ -1,4 +1,28 @@
-Name: Superman/Shazam!: The Return of Black Adam
-Type: MainMovie
-Year: 2010
-File name: SupermanShazam! The Return of Black Adam (2010) [1080p].mkv
+Name: Chill of the Night!
+OG File Name: Superman_Shazam! Return of Black Adam_t00.mkv
+File Name: Batman The Brave and the Bold-s02e11-Chill of the Night! [480p].mkv
+
+Name: Initiation
+OG File Name: Superman_Shazam! Return of Black Adam_t02.mkv
+File Name: Justice League Unlimited-s01e01-Initiation [480p].mkv
+
+Name: Clash
+OG File Name: Superman_Shazam! Return of Black Adam_t03.mkv
+File Name: Justice League Unlimited-s02e07-Clash [480p].mkv
+
+Name: Superman Shazam! Return of Black Adam
+OG File Name: Superman_Shazam! Return of Black Adam_t04.mkv
+File Name: SupermanShazam! Return of Black Adam (2010) [1080p].mkv
+Has commentary
+
+Name: Showdown
+OG File Name: Superman_Shazam! Return of Black Adam_t05.mkv
+File Name: Batman The Animated Series-s03e22-Showdown [480p].mkv
+
+Name: Batman The Brave and the Bold; Get it on DVD
+OG File Name: Superman_Shazam! Return of Black Adam_t08.mkv
+File Name: Batman The Brave and the Bold; Get it on DVD-extra.mkv
+
+Name: SupermanShazam! Return of Black Adam Menu Screen
+OG File Name: Superman_Shazam! Return of Black Adam_t10.mkv
+File Name: SupermanShazam! Return of Black Adam Menu Screen-backdrop.mkv

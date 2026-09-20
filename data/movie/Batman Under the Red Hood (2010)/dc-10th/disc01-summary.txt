@@ -1,4 +1,162 @@
 Name: Batman: Under the Red Hood
 Type: MainMovie
 Year: 2010
+Source file name: 00100.mpls
+Duration: 1:15:49
+Chapters count: 8
+Size: 13.0 GB
+Segment count: 1
+Segment map: 20
 File name: Batman Under the Red Hood (2010) [1080p].mkv
+
+Name: Legend of the Guardians: The Owls of Ga'Hoole Trailer
+Type: Extra
+Source file name: 00042.m2ts
+Duration: 0:02:22
+Size: 84.8 MB
+Segment count: 1
+Segment map: 42
+File name: Legend of the Guardians The Owls of Ga'Hoole Trailer-extra.mkv
+
+Name: MATTEL mattycollector.com Advertisement
+Type: Extra
+Source file name: 00041.m2ts
+Duration: 0:00:19
+Size: 8.0 MB
+Segment count: 1
+Segment map: 41
+File name: MATTEL mattycollector.com Advertisement-extra.mkv
+
+Name: Extended Preview of Superman Doomsday
+Type: Extra
+Source file name: 00039.m2ts
+Duration: 0:02:20
+Size: 88.1 MB
+Segment count: 1
+Segment map: 39
+File name: Extended Preview of Superman Doomsday-featurette.mkv
+
+Name: Batman: Gotham Knight: An Anime Evolution
+Type: Extra
+Source file name: 00038.m2ts
+Duration: 0:10:09
+Size: 387.8 MB
+Segment count: 1
+Segment map: 38
+File name: Batman Gotham Knight An Anime Evolution-featurette.mkv
+
+Name: A First Look at Justice League: Crisis on Two Earths
+Type: Extra
+Source file name: 00037.m2ts
+Duration: 0:11:12
+Size: 432.6 MB
+Segment count: 1
+Segment map: 37
+File name: A First Look at Justice League Crisis on Two Earths-featurette.mkv
+
+Name: Ralph Bashki's The Lord of the Rings Blu-ray & DVD Trailer
+Type: Extra
+Source file name: 00036.m2ts
+Duration: 0:01:20
+Size: 31.9 MB
+Segment count: 1
+Segment map: 36
+File name: Ralph Bashki's The Lord of the Rings Blu-ray & DVD Trailer-extra.mkv
+
+Name: DC's Jonah Hex Motion Comic Trailer
+Type: Extra
+Source file name: 00035.m2ts
+Duration: 0:01:12
+Size: 39.0 MB
+Segment count: 1
+Segment map: 35
+File name: DC's Jonah Hex Motion Comic Trailer-extra.mkv
+
+Name: The Laughing Fish
+Type: Episode
+Season: 2
+Episode: 6
+Source file name: 00034.m2ts
+Duration: 0:22:16
+Size: 838.6 MB
+Segment count: 1
+Segment map: 34
+File name: Batman The Animated Series-s02e06-The Laughing Fish [480p].mkv
+
+Name: Mad Love
+Type: Episode
+Season: 1
+Episode: 21
+Source file name: 00033.m2ts
+Duration: 0:21:27
+Size: 810.6 MB
+Segment count: 1
+Segment map: 33
+File name: The New Batman Adventures-s01e21-Mad Love [480p].mkv
+
+Name: Robin's Reckoning Part Two
+Type: Episode
+Season: 2
+Episode: 5
+Source file name: 00032.m2ts
+Duration: 0:22:09
+Size: 832.6 MB
+Segment count: 1
+Segment map: 32
+File name: Batman The Animated Series-s02e05-Robin's Reckoning Part Two [480p].mkv
+
+Name: Robin's Reckoning Part One
+Type: Episode
+Season: 2
+Episode: 4
+Source file name: 00031.m2ts
+Duration: 0:22:14
+Size: 839.0 MB
+Segment count: 1
+Segment map: 31
+File name: Batman The Animated Series-s02e04-Robin's Reckoning Part One [480p].mkv
+
+Name: A First Look at Superman/Batman Apocalypse
+Type: Extra
+Source file name: 00030.m2ts
+Duration: 0:12:12
+Size: 448.6 MB
+Segment count: 1
+Segment map: 30
+File name: A First Look at SupermanBatman Apocalypse-featurette.mkv
+
+Name: Robin's Requiem: The Tale of Jason Todd
+Type: Extra
+Source file name: 00029.m2ts
+Duration: 0:20:58
+Size: 793.2 MB
+Segment count: 1
+Segment map: 29
+File name: Robin's Requiem The Tale of Jason Todd-featurette.mkv
+
+Name: Robin: The Story of Dick Grayson
+Type: Extra
+Source file name: 00024.m2ts
+Duration: 0:24:13
+Size: 866.7 MB
+Segment count: 1
+Segment map: 24
+File name: Robin The Story of Dick Grayson-featurette.mkv
+
+Name: DC Showcase: Jonah Hex
+Type: Extra
+Source file name: 00001.m2ts
+Duration: 0:11:53
+Size: 1.2 GB
+Segment count: 1
+Segment map: 1
+File name: DC Showcase Jonah Hex (2010) [1080p].mkv
+
+Name: Batman: Under the Red Hood Menu Screen
+Type: Extra
+Source file name: 00000.m2ts
+Duration: 0:02:45
+Size: 123.3 MB
+Segment count: 1
+Segment map: 0
+File name: Batman Under the Red Hood Menu Screen-backdrop.mkv
