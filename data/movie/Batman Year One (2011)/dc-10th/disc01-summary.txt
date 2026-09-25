@@ -1,4 +1,83 @@
+Name: Conversations with DC Comics: Featuring the 2011 Batman Creative Team
+OG File Name: Batman Year One_t00.mkv
+File Name: Conversations with DC Comics; Featuring the 2011 Batman Creative Team-featurette.mkv
+
+Name: Cult of the Cat
+OG File Name: Batman Year One_t01.mkv
+File Name: The New Batman Adventures-s01e15-Cult of the Cat [480p].mkv
+
+Name: Catwalk
+OG File Name: Batman Year One_t02.mkv
+File Name: Batman The Animated Series-s03e18-Catwalk [480p].mkv
+
 Name: Batman: Year One
-Type: MainMovie
-Year: 2011
-File name: Batman Year One (2011) [1080p].mkv
+OG File Name: Batman Year One_t03.mkv
+File Name: Batman Year One (2011) [1080p].mkv
+
+Name: Batman: Year One; Chapter One Digital Comic (French)
+OG File Name: Batman Year One_t06.mkv
+File Name: Batman Year One; Chapter One Digital Comic (French)-extra.mkv
+
+Name: Heart of Vengeance: Returning Batman to His Roots
+OG File Name: Batman Year One_t07.mkv
+File Name: Heart of Vengeance; Returning Batman to His Roots-featurette.mkv
+
+Name: Batman: Year One; Chapter One Digital Comic (English)
+OG File Name: Batman Year One_t08.mkv
+File Name: Batman Year One; Chapter One Digital Comic (English)-extra.mkv
+
+Name: Batman: Year One; Chapter One Digital Comic (Portuguese)
+OG File Name: Batman Year One_t09.mkv
+File Name: Batman Year One; Chapter One Digital Comic (Portuguese)-extra.mkv
+
+Name: Batman: Year One; Chapter One Digital Comic (German)
+OG File Name: Batman Year One_t10.mkv
+File Name: Batman Year One; Chapter One Digital Comic (German)-extra.mkv
+
+Name: A Sneak Peek at Green Lantern: Emerald Knights
+OG File Name: Batman Year One_t11.mkv
+File Name: A Sneak Peek at Green Lantern Emerald Knights-featurette.mkv
+
+Name: Batman: Arkham City Trailer (German)
+OG File Name: Batman Year One_t13.mkv
+File Name: Batman Arkham City Trailer (German)-extra.mkv
+
+Name: Young Justice Season One Volume One on DVD
+OG File Name: Batman Year One_t15.mkv
+File Name: Young Justice Season One Volume One on DVD-extra.mkv
+
+Name: Aim High Series Trailer
+OG File Name: Batman Year One_t22.mkv
+File Name: Aim High Series Trailer-extra.mkv
+
+Name: Green Lantern: The Animated Series Trailer
+OG File Name: Batman Year One_t23.mkv
+File Name: Green Lantern The Animated Series Trailer-extra.mkv
+
+Name: M.A.D. Season One Part One on DVD
+OG File Name: Batman Year One_t43.mkv
+File Name: M.A.D. Season One Part One on DVD-extra.mkv
+
+Name: Get Digital DC Comics Now Advertisement
+OG File Name: Batman Year One_t45.mkv
+File Name: Get Digital DC Comics Now Advertisement-extra.mkv
+
+Name: A Sneak Peek at All-Star Superman
+OG File Name: Batman Year One_t47.mkv
+File Name: A Sneak Peek at All-Star Superman-featurette.mkv
+
+Name: A Sneak Peek at Justice League: Doom
+OG File Name: Batman Year One_t48.mkv
+File Name: A Sneak Peek at Justice League Doom-featurette.mkv
+
+Name: DC Showcase: Catwoman
+OG File Name: Batman Year One_t49.mkv
+File Name: DC Showcase Catwoman (2011) [1080p].mkv
+
+Name: Smallville The Complete Series on DVD
+OG File Name: Batman Year One_t50.mkv
+File Name: Smallville The Complete Series on DVD-extra.mkv
+
+Name: Thundercats Trailer
+OG File Name: Batman Year One_t51.mkv
+File Name: Thundercats Trailer-extra.mkv
